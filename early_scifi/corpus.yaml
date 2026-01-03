@@ -1,0 +1,32 @@
+name: "Early Science Fiction"
+
+corpus_context: >
+  137 early science fiction works from Project Gutenberg, primarily works
+  by Jules Verne and H.G. Wells. Includes pioneering novels of scientific
+  romance, adventure, and speculation. Works feature period scientific
+  knowledge and Victorian/Edwardian social context. Plain UTF-8 text format.
+
+scenarios:
+  literary_analysis:
+    name: "Literary Analysis"
+    description: >
+      You are creating questions for students analyzing early science fiction.
+      Questions should test understanding of how authors imagined future
+      technology, the scientific ideas of the period, and themes of progress,
+      exploration, and social change. Focus on textual evidence.
+
+  plot_retrieval:
+    name: "Plot and Setting Retrieval"
+    description: >
+      You are creating questions to test retrieval of specific plot events,
+      technological descriptions, or world-building details from early sci-fi.
+      Questions should target particular inventions, voyages, discoveries,
+      or scientific explanations that appear in the texts.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system actually read these early
+      science fiction works. Questions must have specific, verifiable answers -
+      character names, technical descriptions, plot details, or quoted passages
+      that require the actual text.

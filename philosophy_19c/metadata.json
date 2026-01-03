@@ -1,0 +1,4415 @@
+{
+  "corpus": "philosophy_19c",
+  "source": "gutenberg",
+  "search_strategy": {
+    "topics": [
+      "Philosophy",
+      "Ethics",
+      "Metaphysics",
+      "Political science",
+      "Logic"
+    ],
+    "author_years": [
+      1720,
+      1930
+    ],
+    "languages": [
+      "en"
+    ]
+  },
+  "curated_at": "2025-12-26T19:29:48.346557+00:00",
+  "total_books": 150,
+  "books_evaluated": 229,
+  "acceptance_rate": 0.6550218340611353,
+  "books": [
+    {
+      "id": 5827,
+      "title": "The Problems of Philosophy",
+      "authors": [
+        {
+          "name": "Russell, Bertrand",
+          "birth_year": 1872,
+          "death_year": 1970
+        }
+      ],
+      "subjects": [
+        "Knowledge, Theory of",
+        "Metaphysics",
+        "Philosophy -- Introductions"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Nobel Prizes in Literature",
+        "Philosophy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 9134,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics",
+        "topic:Metaphysics"
+      ],
+      "file": "books/5827.txt"
+    },
+    {
+      "id": 48433,
+      "title": "Kant's Critique of Judgement",
+      "authors": [
+        {
+          "name": "Kant, Immanuel",
+          "birth_year": 1724,
+          "death_year": 1804
+        }
+      ],
+      "subjects": [
+        "Judgment (Aesthetics)",
+        "Judgment (Logic)",
+        "Teleology"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3882,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics",
+        "topic:Logic"
+      ],
+      "file": "books/48433.txt"
+    },
+    {
+      "id": 26163,
+      "title": "Creative Evolution",
+      "authors": [
+        {
+          "name": "Bergson, Henri",
+          "birth_year": 1859,
+          "death_year": 1941
+        }
+      ],
+      "subjects": [
+        "Evolution",
+        "Life",
+        "Metaphysics"
+      ],
+      "bookshelves": [
+        "Bestsellers, American, 1895-1923",
+        "Category: Philosophy & Ethics",
+        "Nobel Prizes in Literature"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3279,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics",
+        "topic:Metaphysics"
+      ],
+      "file": "books/26163.txt"
+    },
+    {
+      "id": 27942,
+      "title": "A System of Logic, Ratiocinative and Inductive",
+      "authors": [
+        {
+          "name": "Mill, John Stuart",
+          "birth_year": 1806,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Knowledge, Theory of",
+        "Logic",
+        "Science -- Methodology"
+      ],
+      "bookshelves": [
+        "Banned Books from Anne Haight's list",
+        "Category: Philosophy & Ethics",
+        "Philosophy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2505,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics",
+        "topic:Logic"
+      ],
+      "file": "books/27942.txt"
+    },
+    {
+      "id": 52821,
+      "title": "Kant's Prolegomena to Any Future Metaphysics",
+      "authors": [
+        {
+          "name": "Kant, Immanuel",
+          "birth_year": 1724,
+          "death_year": 1804
+        }
+      ],
+      "subjects": [
+        "Knowledge, Theory of -- Early works to 1800",
+        "Metaphysics -- Early works to 1800"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2501,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics",
+        "topic:Metaphysics"
+      ],
+      "file": "books/52821.txt"
+    },
+    {
+      "id": 10739,
+      "title": "The Essays of Arthur Schopenhauer; On Human Nature",
+      "authors": [
+        {
+          "name": "Schopenhauer, Arthur",
+          "birth_year": 1788,
+          "death_year": 1860
+        }
+      ],
+      "subjects": [
+        "Ethics",
+        "Political science"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1669,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics",
+        "topic:Political science"
+      ],
+      "file": "books/10739.txt"
+    },
+    {
+      "id": 26495,
+      "title": "A System of Logic, Ratiocinative and Inductive (Vol. 1 of 2)",
+      "authors": [
+        {
+          "name": "Mill, John Stuart",
+          "birth_year": 1806,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Knowledge, Theory of",
+        "Logic",
+        "Science -- Methodology"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Philosophy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1657,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics",
+        "topic:Logic"
+      ],
+      "file": "books/26495.txt"
+    },
+    {
+      "id": 3286,
+      "title": "Selections from the Speeches and Writings of Edmund Burke",
+      "authors": [
+        {
+          "name": "Burke, Edmund",
+          "birth_year": 1729,
+          "death_year": 1797
+        }
+      ],
+      "subjects": [
+        "Burke, Edmund, 1729-1797",
+        "Essays",
+        "Political science",
+        "Speeches, addresses, etc."
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics",
+        "Category: Politics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1492,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics",
+        "topic:Political science"
+      ],
+      "file": "books/3286.txt"
+    },
+    {
+      "id": 28696,
+      "title": "Symbolic Logic",
+      "authors": [
+        {
+          "name": "Carroll, Lewis",
+          "birth_year": 1832,
+          "death_year": 1898
+        }
+      ],
+      "subjects": [
+        "Logic, Symbolic and mathematical"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Philosophy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1350,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics",
+        "topic:Logic"
+      ],
+      "file": "books/28696.txt"
+    },
+    {
+      "id": 10731,
+      "title": "The Essays of Arthur Schopenhauer; the Art of Controversy",
+      "authors": [
+        {
+          "name": "Schopenhauer, Arthur",
+          "birth_year": 1788,
+          "death_year": 1860
+        }
+      ],
+      "subjects": [
+        "Debates and debating",
+        "Logic"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1347,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics",
+        "topic:Logic"
+      ],
+      "file": "books/10731.txt"
+    },
+    {
+      "id": 55108,
+      "title": "The Logic of Hegel",
+      "authors": [
+        {
+          "name": "Hegel, Georg Wilhelm Friedrich",
+          "birth_year": 1770,
+          "death_year": 1831
+        }
+      ],
+      "subjects": [
+        "Logic"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1345,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics",
+        "topic:Logic"
+      ],
+      "file": "books/55108.txt"
+    },
+    {
+      "id": 37090,
+      "title": "Our Knowledge of the External World as a Field for Scientific Method in Philosophy",
+      "authors": [
+        {
+          "name": "Russell, Bertrand",
+          "birth_year": 1872,
+          "death_year": 1970
+        }
+      ],
+      "subjects": [
+        "Knowledge, Theory of",
+        "Logical atomism"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Nobel Prizes in Literature",
+        "Philosophy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1240,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics",
+        "topic:Logic"
+      ],
+      "file": "books/37090.txt"
+    },
+    {
+      "id": 3743,
+      "title": "The Writings of Thomas Paine — Volume 4 (1794-1796): The Age of Reason",
+      "authors": [
+        {
+          "name": "Paine, Thomas",
+          "birth_year": 1737,
+          "death_year": 1809
+        }
+      ],
+      "subjects": [
+        "Philosophy and religion",
+        "Political science",
+        "Rationalism"
+      ],
+      "bookshelves": [
+        "Atheism",
+        "Banned Books from Anne Haight's list",
+        "Category: Essays, Letters & Speeches",
+        "Category: History - Modern (1750+)",
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1114,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics",
+        "topic:Political science"
+      ],
+      "file": "books/3743.txt"
+    },
+    {
+      "id": 18440,
+      "title": "Logic: Deductive and Inductive",
+      "authors": [
+        {
+          "name": "Read, Carveth",
+          "birth_year": 1848,
+          "death_year": 1931
+        }
+      ],
+      "subjects": [
+        "Logic"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Mathematics",
+        "Philosophy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1008,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics",
+        "topic:Logic"
+      ],
+      "file": "books/18440.txt"
+    },
+    {
+      "id": 57359,
+      "title": "The Logic of Chance, 3rd edition: An Essay on the Foundations and Province of the Theory of Probability, With Especial Reference to Its Logical Bearings and Its Application to Moral and Social Science and to Statistics",
+      "authors": [
+        {
+          "name": "Venn, John",
+          "birth_year": 1834,
+          "death_year": 1923
+        }
+      ],
+      "subjects": [
+        "Chance",
+        "Logic, Symbolic and mathematical",
+        "Probabilities",
+        "Science -- Methodology"
+      ],
+      "bookshelves": [
+        "Category: Mathematics",
+        "Category: Philosophy & Ethics",
+        "Category: Research Methods/Statistics/Information Sys",
+        "Mathematics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 917,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics",
+        "topic:Logic"
+      ],
+      "file": "books/57359.txt"
+    },
+    {
+      "id": 3742,
+      "title": "The Writings of Thomas Paine — Volume 2 (1779-1792): The Rights of Man",
+      "authors": [
+        {
+          "name": "Paine, Thomas",
+          "birth_year": 1737,
+          "death_year": 1809
+        }
+      ],
+      "subjects": [
+        "Burke, Edmund, 1729-1797. Reflections on the revolution in France",
+        "France -- History -- Revolution, 1789-1799 -- Causes",
+        "Great Britain -- Politics and government -- 1760-1820",
+        "Political science"
+      ],
+      "bookshelves": [
+        "Banned Books from Anne Haight's list",
+        "Category: Essays, Letters & Speeches",
+        "Category: History - European",
+        "Category: History - Modern (1750+)",
+        "Category: Philosophy & Ethics",
+        "Category: Politics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 859,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics",
+        "topic:Political science"
+      ],
+      "file": "books/3742.txt"
+    },
+    {
+      "id": 15198,
+      "title": "The Works of the Right Honourable Edmund Burke, Vol. 02 (of 12)",
+      "authors": [
+        {
+          "name": "Burke, Edmund",
+          "birth_year": 1729,
+          "death_year": 1797
+        }
+      ],
+      "subjects": [
+        "Great Britain -- Politics and government -- 1760-1820",
+        "Political science -- Early works to 1800"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: History - American",
+        "Category: History - British",
+        "Category: Philosophy & Ethics",
+        "Category: Politics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 823,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics",
+        "topic:Political science"
+      ],
+      "file": "books/15198.txt"
+    },
+    {
+      "id": 4776,
+      "title": "Political Ideals",
+      "authors": [
+        {
+          "name": "Russell, Bertrand",
+          "birth_year": 1872,
+          "death_year": 1970
+        }
+      ],
+      "subjects": [
+        "Economics",
+        "Individualism",
+        "Political science",
+        "Socialism"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Politics",
+        "Nobel Prizes in Literature",
+        "Philosophy",
+        "Politics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 703,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics",
+        "topic:Political science"
+      ],
+      "file": "books/4776.txt"
+    },
+    {
+      "id": 1998,
+      "title": "Thus Spake Zarathustra: A Book for All and None",
+      "authors": [
+        {
+          "name": "Nietzsche, Friedrich Wilhelm",
+          "birth_year": 1844,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Philosophy, German",
+        "Superman (Philosophical concept)"
+      ],
+      "bookshelves": [
+        "Category: Classics of Literature",
+        "Category: German Literature",
+        "Category: Philosophy & Ethics",
+        "Philosophy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 26056,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/1998.txt"
+    },
+    {
+      "id": 205,
+      "title": "Walden, and On The Duty Of Civil Disobedience",
+      "authors": [
+        {
+          "name": "Thoreau, Henry David",
+          "birth_year": 1817,
+          "death_year": 1862
+        }
+      ],
+      "subjects": [
+        "Authors, American -- 19th century -- Biography",
+        "Civil disobedience",
+        "Government, Resistance to",
+        "Natural history -- Massachusetts -- Walden Woods",
+        "Solitude",
+        "Thoreau, Henry David, 1817-1862 -- Homes and haunts -- Massachusetts -- Walden Woods",
+        "Walden Woods (Mass.) -- Social life and customs",
+        "Wilderness areas -- Massachusetts -- Walden Woods"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 23641,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/205.txt"
+    },
+    {
+      "id": 4363,
+      "title": "Beyond Good and Evil",
+      "authors": [
+        {
+          "name": "Nietzsche, Friedrich Wilhelm",
+          "birth_year": 1844,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Ethics",
+        "Philosophy, German"
+      ],
+      "bookshelves": [
+        "Atheism",
+        "Category: Philosophy & Ethics",
+        "Philosophy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 20511,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/4363.txt"
+    },
+    {
+      "id": 34901,
+      "title": "On Liberty",
+      "authors": [
+        {
+          "name": "Mill, John Stuart",
+          "birth_year": 1806,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Liberty"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Philosophy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 17909,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/34901.txt"
+    },
+    {
+      "id": 56517,
+      "title": "The Philosophy of Auguste Comte",
+      "authors": [
+        {
+          "name": "Lévy-Bruhl, Lucien",
+          "birth_year": 1857,
+          "death_year": 1939
+        }
+      ],
+      "subjects": [
+        "Comte, Auguste, 1798-1857"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 14368,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/56517.txt"
+    },
+    {
+      "id": 4280,
+      "title": "The Critique of Pure Reason",
+      "authors": [
+        {
+          "name": "Kant, Immanuel",
+          "birth_year": 1724,
+          "death_year": 1804
+        }
+      ],
+      "subjects": [
+        "Causation",
+        "Knowledge, Theory of",
+        "Philosophy, German",
+        "Reason"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Philosophy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 13674,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/4280.txt"
+    },
+    {
+      "id": 52319,
+      "title": "The Genealogy of Morals: The Complete Works, Volume Thirteen, edited by Dr. Oscar Levy.",
+      "authors": [
+        {
+          "name": "Nietzsche, Friedrich Wilhelm",
+          "birth_year": 1844,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Ethics"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 12305,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/52319.txt"
+    },
+    {
+      "id": 29433,
+      "title": "Nature",
+      "authors": [
+        {
+          "name": "Emerson, Ralph Waldo",
+          "birth_year": 1803,
+          "death_year": 1882
+        }
+      ],
+      "subjects": [
+        "Nature",
+        "Philosophy, American"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 10178,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/29433.txt"
+    },
+    {
+      "id": 1946,
+      "title": "On War",
+      "authors": [
+        {
+          "name": "Clausewitz, Carl von",
+          "birth_year": 1780,
+          "death_year": 1831
+        }
+      ],
+      "subjects": [
+        "Military art and science",
+        "War"
+      ],
+      "bookshelves": [
+        "Category: History - Warfare",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 9890,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/1946.txt"
+    },
+    {
+      "id": 16643,
+      "title": "Essays by Ralph Waldo Emerson",
+      "authors": [
+        {
+          "name": "Emerson, Ralph Waldo",
+          "birth_year": 1803,
+          "death_year": 1882
+        }
+      ],
+      "subjects": [
+        "Essays"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics",
+        "Harvard Classics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 9230,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/16643.txt"
+    },
+    {
+      "id": 52263,
+      "title": "The Twilight of the Idols; or, How to Philosophize with the Hammer. The Antichrist: Complete Works, Volume Sixteen",
+      "authors": [
+        {
+          "name": "Nietzsche, Friedrich Wilhelm",
+          "birth_year": 1844,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Philosophy"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 8707,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/52263.txt"
+    },
+    {
+      "id": 61,
+      "title": "The Communist Manifesto",
+      "authors": [
+        {
+          "name": "Marx, Karl",
+          "birth_year": 1818,
+          "death_year": 1883
+        },
+        {
+          "name": "Engels, Friedrich",
+          "birth_year": 1820,
+          "death_year": 1895
+        }
+      ],
+      "subjects": [
+        "Communism",
+        "Socialism"
+      ],
+      "bookshelves": [
+        "Banned Books from Anne Haight's list",
+        "Category: Economics",
+        "Category: Essays, Letters & Speeches",
+        "Category: History - Modern (1750+)",
+        "Category: Philosophy & Ethics",
+        "Category: Politics",
+        "Philosophy",
+        "Politics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 8561,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/61.txt"
+    },
+    {
+      "id": 51356,
+      "title": "The Birth of Tragedy; or, Hellenism and Pessimism",
+      "authors": [
+        {
+          "name": "Nietzsche, Friedrich Wilhelm",
+          "birth_year": 1844,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Aesthetics",
+        "Greek drama (Tragedy) -- History and criticism -- Theory, etc.",
+        "Music -- Philosophy and aesthetics",
+        "Mythology, Greek, in literature",
+        "Tragedy",
+        "Tragic, The"
+      ],
+      "bookshelves": [
+        "Category: Classics of Literature",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 7304,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/51356.txt"
+    },
+    {
+      "id": 26659,
+      "title": "The Will to Believe, and Other Essays in Popular Philosophy",
+      "authors": [
+        {
+          "name": "James, William",
+          "birth_year": 1842,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Belief and doubt",
+        "Essays",
+        "Philosophy"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 6817,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/26659.txt"
+    },
+    {
+      "id": 45315,
+      "title": "The Marriage of Heaven and Hell",
+      "authors": [
+        {
+          "name": "Blake, William",
+          "birth_year": 1757,
+          "death_year": 1827
+        }
+      ],
+      "subjects": [
+        "Heaven",
+        "Hell",
+        "Mysticism"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Philosophy & Ethics",
+        "Category: Poetry"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 6741,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/45315.txt"
+    },
+    {
+      "id": 71,
+      "title": "On the Duty of Civil Disobedience",
+      "authors": [
+        {
+          "name": "Thoreau, Henry David",
+          "birth_year": 1817,
+          "death_year": 1862
+        }
+      ],
+      "subjects": [
+        "Civil disobedience",
+        "Government, Resistance to"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics",
+        "Category: Politics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 6691,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/71.txt"
+    },
+    {
+      "id": 50922,
+      "title": "Perpetual Peace: A Philosophical Essay",
+      "authors": [
+        {
+          "name": "Kant, Immanuel",
+          "birth_year": 1724,
+          "death_year": 1804
+        }
+      ],
+      "subjects": [
+        "Peace"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: History - Early Modern (c. 1450-1750)",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 6691,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/50922.txt"
+    },
+    {
+      "id": 11224,
+      "title": "Utilitarianism",
+      "authors": [
+        {
+          "name": "Mill, John Stuart",
+          "birth_year": 1806,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Utilitarianism"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Philosophy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 6176,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/11224.txt"
+    },
+    {
+      "id": 52190,
+      "title": "Ecce Homo: Complete Works, Volume Seventeen",
+      "authors": [
+        {
+          "name": "Nietzsche, Friedrich Wilhelm",
+          "birth_year": 1844,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Nietzsche, Friedrich Wilhelm, 1844-1900",
+        "Philosophers -- Germany -- Biography"
+      ],
+      "bookshelves": [
+        "Category: Biographies",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 5970,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/52190.txt"
+    },
+    {
+      "id": 19322,
+      "title": "The Antichrist",
+      "authors": [
+        {
+          "name": "Nietzsche, Friedrich Wilhelm",
+          "birth_year": 1844,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Christianity -- Controversial literature"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality",
+        "Philosophy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 5610,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/19322.txt"
+    },
+    {
+      "id": 816,
+      "title": "Democracy in America — Volume 2",
+      "authors": [
+        {
+          "name": "Tocqueville, Alexis de",
+          "birth_year": 1805,
+          "death_year": 1859
+        }
+      ],
+      "subjects": [
+        "Democracy -- United States",
+        "United States -- Politics and government",
+        "United States -- Social conditions"
+      ],
+      "bookshelves": [
+        "Category: History - American",
+        "Category: Philosophy & Ethics",
+        "Category: Politics",
+        "Category: Sociology"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 5480,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/816.txt"
+    },
+    {
+      "id": 57628,
+      "title": "The Principles of Psychology, Volume 1 (of 2)",
+      "authors": [
+        {
+          "name": "James, William",
+          "birth_year": 1842,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Psychology"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Psychiatry/Psychology"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 5422,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/57628.txt"
+    },
+    {
+      "id": 37423,
+      "title": "How We Think",
+      "authors": [
+        {
+          "name": "Dewey, John",
+          "birth_year": 1859,
+          "death_year": 1952
+        }
+      ],
+      "subjects": [
+        "Educational psychology",
+        "Thought and thinking"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Teaching & Education"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 5337,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/37423.txt"
+    },
+    {
+      "id": 4507,
+      "title": "As a man thinketh",
+      "authors": [
+        {
+          "name": "Allen, James",
+          "birth_year": 1864,
+          "death_year": 1912
+        }
+      ],
+      "subjects": [
+        "Conduct of life",
+        "New Thought"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4994,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/4507.txt"
+    },
+    {
+      "id": 38145,
+      "title": "Human, All Too Human: A Book for Free Spirits",
+      "authors": [
+        {
+          "name": "Nietzsche, Friedrich Wilhelm",
+          "birth_year": 1844,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Human beings"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4871,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/38145.txt"
+    },
+    {
+      "id": 10715,
+      "title": "The Essays of Arthur Schopenhauer; Counsels and Maxims",
+      "authors": [
+        {
+          "name": "Schopenhauer, Arthur",
+          "birth_year": 1788,
+          "death_year": 1860
+        }
+      ],
+      "subjects": [
+        "Conduct of life",
+        "Maxims"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4646,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/10715.txt"
+    },
+    {
+      "id": 10732,
+      "title": "The Essays of Arthur Schopenhauer; Studies in Pessimism",
+      "authors": [
+        {
+          "name": "Schopenhauer, Arthur",
+          "birth_year": 1788,
+          "death_year": 1860
+        }
+      ],
+      "subjects": [
+        "Pessimism"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4556,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/10732.txt"
+    },
+    {
+      "id": 16833,
+      "title": "Auguste Comte and Positivism",
+      "authors": [
+        {
+          "name": "Mill, John Stuart",
+          "birth_year": 1806,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Comte, Auguste, 1798-1857",
+        "Positivism"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Philosophy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4545,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/16833.txt"
+    },
+    {
+      "id": 8578,
+      "title": "The Grand Inquisitor",
+      "authors": [
+        {
+          "name": "Dostoyevsky, Fyodor",
+          "birth_year": 1821,
+          "death_year": 1881
+        }
+      ],
+      "subjects": [
+        "Christian fiction",
+        "Jesus Christ -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Plays/Films/Dramas",
+        "Category: Religion/Spirituality",
+        "Category: Russian Literature",
+        "Racism"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4471,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/8578.txt"
+    },
+    {
+      "id": 5116,
+      "title": "Pragmatism: A New Name for Some Old Ways of Thinking",
+      "authors": [
+        {
+          "name": "James, William",
+          "birth_year": 1842,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Pragmatism"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4422,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/5116.txt"
+    },
+    {
+      "id": 852,
+      "title": "Democracy and Education: An Introduction to the Philosophy of Education",
+      "authors": [
+        {
+          "name": "Dewey, John",
+          "birth_year": 1859,
+          "death_year": 1952
+        }
+      ],
+      "subjects": [
+        "Education -- Philosophy",
+        "Education -- Social aspects"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Teaching & Education",
+        "Philosophy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4282,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/852.txt"
+    },
+    {
+      "id": 10741,
+      "title": "The Essays of Arthur Schopenhauer: the Wisdom of Life",
+      "authors": [
+        {
+          "name": "Schopenhauer, Arthur",
+          "birth_year": 1788,
+          "death_year": 1860
+        }
+      ],
+      "subjects": [
+        "Conduct of life",
+        "Maxims"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4226,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/10741.txt"
+    },
+    {
+      "id": 64908,
+      "title": "What Is Art?",
+      "authors": [
+        {
+          "name": "Tolstoy, Leo, graf",
+          "birth_year": 1828,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Arts -- Philosophy",
+        "Arts and morals"
+      ],
+      "bookshelves": [
+        "Category: Art",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4215,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/64908.txt"
+    },
+    {
+      "id": 53799,
+      "title": "A General View of Positivism: Or, Summary exposition of the System of Thought and Life",
+      "authors": [
+        {
+          "name": "Comte, Auguste",
+          "birth_year": 1798,
+          "death_year": 1857
+        }
+      ],
+      "subjects": [
+        "Positivism"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Sociology"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4141,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/53799.txt"
+    },
+    {
+      "id": 27083,
+      "title": "The Subjection of Women",
+      "authors": [
+        {
+          "name": "Mill, John Stuart",
+          "birth_year": 1806,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Women -- Social and moral questions",
+        "Women's rights"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: Gender & Sexuality Studies",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4124,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/27083.txt"
+    },
+    {
+      "id": 11937,
+      "title": "The symbolism of Freemasonry : $b Illustrating and explaining its science and philosophy, its legends, myths and symbols",
+      "authors": [
+        {
+          "name": "Mackey, Albert Gallatin",
+          "birth_year": 1807,
+          "death_year": 1881
+        }
+      ],
+      "subjects": [
+        "Freemasonry -- Symbolism"
+      ],
+      "bookshelves": [
+        "Category: History - Other",
+        "Category: Mythology, Legends & Folklore",
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4090,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/11937.txt"
+    },
+    {
+      "id": 5682,
+      "title": "Fundamental Principles of the Metaphysic of Morals",
+      "authors": [
+        {
+          "name": "Kant, Immanuel",
+          "birth_year": 1724,
+          "death_year": 1804
+        }
+      ],
+      "subjects": [
+        "Ethics",
+        "Philosophy, German"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3944,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/5682.txt"
+    },
+    {
+      "id": 38427,
+      "title": "The World as Will and Idea (Vol. 1 of 3)",
+      "authors": [
+        {
+          "name": "Schopenhauer, Arthur",
+          "birth_year": 1788,
+          "death_year": 1860
+        }
+      ],
+      "subjects": [
+        "Idea (Philosophy)",
+        "Knowledge, Theory of",
+        "Philosophy",
+        "Will"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3915,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/38427.txt"
+    },
+    {
+      "id": 1091,
+      "title": "On Heroes, Hero-Worship, and the Heroic in History",
+      "authors": [
+        {
+          "name": "Carlyle, Thomas",
+          "birth_year": 1795,
+          "death_year": 1881
+        }
+      ],
+      "subjects": [
+        "Hero worship",
+        "Heroes"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: History - Other",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3846,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/1091.txt"
+    },
+    {
+      "id": 3420,
+      "title": "A Vindication of the Rights of Woman: With Strictures on Political and Moral Subjects",
+      "authors": [
+        {
+          "name": "Wollstonecraft, Mary",
+          "birth_year": 1759,
+          "death_year": 1797
+        }
+      ],
+      "subjects": [
+        "Feminism",
+        "Women -- Education -- Great Britain",
+        "Women -- History -- 19th century",
+        "Women's rights -- Great Britain"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Gender & Sexuality Studies",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3783,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/3420.txt"
+    },
+    {
+      "id": 11945,
+      "title": "Essays of Schopenhauer",
+      "authors": [
+        {
+          "name": "Schopenhauer, Arthur",
+          "birth_year": 1788,
+          "death_year": 1860
+        }
+      ],
+      "subjects": [
+        "Philosophy, German"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3749,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/11945.txt"
+    },
+    {
+      "id": 50572,
+      "title": "Goethe's Theory of Colours",
+      "authors": [
+        {
+          "name": "Goethe, Johann Wolfgang von",
+          "birth_year": 1749,
+          "death_year": 1832
+        }
+      ],
+      "subjects": [
+        "Color"
+      ],
+      "bookshelves": [
+        "Category: Art",
+        "Category: Philosophy & Ethics",
+        "Category: Science - Physics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3736,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/50572.txt"
+    },
+    {
+      "id": 5683,
+      "title": "The Critique of Practical Reason",
+      "authors": [
+        {
+          "name": "Kant, Immanuel",
+          "birth_year": 1724,
+          "death_year": 1804
+        }
+      ],
+      "subjects": [
+        "Ethics",
+        "Philosophy, German",
+        "Practical reason"
+      ],
+      "bookshelves": [
+        "Banned Books from Anne Haight's list",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3692,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/5683.txt"
+    },
+    {
+      "id": 52915,
+      "title": "The Will to Power: An Attempted Transvaluation of All Values. Book III and IV",
+      "authors": [
+        {
+          "name": "Nietzsche, Friedrich Wilhelm",
+          "birth_year": 1844,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Nihilism (Philosophy)",
+        "Power (Philosophy)",
+        "Values"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3519,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/52915.txt"
+    },
+    {
+      "id": 5669,
+      "title": "Considerations on Representative Government",
+      "authors": [
+        {
+          "name": "Mill, John Stuart",
+          "birth_year": 1806,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Representative government and representation"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Politics",
+        "Philosophy",
+        "Politics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3448,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/5669.txt"
+    },
+    {
+      "id": 12096,
+      "title": "Bushido, the Soul of Japan",
+      "authors": [
+        {
+          "name": "Nitobe, Inazo",
+          "birth_year": 1862,
+          "death_year": 1933
+        }
+      ],
+      "subjects": [
+        "Bushido",
+        "Ethics -- Japan",
+        "Japan -- Civilization",
+        "Japan -- Social life and customs",
+        "Philosophy, Japanese",
+        "Samurai -- History"
+      ],
+      "bookshelves": [
+        "Category: History - Other",
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3410,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/12096.txt"
+    },
+    {
+      "id": 72344,
+      "title": "The decline of the West : $b Volume 1, Form and actuality",
+      "authors": [
+        {
+          "name": "Spengler, Oswald",
+          "birth_year": 1880,
+          "death_year": 1936
+        }
+      ],
+      "subjects": [
+        "Civilization -- History"
+      ],
+      "bookshelves": [
+        "Category: History - Other",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3233,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/72344.txt"
+    },
+    {
+      "id": 43302,
+      "title": "\"The Kingdom of God Is Within You\": Christianity Not as a Mystic Religion but as a New Theory of Life",
+      "authors": [
+        {
+          "name": "Tolstoy, Leo, graf",
+          "birth_year": 1828,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Christianity -- Controversial literature",
+        "Christianity -- Essence, genius, nature",
+        "Government, Resistance to -- Religious aspects -- Christianity",
+        "Nonviolence -- Religious aspects -- Christianity"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3140,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/43302.txt"
+    },
+    {
+      "id": 27755,
+      "title": "Hidden Symbolism of Alchemy and the Occult Arts",
+      "authors": [
+        {
+          "name": "Silberer, Herbert",
+          "birth_year": 1882,
+          "death_year": 1922
+        }
+      ],
+      "subjects": [
+        "Alchemy",
+        "Society of Rosicrucians",
+        "Symbolism (Psychology)"
+      ],
+      "bookshelves": [
+        "Category: Mythology, Legends & Folklore",
+        "Category: Philosophy & Ethics",
+        "Category: Psychiatry/Psychology",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3109,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/27755.txt"
+    },
+    {
+      "id": 14209,
+      "title": "The Kybalion: A Study of The Hermetic Philosophy of Ancient Egypt and Greece",
+      "authors": [
+        {
+          "name": "Three Initiates",
+          "birth_year": 1862,
+          "death_year": 1932
+        }
+      ],
+      "subjects": [
+        "Hermetism",
+        "Occultism"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality",
+        "Egypt"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3007,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/14209.txt"
+    },
+    {
+      "id": 1717,
+      "title": "What's Wrong with the World",
+      "authors": [
+        {
+          "name": "Chesterton, G. K. (Gilbert Keith)",
+          "birth_year": 1874,
+          "death_year": 1936
+        }
+      ],
+      "subjects": [
+        "Social problems"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2935,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/1717.txt"
+    },
+    {
+      "id": 621,
+      "title": "The Varieties of Religious Experience: A Study in Human Nature",
+      "authors": [
+        {
+          "name": "James, William",
+          "birth_year": 1842,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Conversion",
+        "Experience (Religion)",
+        "Philosophy and religion",
+        "Psychology, Religious",
+        "Religion"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Psychiatry/Psychology",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2909,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/621.txt"
+    },
+    {
+      "id": 35110,
+      "title": "An Essay on the Development of Christian Doctrine",
+      "authors": [
+        {
+          "name": "Newman, John Henry",
+          "birth_year": 1801,
+          "death_year": 1890
+        }
+      ],
+      "subjects": [
+        "Catholic Church -- Doctrines",
+        "Dogma, Development of"
+      ],
+      "bookshelves": [
+        "Category: History - Religious",
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2892,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/35110.txt"
+    },
+    {
+      "id": 24526,
+      "title": "The Idea of a University Defined and Illustrated: In Nine Discourses Delivered to the Catholics of Dublin",
+      "authors": [
+        {
+          "name": "Newman, John Henry",
+          "birth_year": 1801,
+          "death_year": 1890
+        }
+      ],
+      "subjects": [
+        "Education, Higher",
+        "Universities and colleges"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality",
+        "Category: Teaching & Education"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2885,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/24526.txt"
+    },
+    {
+      "id": 25012,
+      "title": "The Case of Wagner, Nietzsche Contra Wagner, and Selected Aphorisms.",
+      "authors": [
+        {
+          "name": "Nietzsche, Friedrich Wilhelm",
+          "birth_year": 1844,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Essays",
+        "Literature -- Collections",
+        "Music -- History and criticism",
+        "Wagner, Richard, 1813-1883"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics",
+        "Philosophy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2774,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/25012.txt"
+    },
+    {
+      "id": 52914,
+      "title": "The Will to Power: An Attempted Transvaluation of All Values. Book I and II",
+      "authors": [
+        {
+          "name": "Nietzsche, Friedrich Wilhelm",
+          "birth_year": 1844,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Nihilism (Philosophy)",
+        "Power (Philosophy)",
+        "Values"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2729,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/52914.txt"
+    },
+    {
+      "id": 37841,
+      "title": "Human, All-Too-Human: A Book for Free Spirits, Part 2",
+      "authors": [
+        {
+          "name": "Nietzsche, Friedrich Wilhelm",
+          "birth_year": 1844,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Human beings"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2690,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/37841.txt"
+    },
+    {
+      "id": 52881,
+      "title": "The Joyful Wisdom (\"La Gaya Scienza\")",
+      "authors": [
+        {
+          "name": "Nietzsche, Friedrich Wilhelm",
+          "birth_year": 1844,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Philosophy"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2677,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/52881.txt"
+    },
+    {
+      "id": 39955,
+      "title": "The Dawn of Day",
+      "authors": [
+        {
+          "name": "Nietzsche, Friedrich Wilhelm",
+          "birth_year": 1844,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Ethics",
+        "Prejudices"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2672,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/39955.txt"
+    },
+    {
+      "id": 54488,
+      "title": "The Secret Doctrine, Vol. 2 of 4: The Synthesis of Science, Religion, and Philosophy",
+      "authors": [
+        {
+          "name": "Blavatsky, H. P. (Helena Petrovna)",
+          "birth_year": 1831,
+          "death_year": 1891
+        }
+      ],
+      "subjects": [
+        "Theosophy"
+      ],
+      "bookshelves": [
+        "Category: Mythology, Legends & Folklore",
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2656,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/54488.txt"
+    },
+    {
+      "id": 54824,
+      "title": "The Secret Doctrine, Vol. 1 of 4: The Synthesis of Science, Religion, and Philosophy",
+      "authors": [
+        {
+          "name": "Blavatsky, H. P. (Helena Petrovna)",
+          "birth_year": 1831,
+          "death_year": 1891
+        }
+      ],
+      "subjects": [
+        "Theosophy"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2642,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/54824.txt"
+    },
+    {
+      "id": 769,
+      "title": "The Book of Tea",
+      "authors": [
+        {
+          "name": "Okakura, Kakuzo",
+          "birth_year": 1862,
+          "death_year": 1913
+        }
+      ],
+      "subjects": [
+        "Japan -- Social life and customs",
+        "Japanese tea ceremony",
+        "Tea"
+      ],
+      "bookshelves": [
+        "Category: Art",
+        "Category: History - Other",
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2586,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/769.txt"
+    },
+    {
+      "id": 31193,
+      "title": "Manifesto of the Communist Party",
+      "authors": [
+        {
+          "name": "Marx, Karl",
+          "birth_year": 1818,
+          "death_year": 1883
+        },
+        {
+          "name": "Engels, Friedrich",
+          "birth_year": 1820,
+          "death_year": 1895
+        }
+      ],
+      "subjects": [
+        "Communism",
+        "Socialism"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: History - Modern (1750+)",
+        "Category: Philosophy & Ethics",
+        "Category: Politics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2558,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/31193.txt"
+    },
+    {
+      "id": 15000,
+      "title": "The Life of Reason: The Phases of Human Progress",
+      "authors": [
+        {
+          "name": "Santayana, George",
+          "birth_year": 1863,
+          "death_year": 1952
+        }
+      ],
+      "subjects": [
+        "Philosophy"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2549,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/15000.txt"
+    },
+    {
+      "id": 2944,
+      "title": "Essays — First Series",
+      "authors": [
+        {
+          "name": "Emerson, Ralph Waldo",
+          "birth_year": 1803,
+          "death_year": 1882
+        }
+      ],
+      "subjects": [
+        "American essays -- 19th century"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics",
+        "Harvard Classics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2527,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/2944.txt"
+    },
+    {
+      "id": 3328,
+      "title": "Man and Superman: A Comedy and a Philosophy",
+      "authors": [
+        {
+          "name": "Shaw, Bernard",
+          "birth_year": 1856,
+          "death_year": 1950
+        }
+      ],
+      "subjects": [
+        "English drama",
+        "Man-woman relationships -- Drama"
+      ],
+      "bookshelves": [
+        "Banned Books from Anne Haight's list",
+        "Category: British Literature",
+        "Category: Humour",
+        "Category: Philosophy & Ethics",
+        "Category: Plays/Films/Dramas",
+        "Nobel Prizes in Literature"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2459,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/3328.txt"
+    },
+    {
+      "id": 1051,
+      "title": "Sartor Resartus: The Life and Opinions of Herr Teufelsdröckh",
+      "authors": [
+        {
+          "name": "Carlyle, Thomas",
+          "birth_year": 1795,
+          "death_year": 1881
+        }
+      ],
+      "subjects": [
+        "Clothing and dress -- Fiction",
+        "Conduct of life -- Fiction",
+        "Didactic fiction",
+        "Germany -- Fiction",
+        "Humorous stories",
+        "Philosophers -- Fiction",
+        "Satire"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Humour",
+        "Category: Novels",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2424,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/1051.txt"
+    },
+    {
+      "id": 52124,
+      "title": "The Joyful Wisdom (\"La Gaya Scienza\"): Complete Works, Volume Ten",
+      "authors": [
+        {
+          "name": "Nietzsche, Friedrich Wilhelm",
+          "birth_year": 1844,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Philosophy"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2376,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/52124.txt"
+    },
+    {
+      "id": 4352,
+      "title": "Laughter: An Essay on the Meaning of the Comic",
+      "authors": [
+        {
+          "name": "Bergson, Henri",
+          "birth_year": 1859,
+          "death_year": 1941
+        }
+      ],
+      "subjects": [
+        "Comedy",
+        "Laughter",
+        "Philosophy, French"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics",
+        "Nobel Prizes in Literature",
+        "Philosophy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2371,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/4352.txt"
+    },
+    {
+      "id": 35898,
+      "title": "The Seven Lamps of Architecture",
+      "authors": [
+        {
+          "name": "Ruskin, John",
+          "birth_year": 1819,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Architecture"
+      ],
+      "bookshelves": [
+        "Category: Architecture",
+        "Category: Art",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2358,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/35898.txt"
+    },
+    {
+      "id": 33111,
+      "title": "The origin of the family, private property, and the state",
+      "authors": [
+        {
+          "name": "Engels, Friedrich",
+          "birth_year": 1820,
+          "death_year": 1895
+        }
+      ],
+      "subjects": [
+        "Families -- History",
+        "Morgan, Lewis Henry, 1818-1881. Ancient society",
+        "Prehistoric peoples",
+        "Property -- History",
+        "State, The"
+      ],
+      "bookshelves": [
+        "Category: History - Other",
+        "Category: Philosophy & Ethics",
+        "Category: Politics",
+        "Category: Sociology"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2260,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/33111.txt"
+    },
+    {
+      "id": 6798,
+      "title": "Aesthetical Essays of Friedrich Schiller",
+      "authors": [
+        {
+          "name": "Schiller, Friedrich",
+          "birth_year": 1759,
+          "death_year": 1805
+        }
+      ],
+      "subjects": [
+        "Aesthetics"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics",
+        "Philosophy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2208,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/6798.txt"
+    },
+    {
+      "id": 56852,
+      "title": "Time and Free Will: An Essay on the Immediate Data of Consciousness",
+      "authors": [
+        {
+          "name": "Bergson, Henri",
+          "birth_year": 1859,
+          "death_year": 1941
+        }
+      ],
+      "subjects": [
+        "Consciousness",
+        "Free will and determinism",
+        "Space and time"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Nobel Prizes in Literature"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2182,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/56852.txt"
+    },
+    {
+      "id": 44929,
+      "title": "The Basis of Morality",
+      "authors": [
+        {
+          "name": "Schopenhauer, Arthur",
+          "birth_year": 1788,
+          "death_year": 1860
+        }
+      ],
+      "subjects": [
+        "Ethics"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2173,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/44929.txt"
+    },
+    {
+      "id": 70,
+      "title": "What Is Man? and Other Essays",
+      "authors": [
+        {
+          "name": "Twain, Mark",
+          "birth_year": 1835,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "American essays"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2167,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/70.txt"
+    },
+    {
+      "id": 40868,
+      "title": "The World as Will and Idea (Vol. 3 of 3)",
+      "authors": [
+        {
+          "name": "Schopenhauer, Arthur",
+          "birth_year": 1788,
+          "death_year": 1860
+        }
+      ],
+      "subjects": [
+        "Idea (Philosophy)",
+        "Knowledge, Theory of",
+        "Philosophy",
+        "Will"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2163,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/40868.txt"
+    },
+    {
+      "id": 53430,
+      "title": "Principia Ethica",
+      "authors": [
+        {
+          "name": "Moore, G. E. (George Edward)",
+          "birth_year": 1873,
+          "death_year": 1958
+        }
+      ],
+      "subjects": [
+        "Ethics"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2134,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/53430.txt"
+    },
+    {
+      "id": 56880,
+      "title": "The Secret Doctrine, Vol. 3 of 4: The Synthesis of Science, Religion, and Philosophy",
+      "authors": [
+        {
+          "name": "Blavatsky, H. P. (Helena Petrovna)",
+          "birth_year": 1831,
+          "death_year": 1891
+        }
+      ],
+      "subjects": [
+        "Theosophy"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2117,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/56880.txt"
+    },
+    {
+      "id": 53720,
+      "title": "On Love",
+      "authors": [
+        {
+          "name": "Stendhal",
+          "birth_year": 1783,
+          "death_year": 1842
+        }
+      ],
+      "subjects": [
+        "Love"
+      ],
+      "bookshelves": [
+        "Category: Gender & Sexuality Studies",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2073,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/53720.txt"
+    },
+    {
+      "id": 46423,
+      "title": "A Contribution to the Critique of Political Economy",
+      "authors": [
+        {
+          "name": "Marx, Karl",
+          "birth_year": 1818,
+          "death_year": 1883
+        }
+      ],
+      "subjects": [
+        "Economics",
+        "Marxian economics"
+      ],
+      "bookshelves": [
+        "Category: Economics",
+        "Category: Philosophy & Ethics",
+        "Category: Politics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2054,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/46423.txt"
+    },
+    {
+      "id": 16470,
+      "title": "The Profits of Religion, Fifth Edition",
+      "authors": [
+        {
+          "name": "Sinclair, Upton",
+          "birth_year": 1878,
+          "death_year": 1968
+        }
+      ],
+      "subjects": [
+        "Christianity -- Controversial literature"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality",
+        "Category: Sociology"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2015,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/16470.txt"
+    },
+    {
+      "id": 70458,
+      "title": "Primitive culture, vol. 1 (of 2) : $b Researches into the development of mythology, philosophy, religion, language, art, and custom",
+      "authors": [
+        {
+          "name": "Tylor, Edward B. (Edward Burnett)",
+          "birth_year": 1832,
+          "death_year": 1917
+        }
+      ],
+      "subjects": [
+        "Animism",
+        "Civilization -- History",
+        "Ethnology",
+        "Language and languages",
+        "Mythology",
+        "Prehistoric peoples",
+        "Religion",
+        "Social evolution"
+      ],
+      "bookshelves": [
+        "Category: Archaeology & Anthropology",
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2002,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/70458.txt"
+    },
+    {
+      "id": 5428,
+      "title": "A Defence of Poetry and Other Essays",
+      "authors": [
+        {
+          "name": "Shelley, Percy Bysshe",
+          "birth_year": 1792,
+          "death_year": 1822
+        }
+      ],
+      "subjects": [
+        "English essays",
+        "Poetry"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1995,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/5428.txt"
+    },
+    {
+      "id": 34341,
+      "title": "The Japanese Spirit",
+      "authors": [
+        {
+          "name": "Okakura, Yoshisaburo",
+          "birth_year": 1868,
+          "death_year": 1936
+        }
+      ],
+      "subjects": [
+        "Ethics -- Japan",
+        "Japan -- Civilization"
+      ],
+      "bookshelves": [
+        "Category: Archaeology & Anthropology",
+        "Category: History - Other",
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1986,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/34341.txt"
+    },
+    {
+      "id": 64037,
+      "title": "The Life of Jesus Critically Examined: (4th ed.)",
+      "authors": [
+        {
+          "name": "Strauss, David Friedrich",
+          "birth_year": 1808,
+          "death_year": 1874
+        }
+      ],
+      "subjects": [
+        "Jesus Christ -- Biography",
+        "Jesus Christ -- History of doctrines"
+      ],
+      "bookshelves": [
+        "Category: History - Religious",
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1986,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/64037.txt"
+    },
+    {
+      "id": 51935,
+      "title": "Human, All-Too-Human: A Book for Free Spirits, Part 1: Complete Works, Volume Six",
+      "authors": [
+        {
+          "name": "Nietzsche, Friedrich Wilhelm",
+          "birth_year": 1844,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Human beings"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1978,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/51935.txt"
+    },
+    {
+      "id": 55618,
+      "title": "The Key to Theosophy: Being a Clear Exposition, in the Form of Question and Answer, of the Ethics, Science and Philosophy for the Study of Which the Theosophical Society Has Been Founded",
+      "authors": [
+        {
+          "name": "Blavatsky, H. P. (Helena Petrovna)",
+          "birth_year": 1831,
+          "death_year": 1891
+        }
+      ],
+      "subjects": [
+        "Theosophy"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1916,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/55618.txt"
+    },
+    {
+      "id": 26159,
+      "title": "Past and Present: Thomas Carlyle's Collected Works, Vol. XIII.",
+      "authors": [
+        {
+          "name": "Carlyle, Thomas",
+          "birth_year": 1795,
+          "death_year": 1881
+        }
+      ],
+      "subjects": [
+        "Great Britain -- Social conditions -- 19th century",
+        "Social problems"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics",
+        "Category: Politics",
+        "Category: Sociology"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1888,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/26159.txt"
+    },
+    {
+      "id": 25447,
+      "title": "Mysticism and Logic and Other Essays",
+      "authors": [
+        {
+          "name": "Russell, Bertrand",
+          "birth_year": 1872,
+          "death_year": 1970
+        }
+      ],
+      "subjects": [
+        "Mathematics",
+        "Philosophy",
+        "Science"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics",
+        "Nobel Prizes in Literature",
+        "Philosophy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1887,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/25447.txt"
+    },
+    {
+      "id": 57317,
+      "title": "The Secrets of the Self (Asrar-i Khudi) — A Philosophical Poem",
+      "authors": [
+        {
+          "name": "Iqbal, Muhammad, Sir",
+          "birth_year": 1877,
+          "death_year": 1938
+        }
+      ],
+      "subjects": [
+        "Islamic poetry, Persian -- Translations into English"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Poetry"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1872,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/57317.txt"
+    },
+    {
+      "id": 50966,
+      "title": "On the Fourfold Root of the Principle of Sufficient Reason, and On the Will in Nature: Two Essays (revised edition)",
+      "authors": [
+        {
+          "name": "Schopenhauer, Arthur",
+          "birth_year": 1788,
+          "death_year": 1860
+        }
+      ],
+      "subjects": [
+        "Sufficient reason",
+        "Will"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1865,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/50966.txt"
+    },
+    {
+      "id": 40766,
+      "title": "Nationalism",
+      "authors": [
+        {
+          "name": "Tagore, Rabindranath",
+          "birth_year": 1861,
+          "death_year": 1941
+        }
+      ],
+      "subjects": [
+        "Nationalism"
+      ],
+      "bookshelves": [
+        "Category: History - Other",
+        "Category: Philosophy & Ethics",
+        "Category: Politics",
+        "Nobel Prizes in Literature"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1824,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/40766.txt"
+    },
+    {
+      "id": 14636,
+      "title": "Tragic Sense Of Life",
+      "authors": [
+        {
+          "name": "Unamuno, Miguel de",
+          "birth_year": 1864,
+          "death_year": 1936
+        }
+      ],
+      "subjects": [
+        "Faith and reason -- Christianity",
+        "Immortality -- Christianity",
+        "Tragic, The -- Religious aspects -- Christianity"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1804,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/14636.txt"
+    },
+    {
+      "id": 51635,
+      "title": "Hegel's Lectures on the History of Philosophy: Volume 1 (of 3)",
+      "authors": [
+        {
+          "name": "Hegel, Georg Wilhelm Friedrich",
+          "birth_year": 1770,
+          "death_year": 1831
+        }
+      ],
+      "subjects": [
+        "Philosophy -- History"
+      ],
+      "bookshelves": [
+        "Category: History - Other",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1781,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/51635.txt"
+    },
+    {
+      "id": 23100,
+      "title": "A Budget of Paradoxes, Volume I",
+      "authors": [
+        {
+          "name": "De Morgan, Augustus",
+          "birth_year": 1806,
+          "death_year": 1871
+        }
+      ],
+      "subjects": [
+        "Circle-squaring",
+        "Perpetual motion",
+        "Science -- Miscellanea",
+        "Trisection of angle"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics",
+        "Category: Science - Physics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1731,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/23100.txt"
+    },
+    {
+      "id": 16769,
+      "title": "Orthodoxy",
+      "authors": [
+        {
+          "name": "Chesterton, G. K. (Gilbert Keith)",
+          "birth_year": 1874,
+          "death_year": 1936
+        }
+      ],
+      "subjects": [
+        "Apologetics",
+        "Chesterton, G. K. (Gilbert Keith), 1874-1936",
+        "Christianity -- Essence, genius, nature"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1710,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/16769.txt"
+    },
+    {
+      "id": 26861,
+      "title": "The Temple of Nature; or, the Origin of Society: A Poem, with Philosophical Notes",
+      "authors": [
+        {
+          "name": "Darwin, Erasmus",
+          "birth_year": 1731,
+          "death_year": 1802
+        }
+      ],
+      "subjects": [
+        "Cosmology -- Poetry",
+        "Life -- Origin -- Poetry"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Poetry"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1701,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/26861.txt"
+    },
+    {
+      "id": 26716,
+      "title": "The Crown of Wild Olive: also Munera Pulveris; Pre-Raphaelitism; Aratra Pentelici; The Ethics of the Dust; Fiction, Fair and Foul; The Elements of Drawing",
+      "authors": [
+        {
+          "name": "Ruskin, John",
+          "birth_year": 1819,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Architecture",
+        "Conduct of life",
+        "Drawing -- Study and teaching",
+        "Economics",
+        "English literature -- History and criticism",
+        "War",
+        "Work"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1683,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/26716.txt"
+    },
+    {
+      "id": 57393,
+      "title": "Journal 01, 1837-1846: The Writings of Henry David Thoreau, Volume 07 (of 20)",
+      "authors": [
+        {
+          "name": "Thoreau, Henry David",
+          "birth_year": 1817,
+          "death_year": 1862
+        }
+      ],
+      "subjects": [
+        "Authors, American -- 19th century -- Diaries",
+        "Thoreau, Henry David, 1817-1862 -- Diaries"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Biographies",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1683,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/57393.txt"
+    },
+    {
+      "id": 43098,
+      "title": "Selected Works of Voltairine de Cleyre",
+      "authors": [
+        {
+          "name": "De Cleyre, Voltairine",
+          "birth_year": 1866,
+          "death_year": 1912
+        }
+      ],
+      "subjects": [
+        "Anarchism -- Literary collections",
+        "Feminism -- Literary collections"
+      ],
+      "bookshelves": [
+        "Category: Biographies",
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1659,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/43098.txt"
+    },
+    {
+      "id": 20847,
+      "title": "India: What can it teach us?: A Course of Lectures Delivered before the University Of Cambridge",
+      "authors": [
+        {
+          "name": "Müller, F. Max (Friedrich Max)",
+          "birth_year": 1823,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "India",
+        "Sanskrit literature -- History and criticism",
+        "Vedas"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: History - Other",
+        "Category: Philosophy & Ethics",
+        "India"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1657,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/20847.txt"
+    },
+    {
+      "id": 8545,
+      "title": "Amiel's Journal: The Journal Intime of Henri-Frédéric Amiel",
+      "authors": [
+        {
+          "name": "Amiel, Henri Frédéric",
+          "birth_year": 1821,
+          "death_year": 1881
+        }
+      ],
+      "subjects": [
+        "Amiel, Henri Frédéric, 1821-1881 -- Diaries",
+        "Authors, Swiss -- 19th century -- Diairies"
+      ],
+      "bookshelves": [
+        "Category: Biographies",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1641,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/8545.txt"
+    },
+    {
+      "id": 69485,
+      "title": "Letters on the equality of the sexes, and the condition of woman",
+      "authors": [
+        {
+          "name": "Grimké, Sarah",
+          "birth_year": 1792,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Women -- History",
+        "Women -- United States",
+        "Women's rights -- United States"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Gender & Sexuality Studies",
+        "Category: History - Modern (1750+)",
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1627,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/69485.txt"
+    },
+    {
+      "id": 45422,
+      "title": "The quest of the historical Jesus : $b a critical study of its progress from Reimarus to Wrede",
+      "authors": [
+        {
+          "name": "Schweitzer, Albert",
+          "birth_year": 1875,
+          "death_year": 1965
+        }
+      ],
+      "subjects": [
+        "Jesus Christ -- Biography -- History and criticism",
+        "Jesus Christ -- Historicity"
+      ],
+      "bookshelves": [
+        "Category: History - Religious",
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1610,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/45422.txt"
+    },
+    {
+      "id": 130,
+      "title": "Orthodoxy",
+      "authors": [
+        {
+          "name": "Chesterton, G. K. (Gilbert Keith)",
+          "birth_year": 1874,
+          "death_year": 1936
+        }
+      ],
+      "subjects": [
+        "Apologetics",
+        "Chesterton, G. K. (Gilbert Keith), 1874-1936",
+        "Christianity -- Essence, genius, nature"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality",
+        "Christianity"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1583,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/130.txt"
+    },
+    {
+      "id": 4094,
+      "title": "The Chinese Classics — Volume 1: Confucian Analects",
+      "authors": [
+        {
+          "name": "Legge, James",
+          "birth_year": 1815,
+          "death_year": 1897
+        }
+      ],
+      "subjects": [
+        "China -- History",
+        "China -- Maps",
+        "Chinese literature",
+        "Chinese literature -- Translations into English"
+      ],
+      "bookshelves": [
+        "Banned Books from Anne Haight's list",
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en",
+        "zh"
+      ],
+      "download_count": 1580,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/4094.txt"
+    },
+    {
+      "id": 38813,
+      "title": "The Works of Robert G. Ingersoll, Complete Contents: Dresden Edition—Twelve Volumes",
+      "authors": [
+        {
+          "name": "Ingersoll, Robert Green",
+          "birth_year": 1833,
+          "death_year": 1899
+        }
+      ],
+      "subjects": [
+        "Free thought"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: History - Other",
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1573,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/38813.txt"
+    },
+    {
+      "id": 38091,
+      "title": "The Letters of William James, Vol. 2",
+      "authors": [
+        {
+          "name": "James, William",
+          "birth_year": 1842,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Intellectuals -- United States",
+        "James, William, 1842-1910",
+        "Philosophers -- United States",
+        "Psychologists -- United States"
+      ],
+      "bookshelves": [
+        "Category: Biographies",
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics",
+        "Category: Psychiatry/Psychology"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1558,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/38091.txt"
+    },
+    {
+      "id": 38226,
+      "title": "Thoughts Out of Season, Part II",
+      "authors": [
+        {
+          "name": "Nietzsche, Friedrich Wilhelm",
+          "birth_year": 1844,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "History -- Study and teaching",
+        "Schopenhauer, Arthur, 1788-1860"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1553,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/38226.txt"
+    },
+    {
+      "id": 46743,
+      "title": "The Methods of Ethics",
+      "authors": [
+        {
+          "name": "Sidgwick, Henry",
+          "birth_year": 1838,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Ethics"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1509,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/46743.txt"
+    },
+    {
+      "id": 7176,
+      "title": "A Letter to a Hindu",
+      "authors": [
+        {
+          "name": "Tolstoy, Leo, graf",
+          "birth_year": 1828,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Evil, Non-resistance to",
+        "Government, Resistance to",
+        "National characteristics, East Indian"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: History - Modern (1750+)",
+        "Category: Philosophy & Ethics",
+        "Category: Politics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1507,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/7176.txt"
+    },
+    {
+      "id": 40957,
+      "title": "Leibniz's New Essays Concerning the Human Understanding: A Critical Exposition",
+      "authors": [
+        {
+          "name": "Dewey, John",
+          "birth_year": 1859,
+          "death_year": 1952
+        }
+      ],
+      "subjects": [
+        "Leibniz, Gottfried Wilhelm, Freiherr von, 1646-1716"
+      ],
+      "bookshelves": [
+        "Category: Biographies",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1500,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/40957.txt"
+    },
+    {
+      "id": 54618,
+      "title": "Æsthetic as science of expression and general linguistic",
+      "authors": [
+        {
+          "name": "Croce, Benedetto",
+          "birth_year": 1866,
+          "death_year": 1952
+        }
+      ],
+      "subjects": [
+        "Aesthetics",
+        "Language and languages -- Philosophy",
+        "Philosophy"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1489,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/54618.txt"
+    },
+    {
+      "id": 1397,
+      "title": "The Ruins; Or, Meditation on the Revolutions of Empires and the Law of Nature",
+      "authors": [
+        {
+          "name": "Volney, C.-F. (Constantin-François)",
+          "birth_year": 1757,
+          "death_year": 1820
+        }
+      ],
+      "subjects": [
+        "Ethics",
+        "History -- Philosophy",
+        "Religions",
+        "Revolutions"
+      ],
+      "bookshelves": [
+        "Category: History - Other",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1480,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/1397.txt"
+    },
+    {
+      "id": 1185,
+      "title": "History of the Conflict Between Religion and Science",
+      "authors": [
+        {
+          "name": "Draper, John William",
+          "birth_year": 1811,
+          "death_year": 1882
+        }
+      ],
+      "subjects": [
+        "Religion and science -- History"
+      ],
+      "bookshelves": [
+        "Category: History - Ancient",
+        "Category: History - Early Modern (c. 1450-1750)",
+        "Category: History - Medieval/Middle Ages",
+        "Category: History - Modern (1750+)",
+        "Category: History - Religious",
+        "Category: Philosophy & Ethics",
+        "Category: Science - Biology",
+        "Category: Science - Physics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1478,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/1185.txt"
+    },
+    {
+      "id": 5117,
+      "title": "The Meaning of Truth",
+      "authors": [
+        {
+          "name": "James, William",
+          "birth_year": 1842,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Pragmatism",
+        "Reality",
+        "Truth"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1469,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/5117.txt"
+    },
+    {
+      "id": 470,
+      "title": "Heretics",
+      "authors": [
+        {
+          "name": "Chesterton, G. K. (Gilbert Keith)",
+          "birth_year": 1874,
+          "death_year": 1936
+        }
+      ],
+      "subjects": [
+        "Apologetics",
+        "Chesterton, G. K. (Gilbert Keith), 1874-1936"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality",
+        "Christianity"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1453,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/470.txt"
+    },
+    {
+      "id": 25110,
+      "title": "The Approach to Philosophy",
+      "authors": [
+        {
+          "name": "Perry, Ralph Barton",
+          "birth_year": 1876,
+          "death_year": 1957
+        }
+      ],
+      "subjects": [
+        "Philosophy"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Philosophy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1449,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/25110.txt"
+    },
+    {
+      "id": 33670,
+      "title": "Maxims and Reflections",
+      "authors": [
+        {
+          "name": "Goethe, Johann Wolfgang von",
+          "birth_year": 1749,
+          "death_year": 1832
+        }
+      ],
+      "subjects": [
+        "Epigrams, German -- Translations into English"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: German Literature",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1411,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/33670.txt"
+    },
+    {
+      "id": 54406,
+      "title": "The Religious Thought of the Greeks, from Homer to the Triumph of Christianity",
+      "authors": [
+        {
+          "name": "Moore, Clifford Herschel",
+          "birth_year": 1866,
+          "death_year": 1931
+        }
+      ],
+      "subjects": [
+        "Greece -- Religion",
+        "Philosophy, Ancient",
+        "Religious thought -- Greece",
+        "Religious thought -- To 600"
+      ],
+      "bookshelves": [
+        "Category: History - Ancient",
+        "Category: History - Religious",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1395,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/54406.txt"
+    },
+    {
+      "id": 32037,
+      "title": "Eureka: A Prose Poem",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "Cosmology"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1355,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/32037.txt"
+    },
+    {
+      "id": 58700,
+      "title": "Crimes and Punishments: Including a New Translation of Beccaria's 'Dei Delitti e delle Pene'",
+      "authors": [
+        {
+          "name": "Farrer, James Anson",
+          "birth_year": 1849,
+          "death_year": 1925
+        }
+      ],
+      "subjects": [
+        "Beccaria, Cesare, marchese di, 1738-1794. Dei delitti e delle pene",
+        "Capital punishment",
+        "Crime",
+        "Criminal law",
+        "Law reform",
+        "Punishment",
+        "Torture"
+      ],
+      "bookshelves": [
+        "Category: Biographies",
+        "Category: History - Modern (1750+)",
+        "Category: Law & Criminology",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1335,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/58700.txt"
+    },
+    {
+      "id": 56822,
+      "title": "The Philosophy of Mystery",
+      "authors": [
+        {
+          "name": "Dendy, Walter Cooper",
+          "birth_year": 1794,
+          "death_year": 1871
+        }
+      ],
+      "subjects": [
+        "Apparitions",
+        "Dreams",
+        "Occultism -- Early works to 1900",
+        "Parapsychology -- Early works to 1900"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Psychiatry/Psychology"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1298,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/56822.txt"
+    },
+    {
+      "id": 40438,
+      "title": "Plato and the Other Companions of Sokrates, 3rd ed. Volume 4",
+      "authors": [
+        {
+          "name": "Grote, George",
+          "birth_year": 1794,
+          "death_year": 1871
+        }
+      ],
+      "subjects": [
+        "Philosophy, Ancient",
+        "Plato",
+        "Socrates, 470 BC-399 BC"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1293,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/40438.txt"
+    },
+    {
+      "id": 25709,
+      "title": "A Practical View of the Prevailing Religious System of Professed Christians, in the Middle and Higher Classes in this Country, Contrasted with Real Christianity.",
+      "authors": [
+        {
+          "name": "Wilberforce, William",
+          "birth_year": 1759,
+          "death_year": 1833
+        }
+      ],
+      "subjects": [
+        "Christianity",
+        "Christianity -- Great Britain"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1288,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/25709.txt"
+    },
+    {
+      "id": 17607,
+      "title": "Superstition in all ages",
+      "authors": [
+        {
+          "name": "Holbach, Paul Henri Thiry, baron d'",
+          "birth_year": 1723,
+          "death_year": 1789
+        }
+      ],
+      "subjects": [
+        "Atheism"
+      ],
+      "bookshelves": [
+        "Atheism",
+        "Category: History - Religious",
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1248,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/17607.txt"
+    },
+    {
+      "id": 40097,
+      "title": "The World as Will and Idea (Vol. 2 of 3)",
+      "authors": [
+        {
+          "name": "Schopenhauer, Arthur",
+          "birth_year": 1788,
+          "death_year": 1860
+        }
+      ],
+      "subjects": [
+        "Idea (Philosophy)",
+        "Knowledge, Theory of",
+        "Philosophy",
+        "Will"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1248,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/40097.txt"
+    },
+    {
+      "id": 23788,
+      "title": "The Posthumous Works of Thomas De Quincey,  Vol. 1",
+      "authors": [
+        {
+          "name": "De Quincey, Thomas",
+          "birth_year": 1785,
+          "death_year": 1859
+        }
+      ],
+      "subjects": [
+        "English essays"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1238,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/23788.txt"
+    },
+    {
+      "id": 39713,
+      "title": "The Foundations of Science: Science and Hypothesis, The Value of Science, Science and Method",
+      "authors": [
+        {
+          "name": "Poincaré, Henri",
+          "birth_year": 1854,
+          "death_year": 1912
+        }
+      ],
+      "subjects": [
+        "Mathematics -- Philosophy",
+        "Science -- Methodology",
+        "Science -- Philosophy"
+      ],
+      "bookshelves": [
+        "Category: Mathematics",
+        "Category: Philosophy & Ethics",
+        "Category: Science - Physics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1234,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/39713.txt"
+    },
+    {
+      "id": 14674,
+      "title": "Ten Great Religions: An Essay in Comparative Theology",
+      "authors": [
+        {
+          "name": "Clarke, James Freeman",
+          "birth_year": 1810,
+          "death_year": 1888
+        }
+      ],
+      "subjects": [
+        "Christianity and other religions",
+        "Religions"
+      ],
+      "bookshelves": [
+        "Category: History - Other",
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality",
+        "Islam"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1233,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/14674.txt"
+    },
+    {
+      "id": 47025,
+      "title": "The Essence of Christianity: Translated from the second German edition",
+      "authors": [
+        {
+          "name": "Feuerbach, Ludwig",
+          "birth_year": 1804,
+          "death_year": 1872
+        }
+      ],
+      "subjects": [
+        "Christianity -- Controversial literature",
+        "Religion -- Philosophy"
+      ],
+      "bookshelves": [
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1232,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/47025.txt"
+    },
+    {
+      "id": 50235,
+      "title": "Rousseau and Romanticism",
+      "authors": [
+        {
+          "name": "Babbitt, Irving",
+          "birth_year": 1865,
+          "death_year": 1933
+        }
+      ],
+      "subjects": [
+        "Rousseau, Jean-Jacques, 1712-1778 -- Influence"
+      ],
+      "bookshelves": [
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1218,
+      "discovery_sources": [
+        "topic:Philosophy",
+        "topic:Ethics"
+      ],
+      "file": "books/50235.txt"
+    }
+  ]
+}

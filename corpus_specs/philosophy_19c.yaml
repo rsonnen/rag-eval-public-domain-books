@@ -1,0 +1,80 @@
+philosophy_19c:
+  description: |
+    19th century philosophy covering German Idealism, British Empiricism,
+    American Pragmatism, Transcendentalism, and continental philosophy from
+    the post-Kantian period through early analytic philosophy (1780-1920).
+
+  source: gutenberg
+
+  search_strategy:
+    topics:
+      - "Philosophy"
+      - "Ethics"
+      - "Metaphysics"
+      - "Political science"
+      - "Logic"
+    author_years: [1720, 1930]
+    languages: ["en"]
+
+  target_count: 150
+
+  evaluator_model: gpt-5-mini
+  confidence_threshold: 0.7
+
+  validation_prompt: |
+    You are evaluating whether a book belongs in a corpus of 19TH CENTURY
+    PHILOSOPHY (1780-1920).
+
+    TEMPORAL REQUIREMENT (CRITICAL):
+    The work must have been PUBLISHED between 1780 and 1920. This corpus covers
+    the rich period from Kant through early 20th century philosophy, before
+    logical positivism and analytic philosophy became dominant. Works by
+    later philosophers (Wittgenstein's Tractatus 1921+, Russell's later work,
+    Vienna Circle) do NOT belong.
+
+    CONTENT REQUIREMENTS:
+    The work must be PRIMARILY philosophical in nature:
+    - Systematic philosophical treatises
+    - Essays on ethics, metaphysics, epistemology, or logic
+    - Political philosophy and social theory
+    - Philosophy of religion, aesthetics, or mind
+    - Philosophical works on science and evolution
+
+    The work must engage with philosophical IDEAS and ARGUMENTS, not merely
+    describe historical events or provide biographical information.
+
+    CANONICAL AUTHORS (for calibration):
+    German Idealism: Immanuel Kant, G.W.F. Hegel, Arthur Schopenhauer,
+      Friedrich Nietzsche, Ludwig Feuerbach, Max Stirner
+    British Philosophy: John Stuart Mill, Herbert Spencer, Henry Sidgwick,
+      T.H. Green, G.E. Moore
+    American Philosophy: Ralph Waldo Emerson, Henry David Thoreau,
+      William James, Charles Sanders Peirce, John Dewey, Josiah Royce,
+      George Santayana
+    Continental: Auguste Comte, Henri Bergson, Søren Kierkegaard,
+      Émile Durkheim, Alexis de Tocqueville
+    Social Philosophy: Karl Marx, Friedrich Engels, Mary Wollstonecraft,
+      John Ruskin, Leo Tolstoy (philosophical works)
+
+    INCLUDE:
+    - Systematic philosophy (Critique of Pure Reason, Phenomenology of Spirit)
+    - Moral philosophy and ethics (Utilitarianism, Principia Ethica)
+    - Political and social philosophy (On Liberty, Communist Manifesto)
+    - Philosophy of religion (Varieties of Religious Experience)
+    - Transcendentalist essays (Nature, Walden as philosophy)
+    - Pragmatist works (Pragmatism, How We Think)
+    - Existentialist precursors (Thus Spoke Zarathustra, Kierkegaard)
+    - Aesthetic philosophy (Schiller, Hegel's Aesthetics)
+
+    EXCLUDE:
+    - Works published after 1920
+    - 20th century analytic philosophy (Vienna Circle, later Russell)
+    - Textbooks ABOUT these philosophers (not BY them)
+    - Purely historical or biographical works
+    - Religious sermons or devotional works without philosophical argument
+    - Popular self-help or advice literature
+    - Works where philosophy is incidental to the main subject
+    - Literary works without explicit philosophical content
+
+    Use author lifespan and publication context to verify the time period.
+    Prefer primary philosophical texts over secondary commentary.

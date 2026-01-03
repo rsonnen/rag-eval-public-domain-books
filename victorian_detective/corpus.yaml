@@ -1,0 +1,33 @@
+name: "Victorian Detective Fiction"
+
+corpus_context: >
+  133 detective and mystery fiction works from Project Gutenberg, primarily
+  from the Victorian and Edwardian periods. Includes works by Arthur Conan
+  Doyle (Sherlock Holmes), Wilkie Collins, Edgar Allan Poe, and other mystery
+  writers. Features early detective fiction conventions, puzzle plots, and
+  period settings. Plain UTF-8 text format.
+
+scenarios:
+  literary_analysis:
+    name: "Literary Analysis"
+    description: >
+      You are creating questions for students analyzing detective fiction.
+      Questions should test understanding of mystery plot construction,
+      detective character types, clue presentation, and genre conventions.
+      Focus on how these texts established the detective fiction tradition.
+
+  plot_retrieval:
+    name: "Case and Clue Retrieval"
+    description: >
+      You are creating questions to test retrieval of specific mystery
+      elements - clues, solutions, detective reasoning, or case details.
+      Questions should target particular deductions, evidence, suspects,
+      or crime details that appear in the texts.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system actually read these
+      detective stories. Questions must have specific, verifiable answers -
+      case names, clue details, character names, or quoted deductions that
+      require the actual text rather than general Holmes/mystery knowledge.

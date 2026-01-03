@@ -1,0 +1,72 @@
+early_scifi:
+  description: |
+    Early science fiction from the genre's proto-SF origins through the
+    pulp era (1818-1935). Covers scientific romances, utopian fiction,
+    planetary romances, and early space opera before the Campbell era.
+
+  source: gutenberg
+
+  search_strategy:
+    topics:
+      - "Science Fiction"
+      - "Utopias"
+      - "Dystopias"
+      - "Interplanetary voyages"
+    author_years: [1750, 1950]
+    languages: ["en"]
+
+  target_count: 130
+
+  evaluator_model: gpt-5-mini
+  confidence_threshold: 0.7
+
+  validation_prompt: |
+    You are evaluating whether a book belongs in a corpus of EARLY SCIENCE
+    FICTION (1818-1935).
+
+    TEMPORAL REQUIREMENT (CRITICAL):
+    The work must have been PUBLISHED between 1818 (Frankenstein) and 1935.
+    This corpus covers proto-SF, scientific romances, and early pulp SF
+    before the "Golden Age" (Campbell era, 1938+). Works from the Golden
+    Age or later (Asimov, Clarke, Heinlein) do NOT belong.
+
+    GENRE REQUIREMENTS:
+    The work must feature speculative scientific or technological elements:
+    - Future technology or inventions
+    - Space travel, alien worlds, or alien beings
+    - Time travel or alternate histories
+    - Lost worlds, hollow earth, or prehistoric survivals
+    - Utopian/dystopian societies based on technological change
+    - Scientific experiments gone wrong
+    - Evolutionary or biological speculation
+
+    CANONICAL AUTHORS (for calibration):
+    - Jules Verne (scientific romances)
+    - H.G. Wells (scientific romances)
+    - Mary Shelley (Frankenstein, The Last Man)
+    - Edgar Rice Burroughs (planetary romances)
+    - H. Rider Haggard (lost world adventures)
+    - William Hope Hodgson (cosmic horror SF)
+    - Edward Bellamy (utopian SF)
+    - Jack London (dystopian works)
+    - Arthur Conan Doyle (Lost World, Professor Challenger)
+    - Abraham Merritt (fantasy/SF)
+    - Hugo Gernsback (early pulp SF)
+
+    INCLUDE:
+    - Scientific romances (Verne, Wells tradition)
+    - Planetary romances (Mars, Venus stories)
+    - Lost world fiction with SF elements
+    - Utopian and dystopian fiction
+    - Early space opera
+    - Proto-SF (Swift, Voltaire, Cyrano)
+
+    EXCLUDE:
+    - Works published after 1935
+    - Golden Age SF (Campbell era: Asimov, Clarke, Heinlein)
+    - Pure fantasy without scientific elements
+    - Gothic fiction without SF elements (use gothic_fiction corpus)
+    - Adventure stories without speculative elements
+    - Literary criticism about science fiction
+
+    Use author lifespan and publication context to verify the time period.

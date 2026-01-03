@@ -1,0 +1,66 @@
+gothic_fiction:
+  description: |
+    Classic Gothic fiction and supernatural horror from the genre's origin
+    (1764, Castle of Otranto) through its golden age ending around 1930.
+
+  source: gutenberg
+
+  search_strategy:
+    topics:
+      - "Gothic Fiction"
+      - "Horror"
+      - "Ghost stories"
+      - "Supernatural"
+    author_years: [1740, 1940]
+    languages: ["en"]
+
+  target_count: 120
+
+  evaluator_model: gpt-5-mini
+  confidence_threshold: 0.7
+
+  validation_prompt: |
+    You are evaluating whether a book belongs in a corpus of CLASSIC GOTHIC
+    FICTION (1764-1930).
+
+    TEMPORAL REQUIREMENT (CRITICAL):
+    The book must have been PUBLISHED before 1935. This corpus covers the
+    classic Gothic period from Horace Walpole's "Castle of Otranto" (1764)
+    through the early 20th century weird fiction of Lovecraft and his
+    contemporaries. Modern horror, urban fantasy, and contemporary supernatural
+    fiction do NOT belong regardless of how "Gothic" they seem.
+
+    GENRE REQUIREMENTS:
+    The book must be PRIMARILY a work of Gothic fiction featuring:
+    - Supernatural, mysterious, or uncanny elements as central plot drivers
+    - Atmosphere of dread, horror, or psychological terror
+    - Common settings: castles, monasteries, crypts, decaying mansions,
+      wild landscapes, or liminal spaces between worlds
+    - Themes: madness, death, family secrets, the return of the repressed,
+      transgression of natural/moral boundaries
+
+    CANONICAL AUTHORS (for calibration):
+    Horace Walpole, Ann Radcliffe, Matthew Lewis, Mary Shelley, Bram Stoker,
+    Edgar Allan Poe, Sheridan Le Fanu, M.R. James, Algernon Blackwood,
+    Arthur Machen, H.P. Lovecraft, Ambrose Bierce, Robert W. Chambers,
+    William Hope Hodgson, Robert Louis Stevenson, Henry James, Oscar Wilde,
+    Charlotte Perkins Gilman, Emily Bronte, Nathaniel Hawthorne
+
+    INCLUDE:
+    - Original Gothic novels (1764-1820): Walpole, Radcliffe, Lewis, Beckford
+    - Romantic Gothic (1818-1850): Mary Shelley, Poe, Maturin, Hogg
+    - Victorian Gothic (1850-1900): Le Fanu, Stoker, Stevenson, Wilde, James
+    - Weird fiction/cosmic horror (1890-1935): Machen, Blackwood, Lovecraft,
+      Chambers, Hodgson, M.R. James
+
+    EXCLUDE:
+    - Modern horror published after 1935 (Stephen King, etc.)
+    - Books that use Gothic settings as backdrop for romance or adventure
+    - Literary criticism or analysis OF Gothic fiction
+    - Parodies of Gothic fiction
+    - Books where supernatural elements are minor or explained away
+    - General adventure or mystery fiction without Gothic atmosphere
+    - Science fiction (even if dark in tone)
+
+    Use the author lifespan, writing style, and subject matter to assess
+    whether this is genuinely from the classic Gothic period.

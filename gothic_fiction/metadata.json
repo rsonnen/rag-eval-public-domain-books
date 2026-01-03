@@ -1,0 +1,3798 @@
+{
+  "corpus": "gothic_fiction",
+  "source": "gutenberg",
+  "search_strategy": {
+    "topics": [
+      "Gothic Fiction",
+      "Horror",
+      "Ghost stories",
+      "Supernatural"
+    ],
+    "author_years": [
+      1740,
+      1940
+    ],
+    "languages": [
+      "en"
+    ]
+  },
+  "curated_at": "2025-12-26T18:20:22.158304+00:00",
+  "total_books": 120,
+  "books_evaluated": 148,
+  "acceptance_rate": 0.8108108108108109,
+  "books": [
+    {
+      "id": 209,
+      "title": "The Turn of the Screw",
+      "authors": [
+        {
+          "name": "James, Henry",
+          "birth_year": 1843,
+          "death_year": 1916
+        }
+      ],
+      "subjects": [
+        "Children -- Fiction",
+        "England -- Fiction",
+        "Ghost stories",
+        "Governesses -- Fiction",
+        "Psychological fiction"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Gothic Fiction",
+        "Horror",
+        "Opera"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 9884,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror",
+        "topic:Ghost stories"
+      ],
+      "file": "books/209.txt"
+    },
+    {
+      "id": 10624,
+      "title": "Three John Silence Stories",
+      "authors": [
+        {
+          "name": "Blackwood, Algernon",
+          "birth_year": 1869,
+          "death_year": 1951
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories, English",
+        "Ghost stories, English",
+        "Horror tales, English",
+        "Paranormal fiction, English",
+        "Psychics -- Fiction",
+        "Silence, John (Fictitious character) -- Fiction",
+        "Supernatural -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 506,
+      "discovery_sources": [
+        "topic:Horror",
+        "topic:Ghost stories",
+        "topic:Supernatural"
+      ],
+      "file": "books/10624.txt"
+    },
+    {
+      "id": 45964,
+      "title": "Day and Night Stories",
+      "authors": [
+        {
+          "name": "Blackwood, Algernon",
+          "birth_year": 1869,
+          "death_year": 1951
+        }
+      ],
+      "subjects": [
+        "Ghost stories, English",
+        "Horror tales, English",
+        "Paranormal fiction, English",
+        "Short stories, English",
+        "Supernatural -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 504,
+      "discovery_sources": [
+        "topic:Horror",
+        "topic:Ghost stories",
+        "topic:Supernatural"
+      ],
+      "file": "books/45964.txt"
+    },
+    {
+      "id": 10659,
+      "title": "Three More John Silence Stories",
+      "authors": [
+        {
+          "name": "Blackwood, Algernon",
+          "birth_year": 1869,
+          "death_year": 1951
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories, English",
+        "Ghost stories, English",
+        "Horror tales, English",
+        "Paranormal fiction, English",
+        "Silence, John (Fictitious character) -- Fiction",
+        "Supernatural -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 409,
+      "discovery_sources": [
+        "topic:Horror",
+        "topic:Ghost stories",
+        "topic:Supernatural"
+      ],
+      "file": "books/10659.txt"
+    },
+    {
+      "id": 84,
+      "title": "Frankenstein; Or, The Modern Prometheus",
+      "authors": [
+        {
+          "name": "Shelley, Mary Wollstonecraft",
+          "birth_year": 1797,
+          "death_year": 1851
+        }
+      ],
+      "subjects": [
+        "Frankenstein's monster (Fictitious character) -- Fiction",
+        "Frankenstein, Victor (Fictitious character) -- Fiction",
+        "Gothic fiction",
+        "Horror tales",
+        "Monsters -- Fiction",
+        "Science fiction",
+        "Scientists -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Gothic Fiction",
+        "Movie Books",
+        "Precursors of Science Fiction",
+        "Science Fiction by Women"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 303668,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/84.txt"
+    },
+    {
+      "id": 345,
+      "title": "Dracula",
+      "authors": [
+        {
+          "name": "Stoker, Bram",
+          "birth_year": 1847,
+          "death_year": 1912
+        }
+      ],
+      "subjects": [
+        "Dracula, Count (Fictitious character) -- Fiction",
+        "Epistolary fiction",
+        "Gothic fiction",
+        "Horror tales",
+        "Transylvania (Romania) -- Fiction",
+        "Vampires -- Fiction",
+        "Whitby (England) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Gothic Fiction",
+        "Horror",
+        "Movie Books",
+        "Mystery Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 46309,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/345.txt"
+    },
+    {
+      "id": 174,
+      "title": "The Picture of Dorian Gray",
+      "authors": [
+        {
+          "name": "Wilde, Oscar",
+          "birth_year": 1854,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Appearance (Philosophy) -- Fiction",
+        "Conduct of life -- Fiction",
+        "Didactic fiction",
+        "Great Britain -- History -- Victoria, 1837-1901 -- Fiction",
+        "London (England) -- History -- 1800-1950 -- Fiction",
+        "Paranormal fiction",
+        "Portraits -- Fiction",
+        "Supernatural -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Gothic Fiction",
+        "Movie Books"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 40087,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Supernatural"
+      ],
+      "file": "books/174.txt"
+    },
+    {
+      "id": 2148,
+      "title": "The Works of Edgar Allan Poe — Volume 2",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "American fiction -- 19th century",
+        "Fantasy fiction",
+        "Horror tales, American",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Detective Fiction",
+        "Gothic Fiction",
+        "Horror",
+        "Mystery Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 22323,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/2148.txt"
+    },
+    {
+      "id": 41445,
+      "title": "Frankenstein; Or, The Modern Prometheus",
+      "authors": [
+        {
+          "name": "Shelley, Mary Wollstonecraft",
+          "birth_year": 1797,
+          "death_year": 1851
+        }
+      ],
+      "subjects": [
+        "Frankenstein's monster (Fictitious character) -- Fiction",
+        "Frankenstein, Victor (Fictitious character) -- Fiction",
+        "Gothic fiction",
+        "Horror tales",
+        "Monsters -- Fiction",
+        "Science fiction",
+        "Scientists -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Precursors of Science Fiction",
+        "Science Fiction by Women"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 19327,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/41445.txt"
+    },
+    {
+      "id": 42324,
+      "title": "Frankenstein; Or, The Modern Prometheus",
+      "authors": [
+        {
+          "name": "Shelley, Mary Wollstonecraft",
+          "birth_year": 1797,
+          "death_year": 1851
+        }
+      ],
+      "subjects": [
+        "Frankenstein's monster (Fictitious character) -- Fiction",
+        "Frankenstein, Victor (Fictitious character) -- Fiction",
+        "Gothic fiction",
+        "Horror tales",
+        "Monsters -- Fiction",
+        "Science fiction",
+        "Scientists -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Precursors of Science Fiction",
+        "Science Fiction by Women"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 14007,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/42324.txt"
+    },
+    {
+      "id": 10007,
+      "title": "Carmilla",
+      "authors": [
+        {
+          "name": "Le Fanu, Joseph Sheridan",
+          "birth_year": 1814,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Vampires -- Fiction",
+        "Young women -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Gothic Fiction",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 13967,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/10007.txt"
+    },
+    {
+      "id": 6087,
+      "title": "The Vampyre; a Tale",
+      "authors": [
+        {
+          "name": "Polidori, John William",
+          "birth_year": 1795,
+          "death_year": 1821
+        }
+      ],
+      "subjects": [
+        "Gothic fiction",
+        "Horror tales",
+        "Vampires -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Gothic Fiction",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 7616,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/6087.txt"
+    },
+    {
+      "id": 175,
+      "title": "The Phantom of the Opera",
+      "authors": [
+        {
+          "name": "Leroux, Gaston",
+          "birth_year": 1868,
+          "death_year": 1927
+        }
+      ],
+      "subjects": [
+        "Composers -- Fiction",
+        "French fiction -- Translations into English",
+        "Horror tales",
+        "Musical fiction",
+        "Opera -- Fiction",
+        "Paris (France) -- Fiction",
+        "Phantom of the Opera (Fictitious character) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: French Literature",
+        "Category: Novels",
+        "Gothic Fiction",
+        "Movie Books",
+        "Opera"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 7575,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/175.txt"
+    },
+    {
+      "id": 696,
+      "title": "The Castle of Otranto",
+      "authors": [
+        {
+          "name": "Walpole, Horace",
+          "birth_year": 1717,
+          "death_year": 1797
+        }
+      ],
+      "subjects": [
+        "Gothic fiction",
+        "Horror tales",
+        "Inheritance and succession -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Gothic Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 5649,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/696.txt"
+    },
+    {
+      "id": 932,
+      "title": "The Fall of the House of Usher",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "Gothic fiction",
+        "Horror tales",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories",
+        "Movie Books"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4545,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/932.txt"
+    },
+    {
+      "id": 3268,
+      "title": "The Mysteries of Udolpho",
+      "authors": [
+        {
+          "name": "Radcliffe, Ann Ward",
+          "birth_year": 1764,
+          "death_year": 1823
+        }
+      ],
+      "subjects": [
+        "Castles -- Fiction",
+        "Gothic fiction",
+        "Guardian and ward -- Fiction",
+        "Horror tales",
+        "Inheritance and succession -- Fiction",
+        "Italy -- Fiction",
+        "Orphans -- Fiction",
+        "Young women -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Category: Romance",
+        "Gothic Fiction",
+        "Italy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4016,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/3268.txt"
+    },
+    {
+      "id": 12122,
+      "title": "The Monkey's Paw: The Lady of the Barge and Others, Part 2.",
+      "authors": [
+        {
+          "name": "Jacobs, W. W. (William Wymark)",
+          "birth_year": 1863,
+          "death_year": 1943
+        }
+      ],
+      "subjects": [
+        "Horror tales",
+        "Wishes -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Short Stories",
+        "Gothic Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3994,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/12122.txt"
+    },
+    {
+      "id": 42,
+      "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+      "authors": [
+        {
+          "name": "Stevenson, Robert Louis",
+          "birth_year": 1850,
+          "death_year": 1894
+        }
+      ],
+      "subjects": [
+        "Horror tales",
+        "London (England) -- Fiction",
+        "Multiple personality -- Fiction",
+        "Physicians -- Fiction",
+        "Psychological fiction",
+        "Science fiction",
+        "Self-experimentation in medicine -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Gothic Fiction",
+        "Horror",
+        "Movie Books",
+        "Precursors of Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3368,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/42.txt"
+    },
+    {
+      "id": 8486,
+      "title": "Ghost Stories of an Antiquary",
+      "authors": [
+        {
+          "name": "James, M. R. (Montague Rhodes)",
+          "birth_year": 1862,
+          "death_year": 1936
+        }
+      ],
+      "subjects": [
+        "Ghost stories, English",
+        "Horror tales, English",
+        "Short stories, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3071,
+      "discovery_sources": [
+        "topic:Horror",
+        "topic:Ghost stories"
+      ],
+      "file": "books/8486.txt"
+    },
+    {
+      "id": 601,
+      "title": "The Monk: A Romance",
+      "authors": [
+        {
+          "name": "Lewis, M. G. (Matthew Gregory)",
+          "birth_year": 1775,
+          "death_year": 1818
+        }
+      ],
+      "subjects": [
+        "Gothic fiction",
+        "Horror tales",
+        "Madrid (Spain) -- Fiction",
+        "Monks -- Fiction"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Category: Romance",
+        "Gothic Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3062,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/601.txt"
+    },
+    {
+      "id": 10150,
+      "title": "Dracula's Guest",
+      "authors": [
+        {
+          "name": "Stoker, Bram",
+          "birth_year": 1847,
+          "death_year": 1912
+        }
+      ],
+      "subjects": [
+        "Gothic fiction",
+        "Horror tales",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2834,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/10150.txt"
+    },
+    {
+      "id": 45839,
+      "title": "Dracula",
+      "authors": [
+        {
+          "name": "Stoker, Bram",
+          "birth_year": 1847,
+          "death_year": 1912
+        }
+      ],
+      "subjects": [
+        "Dracula, Count (Fictitious character) -- Fiction",
+        "Epistolary fiction",
+        "Gothic fiction",
+        "Horror tales",
+        "Transylvania (Romania) -- Fiction",
+        "Vampires -- Fiction",
+        "Whitby (England) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2801,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/45839.txt"
+    },
+    {
+      "id": 792,
+      "title": "Wieland; Or, The Transformation: An American Tale",
+      "authors": [
+        {
+          "name": "Brown, Charles Brockden",
+          "birth_year": 1771,
+          "death_year": 1810
+        }
+      ],
+      "subjects": [
+        "Combustion, Spontaneous -- Fiction",
+        "Epistolary fiction",
+        "Fathers -- Death -- Fiction",
+        "Gothic fiction",
+        "Horror tales",
+        "Pennsylvania -- History -- Colonial period, ca. 1600-1775 -- Fiction",
+        "Psychological fiction",
+        "Radicals -- Fiction",
+        "Religious fanaticism -- Fiction",
+        "Siblings -- Fiction"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: American Literature",
+        "Category: Novels",
+        "Gothic Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2024,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/792.txt"
+    },
+    {
+      "id": 14833,
+      "title": "Varney the Vampire; Or, the Feast of Blood",
+      "authors": [
+        {
+          "name": "Prest, Thomas Peckett",
+          "birth_year": 1810,
+          "death_year": 1859
+        },
+        {
+          "name": "Rymer, James Malcolm",
+          "birth_year": null,
+          "death_year": 1884
+        }
+      ],
+      "subjects": [
+        "Gothic fiction",
+        "Horror tales",
+        "Vampires -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1650,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/14833.txt"
+    },
+    {
+      "id": 25016,
+      "title": "The House of Souls",
+      "authors": [
+        {
+          "name": "Machen, Arthur",
+          "birth_year": 1863,
+          "death_year": 1947
+        }
+      ],
+      "subjects": [
+        "Horror tales, English",
+        "Supernatural -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1072,
+      "discovery_sources": [
+        "topic:Horror",
+        "topic:Supernatural"
+      ],
+      "file": "books/25016.txt"
+    },
+    {
+      "id": 72421,
+      "title": "The room in the tower, and other stories",
+      "authors": [
+        {
+          "name": "Benson, E. F. (Edward Frederic)",
+          "birth_year": 1867,
+          "death_year": 1940
+        }
+      ],
+      "subjects": [
+        "English fiction -- 20th century",
+        "Ghost stories, English",
+        "Horror tales, English",
+        "Short stories, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 777,
+      "discovery_sources": [
+        "topic:Horror",
+        "topic:Ghost stories"
+      ],
+      "file": "books/72421.txt"
+    },
+    {
+      "id": 49222,
+      "title": "John Silence, Physician Extraordinary",
+      "authors": [
+        {
+          "name": "Blackwood, Algernon",
+          "birth_year": 1869,
+          "death_year": 1951
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories, English",
+        "Ghost stories, English",
+        "Horror tales, English",
+        "Paranormal fiction, English",
+        "Psychics -- Fiction",
+        "Silence, John (Fictitious character) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 775,
+      "discovery_sources": [
+        "topic:Horror",
+        "topic:Ghost stories"
+      ],
+      "file": "books/49222.txt"
+    },
+    {
+      "id": 1188,
+      "title": "The Lair of the White Worm",
+      "authors": [
+        {
+          "name": "Stoker, Bram",
+          "birth_year": 1847,
+          "death_year": 1912
+        }
+      ],
+      "subjects": [
+        "Gothic fiction",
+        "Horror tales"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Mythology, Legends & Folklore",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Gothic Fiction",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 755,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/1188.txt"
+    },
+    {
+      "id": 22246,
+      "title": "The Upper Berth; By the Waters of Paradise",
+      "authors": [
+        {
+          "name": "Crawford, F. Marion (Francis Marion)",
+          "birth_year": 1854,
+          "death_year": 1909
+        }
+      ],
+      "subjects": [
+        "Ghost stories",
+        "Supernatural -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 736,
+      "discovery_sources": [
+        "topic:Ghost stories",
+        "topic:Supernatural"
+      ],
+      "file": "books/22246.txt"
+    },
+    {
+      "id": 9629,
+      "title": "Ghost Stories of an Antiquary Part 2: More Ghost Stories",
+      "authors": [
+        {
+          "name": "James, M. R. (Montague Rhodes)",
+          "birth_year": 1862,
+          "death_year": 1936
+        }
+      ],
+      "subjects": [
+        "Ghost stories, English",
+        "Horror tales, English",
+        "Short stories, English"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 697,
+      "discovery_sources": [
+        "topic:Horror",
+        "topic:Ghost stories"
+      ],
+      "file": "books/9629.txt"
+    },
+    {
+      "id": 53685,
+      "title": "Melmoth the Wanderer, Vol. 1",
+      "authors": [
+        {
+          "name": "Maturin, Charles Robert",
+          "birth_year": 1780,
+          "death_year": 1824
+        }
+      ],
+      "subjects": [
+        "Gothic fiction",
+        "Horror tales",
+        "Immortalism -- Fiction",
+        "Paranormal fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 620,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/53685.txt"
+    },
+    {
+      "id": 20387,
+      "title": "A Thin Ghost and Others",
+      "authors": [
+        {
+          "name": "James, M. R. (Montague Rhodes)",
+          "birth_year": 1862,
+          "death_year": 1936
+        }
+      ],
+      "subjects": [
+        "Ghost stories, English",
+        "Horror tales, English",
+        "Short stories, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 524,
+      "discovery_sources": [
+        "topic:Horror",
+        "topic:Ghost stories"
+      ],
+      "file": "books/20387.txt"
+    },
+    {
+      "id": 16726,
+      "title": "Four Weird Tales",
+      "authors": [
+        {
+          "name": "Blackwood, Algernon",
+          "birth_year": 1869,
+          "death_year": 1951
+        }
+      ],
+      "subjects": [
+        "Fantasy fiction, English",
+        "Horror tales, English",
+        "Supernatural -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 513,
+      "discovery_sources": [
+        "topic:Horror",
+        "topic:Supernatural"
+      ],
+      "file": "books/16726.txt"
+    },
+    {
+      "id": 20034,
+      "title": "Scottish Ghost Stories",
+      "authors": [
+        {
+          "name": "O'Donnell, Elliott",
+          "birth_year": 1872,
+          "death_year": 1965
+        }
+      ],
+      "subjects": [
+        "Folklore -- Scotland",
+        "Ghost stories, Scottish"
+      ],
+      "bookshelves": [
+        "Category: Mythology, Legends & Folklore",
+        "Category: Short Stories",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 510,
+      "discovery_sources": [
+        "topic:Horror",
+        "topic:Ghost stories"
+      ],
+      "file": "books/20034.txt"
+    },
+    {
+      "id": 14168,
+      "title": "Widdershins",
+      "authors": [
+        {
+          "name": "Onions, Oliver",
+          "birth_year": 1873,
+          "death_year": 1961
+        }
+      ],
+      "subjects": [
+        "Ghost stories, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 505,
+      "discovery_sources": [
+        "topic:Horror",
+        "topic:Ghost stories"
+      ],
+      "file": "books/14168.txt"
+    },
+    {
+      "id": 33688,
+      "title": "Tales of the Wonder Club, Volume I",
+      "authors": [
+        {
+          "name": "Halidom, M. Y.",
+          "birth_year": 1838,
+          "death_year": 1914
+        }
+      ],
+      "subjects": [
+        "Fantasy fiction",
+        "Ghost stories",
+        "Horror tales",
+        "Paranormal fiction",
+        "Short stories",
+        "Storytelling -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 490,
+      "discovery_sources": [
+        "topic:Horror",
+        "topic:Ghost stories"
+      ],
+      "file": "books/33688.txt"
+    },
+    {
+      "id": 2520,
+      "title": "The Man",
+      "authors": [
+        {
+          "name": "Stoker, Bram",
+          "birth_year": 1847,
+          "death_year": 1912
+        }
+      ],
+      "subjects": [
+        "England -- Fiction",
+        "Gothic fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 473,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/2520.txt"
+    },
+    {
+      "id": 74643,
+      "title": "The Italian, Volume 1 (of 3) : $b or, the confessional of the Black Penitents",
+      "authors": [
+        {
+          "name": "Radcliffe, Ann Ward",
+          "birth_year": 1764,
+          "death_year": 1823
+        }
+      ],
+      "subjects": [
+        "Gothic fiction",
+        "Horror tales",
+        "Inquisition -- Fiction",
+        "Kidnapping -- Fiction",
+        "Love stories",
+        "Monks -- Italy -- Fiction",
+        "Naples (Italy) -- Fiction"
+      ],
+      "bookshelves": [],
+      "languages": [
+        "en"
+      ],
+      "download_count": 454,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/74643.txt"
+    },
+    {
+      "id": 40386,
+      "title": "Wandering ghosts",
+      "authors": [
+        {
+          "name": "Crawford, F. Marion (Francis Marion)",
+          "birth_year": 1854,
+          "death_year": 1909
+        }
+      ],
+      "subjects": [
+        "American fiction",
+        "Ghost stories",
+        "Horror tales",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 439,
+      "discovery_sources": [
+        "topic:Horror",
+        "topic:Ghost stories"
+      ],
+      "file": "books/40386.txt"
+    },
+    {
+      "id": 3075,
+      "title": "The Return",
+      "authors": [
+        {
+          "name": "De la Mare, Walter",
+          "birth_year": 1873,
+          "death_year": 1956
+        }
+      ],
+      "subjects": [
+        "Fantasy fiction",
+        "Horror tales",
+        "Paranormal fiction",
+        "Supernatural -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 436,
+      "discovery_sources": [
+        "topic:Horror",
+        "topic:Supernatural"
+      ],
+      "file": "books/3075.txt"
+    },
+    {
+      "id": 36481,
+      "title": "Auriol; or, The Elixir of Life",
+      "authors": [
+        {
+          "name": "Ainsworth, William Harrison",
+          "birth_year": 1805,
+          "death_year": 1882
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "Gothic fiction",
+        "Horror tales",
+        "Paranormal fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Historical Novels",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 422,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/36481.txt"
+    },
+    {
+      "id": 4387,
+      "title": "Present at a Hanging and Other Ghost Stories",
+      "authors": [
+        {
+          "name": "Bierce, Ambrose",
+          "birth_year": 1842,
+          "death_year": 1913
+        }
+      ],
+      "subjects": [
+        "Ghost stories, American",
+        "Horror tales, American",
+        "Short stories, American"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 417,
+      "discovery_sources": [
+        "topic:Horror",
+        "topic:Ghost stories"
+      ],
+      "file": "books/4387.txt"
+    },
+    {
+      "id": 53686,
+      "title": "Melmoth the Wanderer, Vol. 2",
+      "authors": [
+        {
+          "name": "Maturin, Charles Robert",
+          "birth_year": 1780,
+          "death_year": 1824
+        }
+      ],
+      "subjects": [
+        "Gothic fiction",
+        "Horror tales",
+        "Immortalism -- Fiction",
+        "Paranormal fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 408,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/53686.txt"
+    },
+    {
+      "id": 36731,
+      "title": "Tales of the Wonder Club, Volume III",
+      "authors": [
+        {
+          "name": "Halidom, M. Y.",
+          "birth_year": 1838,
+          "death_year": 1914
+        }
+      ],
+      "subjects": [
+        "Fantasy fiction",
+        "Ghost stories",
+        "Horror tales",
+        "Paranormal fiction",
+        "Short stories",
+        "Storytelling -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Novels",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 404,
+      "discovery_sources": [
+        "topic:Horror",
+        "topic:Ghost stories"
+      ],
+      "file": "books/36731.txt"
+    },
+    {
+      "id": 14195,
+      "title": "The Haunted and the Haunters; Or, The House and the Brain",
+      "authors": [
+        {
+          "name": "Lytton, Edward Bulwer Lytton, Baron",
+          "birth_year": 1803,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Ghost stories",
+        "Ghosts -- Fiction",
+        "Haunted houses -- Fiction",
+        "Horror tales"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 388,
+      "discovery_sources": [
+        "topic:Horror",
+        "topic:Ghost stories"
+      ],
+      "file": "books/14195.txt"
+    },
+    {
+      "id": 11045,
+      "title": "The Ghost Ship",
+      "authors": [
+        {
+          "name": "Middleton, Richard",
+          "birth_year": 1882,
+          "death_year": 1911
+        }
+      ],
+      "subjects": [
+        "Fantasy fiction",
+        "Ghost stories",
+        "Horror tales",
+        "Manners and customs -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Humour",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 385,
+      "discovery_sources": [
+        "topic:Horror",
+        "topic:Ghost stories"
+      ],
+      "file": "books/11045.txt"
+    },
+    {
+      "id": 53688,
+      "title": "Melmoth the Wanderer, Vol. 4",
+      "authors": [
+        {
+          "name": "Maturin, Charles Robert",
+          "birth_year": 1780,
+          "death_year": 1824
+        }
+      ],
+      "subjects": [
+        "Gothic fiction",
+        "Horror tales",
+        "Immortalism -- Fiction",
+        "Paranormal fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 369,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/53688.txt"
+    },
+    {
+      "id": 40027,
+      "title": "The Scarecrow, and Other Stories",
+      "authors": [
+        {
+          "name": "Wormser, G. Ranger (Gwendolyn Ranger)",
+          "birth_year": 1893,
+          "death_year": 1953
+        }
+      ],
+      "subjects": [
+        "Ghost stories",
+        "Short stories, American",
+        "Supernatural -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 366,
+      "discovery_sources": [
+        "topic:Ghost stories",
+        "topic:Supernatural"
+      ],
+      "file": "books/40027.txt"
+    },
+    {
+      "id": 53687,
+      "title": "Melmoth the Wanderer, Vol. 3",
+      "authors": [
+        {
+          "name": "Maturin, Charles Robert",
+          "birth_year": 1780,
+          "death_year": 1824
+        }
+      ],
+      "subjects": [
+        "Gothic fiction",
+        "Horror tales",
+        "Immortalism -- Fiction",
+        "Paranormal fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Historical Novels",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 349,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/53687.txt"
+    },
+    {
+      "id": 66837,
+      "title": "Portrait of a Man with Red Hair: A Romantic Macabre",
+      "authors": [
+        {
+          "name": "Walpole, Hugh",
+          "birth_year": 1884,
+          "death_year": 1941
+        }
+      ],
+      "subjects": [
+        "Gothic fiction",
+        "Horror tales",
+        "Sadism -- Fiction",
+        "Suspense fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 336,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/66837.txt"
+    },
+    {
+      "id": 34817,
+      "title": "Tales of the Wonder Club, Volume II",
+      "authors": [
+        {
+          "name": "Halidom, M. Y.",
+          "birth_year": 1838,
+          "death_year": 1914
+        }
+      ],
+      "subjects": [
+        "Fantasy fiction",
+        "Ghost stories",
+        "Horror tales",
+        "Paranormal fiction",
+        "Short stories",
+        "Storytelling -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 333,
+      "discovery_sources": [
+        "topic:Horror",
+        "topic:Ghost stories"
+      ],
+      "file": "books/34817.txt"
+    },
+    {
+      "id": 60339,
+      "title": "Visible and Invisible",
+      "authors": [
+        {
+          "name": "Benson, E. F. (Edward Frederic)",
+          "birth_year": 1867,
+          "death_year": 1940
+        }
+      ],
+      "subjects": [
+        "English fiction -- 20th century",
+        "Ghost stories, English",
+        "Horror tales, English",
+        "Short stories, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 328,
+      "discovery_sources": [
+        "topic:Horror",
+        "topic:Ghost stories"
+      ],
+      "file": "books/60339.txt"
+    },
+    {
+      "id": 74640,
+      "title": "The Italian, Volume 2 (of 3) : $b or, the confessional of the Black Penitents",
+      "authors": [
+        {
+          "name": "Radcliffe, Ann Ward",
+          "birth_year": 1764,
+          "death_year": 1823
+        }
+      ],
+      "subjects": [
+        "Gothic fiction",
+        "Horror tales",
+        "Inquisition -- Fiction",
+        "Kidnapping -- Fiction",
+        "Love stories",
+        "Monks -- Italy -- Fiction",
+        "Naples (Italy) -- Fiction"
+      ],
+      "bookshelves": [],
+      "languages": [
+        "en"
+      ],
+      "download_count": 320,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/74640.txt"
+    },
+    {
+      "id": 10377,
+      "title": "The Evil Guest",
+      "authors": [
+        {
+          "name": "Le Fanu, Joseph Sheridan",
+          "birth_year": 1814,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Gothic fiction",
+        "Horror tales",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 238,
+      "discovery_sources": [
+        "topic:Gothic Fiction",
+        "topic:Horror"
+      ],
+      "file": "books/10377.txt"
+    },
+    {
+      "id": 8492,
+      "title": "The King in Yellow",
+      "authors": [
+        {
+          "name": "Chambers, Robert W. (Robert William)",
+          "birth_year": 1865,
+          "death_year": 1933
+        }
+      ],
+      "subjects": [
+        "Horror tales, American",
+        "Short stories, American",
+        "United States -- Social life and customs -- 19th century -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 77816,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/8492.txt"
+    },
+    {
+      "id": 43,
+      "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+      "authors": [
+        {
+          "name": "Stevenson, Robert Louis",
+          "birth_year": 1850,
+          "death_year": 1894
+        }
+      ],
+      "subjects": [
+        "Horror tales",
+        "London (England) -- Fiction",
+        "Multiple personality -- Fiction",
+        "Physicians -- Fiction",
+        "Psychological fiction",
+        "Science fiction",
+        "Self-experimentation in medicine -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Horror",
+        "Movie Books",
+        "Precursors of Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 66198,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/43.txt"
+    },
+    {
+      "id": 46,
+      "title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+      "authors": [
+        {
+          "name": "Dickens, Charles",
+          "birth_year": 1812,
+          "death_year": 1870
+        }
+      ],
+      "subjects": [
+        "Christmas stories",
+        "Ghost stories",
+        "London (England) -- Fiction",
+        "Misers -- Fiction",
+        "Poor families -- Fiction",
+        "Scrooge, Ebenezer (Fictitious character) -- Fiction",
+        "Sick children -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Children's Literature",
+        "Christmas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 38570,
+      "discovery_sources": [
+        "topic:Ghost stories"
+      ],
+      "file": "books/46.txt"
+    },
+    {
+      "id": 768,
+      "title": "Wuthering Heights",
+      "authors": [
+        {
+          "name": "Brontë, Emily",
+          "birth_year": 1818,
+          "death_year": 1848
+        }
+      ],
+      "subjects": [
+        "Domestic fiction",
+        "Foundlings -- Fiction",
+        "Heathcliff (Fictitious character : Brontë) -- Fiction",
+        "Love stories",
+        "Psychological fiction",
+        "Rejection (Psychology) -- Fiction",
+        "Revenge -- Fiction",
+        "Rural families -- Fiction",
+        "Triangles (Interpersonal relations) -- Fiction",
+        "Yorkshire (England) -- Fiction"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Gothic Fiction",
+        "Movie Books"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 31625,
+      "discovery_sources": [
+        "topic:Gothic Fiction"
+      ],
+      "file": "books/768.txt"
+    },
+    {
+      "id": 5200,
+      "title": "Metamorphosis",
+      "authors": [
+        {
+          "name": "Kafka, Franz",
+          "birth_year": 1883,
+          "death_year": 1924
+        }
+      ],
+      "subjects": [
+        "Metamorphosis -- Fiction",
+        "Psychological fiction"
+      ],
+      "bookshelves": [
+        "Category: Classics of Literature",
+        "Category: German Literature",
+        "Category: Novels",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 26911,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/5200.txt"
+    },
+    {
+      "id": 1952,
+      "title": "The Yellow Wallpaper",
+      "authors": [
+        {
+          "name": "Gilman, Charlotte Perkins",
+          "birth_year": 1860,
+          "death_year": 1935
+        }
+      ],
+      "subjects": [
+        "Feminist fiction",
+        "Married women -- Psychology -- Fiction",
+        "Mentally ill women -- Fiction",
+        "Psychological fiction",
+        "Sex role -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Short Stories",
+        "Gothic Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 22061,
+      "discovery_sources": [
+        "topic:Gothic Fiction"
+      ],
+      "file": "books/1952.txt"
+    },
+    {
+      "id": 24022,
+      "title": "A Christmas Carol",
+      "authors": [
+        {
+          "name": "Dickens, Charles",
+          "birth_year": 1812,
+          "death_year": 1870
+        }
+      ],
+      "subjects": [
+        "Christmas stories",
+        "Ghost stories",
+        "London (England) -- Fiction",
+        "Misers -- Fiction",
+        "Poor families -- Fiction",
+        "Scrooge, Ebenezer (Fictitious character) -- Fiction",
+        "Sick children -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Children's Literature",
+        "Christmas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 10519,
+      "discovery_sources": [
+        "topic:Ghost stories"
+      ],
+      "file": "books/24022.txt"
+    },
+    {
+      "id": 2147,
+      "title": "The Works of Edgar Allan Poe — Volume 1",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "American fiction -- 19th century",
+        "Fantasy fiction",
+        "Horror tales, American",
+        "Poe, Edgar Allan, 1809-1849"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Poetry",
+        "Category: Short Stories",
+        "Detective Fiction",
+        "Horror",
+        "Mystery Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 7982,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/2147.txt"
+    },
+    {
+      "id": 1063,
+      "title": "The Cask of Amontillado",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "Horror tales, American",
+        "Revenge -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 6336,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/1063.txt"
+    },
+    {
+      "id": 25525,
+      "title": "The Works of Edgar Allan Poe, The Raven Edition: Table Of Contents And Index Of The Five Volumes",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "American fiction -- 19th century",
+        "Fantasy fiction",
+        "Horror tales, American",
+        "Indexes",
+        "Poe, Edgar Allan, 1809-1849",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Poetry",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 5863,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/25525.txt"
+    },
+    {
+      "id": 583,
+      "title": "The Woman in White",
+      "authors": [
+        {
+          "name": "Collins, Wilkie",
+          "birth_year": 1824,
+          "death_year": 1889
+        }
+      ],
+      "subjects": [
+        "Art teachers -- Fiction",
+        "Country homes -- Fiction",
+        "Deception -- Fiction",
+        "England -- Fiction",
+        "Gothic fiction",
+        "Inheritance and succession -- Fiction",
+        "Love stories",
+        "Nobility -- Fiction",
+        "Psychiatric hospital patients -- Fiction",
+        "Psychological fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Mystery Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 5375,
+      "discovery_sources": [
+        "topic:Gothic Fiction"
+      ],
+      "file": "books/583.txt"
+    },
+    {
+      "id": 68283,
+      "title": "The call of Cthulhu",
+      "authors": [
+        {
+          "name": "Lovecraft, H. P. (Howard Phillips)",
+          "birth_year": 1890,
+          "death_year": 1937
+        }
+      ],
+      "subjects": [
+        "Cthulhu (Fictitious character) -- Fiction",
+        "Horror tales"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 5270,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/68283.txt"
+    },
+    {
+      "id": 375,
+      "title": "An Occurrence at Owl Creek Bridge",
+      "authors": [
+        {
+          "name": "Bierce, Ambrose",
+          "birth_year": 1842,
+          "death_year": 1913
+        }
+      ],
+      "subjects": [
+        "Prisoners -- Fiction",
+        "Short stories",
+        "United States -- History -- Civil War, 1861-1865 -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Short Stories",
+        "Horror",
+        "US Civil War"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4980,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/375.txt"
+    },
+    {
+      "id": 512,
+      "title": "Mosses from an old manse",
+      "authors": [
+        {
+          "name": "Hawthorne, Nathaniel",
+          "birth_year": 1804,
+          "death_year": 1864
+        }
+      ],
+      "subjects": [
+        "New England -- Social life and customs -- Fiction",
+        "Short stories, American"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Gothic Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4558,
+      "discovery_sources": [
+        "topic:Gothic Fiction"
+      ],
+      "file": "books/512.txt"
+    },
+    {
+      "id": 1064,
+      "title": "The Masque of the Red Death",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "Horror tales, American"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3971,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/1064.txt"
+    },
+    {
+      "id": 4078,
+      "title": "The Picture of Dorian Gray",
+      "authors": [
+        {
+          "name": "Wilde, Oscar",
+          "birth_year": 1854,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Appearance (Philosophy) -- Fiction",
+        "Conduct of life -- Fiction",
+        "Didactic fiction",
+        "Great Britain -- History -- Victoria, 1837-1901 -- Fiction",
+        "London (England) -- History -- 1800-1950 -- Fiction",
+        "Paranormal fiction",
+        "Portraits -- Fiction",
+        "Supernatural -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Contemporary Reviews",
+        "Movie Books"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3491,
+      "discovery_sources": [
+        "topic:Supernatural"
+      ],
+      "file": "books/4078.txt"
+    },
+    {
+      "id": 389,
+      "title": "The Great God Pan",
+      "authors": [
+        {
+          "name": "Machen, Arthur",
+          "birth_year": 1863,
+          "death_year": 1947
+        }
+      ],
+      "subjects": [
+        "Horror tales",
+        "Paranormal fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3462,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/389.txt"
+    },
+    {
+      "id": 537,
+      "title": "Tales of Terror and Mystery",
+      "authors": [
+        {
+          "name": "Doyle, Arthur Conan",
+          "birth_year": 1859,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories, English",
+        "Horror tales, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3267,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/537.txt"
+    },
+    {
+      "id": 30368,
+      "title": "A Christmas Carol: The original manuscript",
+      "authors": [
+        {
+          "name": "Dickens, Charles",
+          "birth_year": 1812,
+          "death_year": 1870
+        }
+      ],
+      "subjects": [
+        "Christmas stories",
+        "Ghost stories",
+        "London (England) -- Fiction",
+        "Misers -- Fiction",
+        "Poor families -- Fiction",
+        "Scrooge, Ebenezer (Fictitious character) -- Fiction",
+        "Sick children -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2973,
+      "discovery_sources": [
+        "topic:Ghost stories"
+      ],
+      "file": "books/30368.txt"
+    },
+    {
+      "id": 1289,
+      "title": "Three Ghost Stories",
+      "authors": [
+        {
+          "name": "Dickens, Charles",
+          "birth_year": 1812,
+          "death_year": 1870
+        }
+      ],
+      "subjects": [
+        "English fiction",
+        "Ghost stories"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Humour",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2926,
+      "discovery_sources": [
+        "topic:Ghost stories"
+      ],
+      "file": "books/1289.txt"
+    },
+    {
+      "id": 10897,
+      "title": "The Wendigo",
+      "authors": [
+        {
+          "name": "Blackwood, Algernon",
+          "birth_year": 1869,
+          "death_year": 1951
+        }
+      ],
+      "subjects": [
+        "Horror tales"
+      ],
+      "bookshelves": [
+        "Category: Mythology, Legends & Folklore",
+        "Category: Novels",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2922,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/10897.txt"
+    },
+    {
+      "id": 10002,
+      "title": "The House on the Borderland",
+      "authors": [
+        {
+          "name": "Hodgson, William Hope",
+          "birth_year": 1877,
+          "death_year": 1918
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Fantasy",
+        "Horror",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2790,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/10002.txt"
+    },
+    {
+      "id": 1210,
+      "title": "Kwaidan: Stories and Studies of Strange Things",
+      "authors": [
+        {
+          "name": "Hearn, Lafcadio",
+          "birth_year": 1850,
+          "death_year": 1904
+        }
+      ],
+      "subjects": [
+        "Ghost stories",
+        "Japan -- Social life and customs -- Fiction",
+        "Legends -- Japan",
+        "Paranormal fiction"
+      ],
+      "bookshelves": [
+        "Category: Mythology, Legends & Folklore",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2758,
+      "discovery_sources": [
+        "topic:Ghost stories"
+      ],
+      "file": "books/1210.txt"
+    },
+    {
+      "id": 14471,
+      "title": "The Empty House and Other Ghost Stories",
+      "authors": [
+        {
+          "name": "Blackwood, Algernon",
+          "birth_year": 1869,
+          "death_year": 1951
+        }
+      ],
+      "subjects": [
+        "Ghost stories, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2650,
+      "discovery_sources": [
+        "topic:Ghost stories"
+      ],
+      "file": "books/14471.txt"
+    },
+    {
+      "id": 23172,
+      "title": "The Damned Thing: 1898, From \"In the Midst of Life\"",
+      "authors": [
+        {
+          "name": "Bierce, Ambrose",
+          "birth_year": 1842,
+          "death_year": 1913
+        }
+      ],
+      "subjects": [
+        "Horror tales",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2621,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/23172.txt"
+    },
+    {
+      "id": 2150,
+      "title": "The Works of Edgar Allan Poe — Volume 4",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "American fiction -- 19th century",
+        "Fantasy fiction",
+        "Horror tales, American",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Short Stories",
+        "Horror",
+        "Mystery Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2373,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/2150.txt"
+    },
+    {
+      "id": 2806,
+      "title": "The Phantom 'Rickshaw, and Other Ghost Stories",
+      "authors": [
+        {
+          "name": "Kipling, Rudyard",
+          "birth_year": 1865,
+          "death_year": 1936
+        }
+      ],
+      "subjects": [
+        "Ghost stories, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Nobel Prizes in Literature"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2306,
+      "discovery_sources": [
+        "topic:Ghost stories"
+      ],
+      "file": "books/2806.txt"
+    },
+    {
+      "id": 2149,
+      "title": "The Works of Edgar Allan Poe — Volume 3",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "American fiction -- 19th century",
+        "Fantasy fiction",
+        "Horror tales, American"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Novels",
+        "Horror",
+        "Mystery Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2270,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/2149.txt"
+    },
+    {
+      "id": 11438,
+      "title": "The Willows",
+      "authors": [
+        {
+          "name": "Blackwood, Algernon",
+          "birth_year": 1869,
+          "death_year": 1951
+        }
+      ],
+      "subjects": [
+        "Horror tales"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2264,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/11438.txt"
+    },
+    {
+      "id": 2151,
+      "title": "The Works of Edgar Allan Poe — Volume 5",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "American fiction -- 19th century",
+        "American poetry",
+        "Fantasy fiction",
+        "Horror tales, American"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Poetry",
+        "Category: Short Stories",
+        "Horror",
+        "Mystery Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2163,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/2151.txt"
+    },
+    {
+      "id": 50133,
+      "title": "The Dunwich horror",
+      "authors": [
+        {
+          "name": "Lovecraft, H. P. (Howard Phillips)",
+          "birth_year": 1890,
+          "death_year": 1937
+        }
+      ],
+      "subjects": [
+        "American fiction -- 20th century",
+        "Fantasy fiction",
+        "Horror tales"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2025,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/50133.txt"
+    },
+    {
+      "id": 11323,
+      "title": "Caleb Williams; Or, Things as They Are",
+      "authors": [
+        {
+          "name": "Godwin, William",
+          "birth_year": 1756,
+          "death_year": 1836
+        }
+      ],
+      "subjects": [
+        "Bildungsromans",
+        "Didactic fiction",
+        "England -- Fiction",
+        "Executions and executioners -- Fiction",
+        "False imprisonment -- Fiction",
+        "Master and servant -- Fiction",
+        "Murderers -- Fiction",
+        "Young men -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Gothic Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1621,
+      "discovery_sources": [
+        "topic:Gothic Fiction"
+      ],
+      "file": "books/11323.txt"
+    },
+    {
+      "id": 59828,
+      "title": "The String of Pearls; Or, The Barber of Fleet Street. A Domestic Romance.",
+      "authors": [
+        {
+          "name": "Prest, Thomas Peckett",
+          "birth_year": 1810,
+          "death_year": 1859
+        },
+        {
+          "name": "Rymer, James Malcolm",
+          "birth_year": null,
+          "death_year": 1884
+        }
+      ],
+      "subjects": [
+        "Bakers -- Fiction",
+        "Barbers -- Fiction",
+        "Cannibalism -- Fiction",
+        "Fleet Street (London, England) -- Fiction",
+        "Historical fiction",
+        "Horror tales",
+        "London (England) -- Social life and customs -- 18th century -- Fiction",
+        "Missing persons -- Fiction",
+        "Murder -- Fiction",
+        "Mystery fiction",
+        "Revenge -- Fiction",
+        "Suspense fiction",
+        "Todd, Sweeney (Legendary character) -- Fiction",
+        "Young women -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Category: Romance"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1459,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/59828.txt"
+    },
+    {
+      "id": 26740,
+      "title": "The Picture of Dorian Gray",
+      "authors": [
+        {
+          "name": "Wilde, Oscar",
+          "birth_year": 1854,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Appearance (Philosophy) -- Fiction",
+        "Conduct of life -- Fiction",
+        "Didactic fiction",
+        "Great Britain -- History -- Victoria, 1837-1901 -- Fiction",
+        "London (England) -- History -- 1800-1950 -- Fiction",
+        "Paranormal fiction",
+        "Portraits -- Fiction",
+        "Supernatural -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1351,
+      "discovery_sources": [
+        "topic:Supernatural"
+      ],
+      "file": "books/26740.txt"
+    },
+    {
+      "id": 68236,
+      "title": "The colour out of space",
+      "authors": [
+        {
+          "name": "Lovecraft, H. P. (Howard Phillips)",
+          "birth_year": 1890,
+          "death_year": 1937
+        }
+      ],
+      "subjects": [
+        "Extraterrestrial beings -- Fiction",
+        "Families -- Fiction",
+        "Farmers -- Fiction",
+        "Horror tales",
+        "Human-alien encounters -- Fiction",
+        "Meteorites -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1339,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/68236.txt"
+    },
+    {
+      "id": 1190,
+      "title": "The Jolly Corner",
+      "authors": [
+        {
+          "name": "James, Henry",
+          "birth_year": 1843,
+          "death_year": 1916
+        }
+      ],
+      "subjects": [
+        "Fiction",
+        "Ghost stories"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1278,
+      "discovery_sources": [
+        "topic:Ghost stories"
+      ],
+      "file": "books/1190.txt"
+    },
+    {
+      "id": 42401,
+      "title": "Vathek; An Arabian Tale",
+      "authors": [
+        {
+          "name": "Beckford, William",
+          "birth_year": 1760,
+          "death_year": 1844
+        }
+      ],
+      "subjects": [
+        "Arab countries -- Fiction",
+        "Fantasy fiction",
+        "Gothic fiction",
+        "Middle East -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1244,
+      "discovery_sources": [
+        "topic:Gothic Fiction"
+      ],
+      "file": "books/42401.txt"
+    },
+    {
+      "id": 5164,
+      "title": "The Beetle: A Mystery",
+      "authors": [
+        {
+          "name": "Marsh, Richard",
+          "birth_year": 1857,
+          "death_year": 1915
+        }
+      ],
+      "subjects": [
+        "British -- Egypt -- Fiction",
+        "Champnell, Augustus (Fictitious character) -- Fiction",
+        "Egypt -- Antiquities -- Collection and preservation -- Fiction",
+        "Egyptologists -- Fiction",
+        "Horror tales",
+        "London (England) -- Fiction",
+        "Monsters -- Fiction",
+        "Paranormal fiction",
+        "Politicians -- Fiction",
+        "Revenge -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Mystery Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1183,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/5164.txt"
+    },
+    {
+      "id": 644,
+      "title": "The Haunted Man and the Ghost's Bargain",
+      "authors": [
+        {
+          "name": "Dickens, Charles",
+          "birth_year": 1812,
+          "death_year": 1870
+        }
+      ],
+      "subjects": [
+        "Christmas stories",
+        "Ghost stories"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Christmas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1153,
+      "discovery_sources": [
+        "topic:Ghost stories"
+      ],
+      "file": "books/644.txt"
+    },
+    {
+      "id": 10662,
+      "title": "The Night Land",
+      "authors": [
+        {
+          "name": "Hodgson, William Hope",
+          "birth_year": 1877,
+          "death_year": 1918
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Fantasy",
+        "Horror",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1138,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/10662.txt"
+    },
+    {
+      "id": 7371,
+      "title": "A Sicilian Romance",
+      "authors": [
+        {
+          "name": "Radcliffe, Ann Ward",
+          "birth_year": 1764,
+          "death_year": 1823
+        }
+      ],
+      "subjects": [
+        "Gothic fiction",
+        "Sicily (Italy) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Historical Novels",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1109,
+      "discovery_sources": [
+        "topic:Gothic Fiction"
+      ],
+      "file": "books/7371.txt"
+    },
+    {
+      "id": 35517,
+      "title": "The Three Impostors; or, The Transmutations",
+      "authors": [
+        {
+          "name": "Machen, Arthur",
+          "birth_year": 1863,
+          "death_year": 1947
+        }
+      ],
+      "subjects": [
+        "Fiction",
+        "Horror tales, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1074,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/35517.txt"
+    },
+    {
+      "id": 3781,
+      "title": "The Jewel of Seven Stars",
+      "authors": [
+        {
+          "name": "Stoker, Bram",
+          "birth_year": 1847,
+          "death_year": 1912
+        }
+      ],
+      "subjects": [
+        "Archaeologists -- Fiction",
+        "Horror tales",
+        "Mummies -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 995,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/3781.txt"
+    },
+    {
+      "id": 24879,
+      "title": "Curious, if True: Strange Tales",
+      "authors": [
+        {
+          "name": "Gaskell, Elizabeth Cleghorn",
+          "birth_year": 1810,
+          "death_year": 1865
+        }
+      ],
+      "subjects": [
+        "Curiosities and wonders -- Fiction",
+        "Horror tales",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 967,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/24879.txt"
+    },
+    {
+      "id": 14851,
+      "title": "Uncle Silas: A Tale of Bartram-Haugh",
+      "authors": [
+        {
+          "name": "Le Fanu, Joseph Sheridan",
+          "birth_year": 1814,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Gothic fiction",
+        "Governesses -- Fiction",
+        "Murderers -- Fiction",
+        "Orphans -- Fiction",
+        "Psychological fiction",
+        "Uncles -- Fiction"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 910,
+      "discovery_sources": [
+        "topic:Gothic Fiction"
+      ],
+      "file": "books/14851.txt"
+    },
+    {
+      "id": 2276,
+      "title": "The Private Memoirs and Confessions of a Justified Sinner",
+      "authors": [
+        {
+          "name": "Hogg, James",
+          "birth_year": 1770,
+          "death_year": 1835
+        }
+      ],
+      "subjects": [
+        "Murderers -- Fiction",
+        "Psychological fiction",
+        "Scotland -- Fiction"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Novels",
+        "Gothic Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 907,
+      "discovery_sources": [
+        "topic:Gothic Fiction"
+      ],
+      "file": "books/2276.txt"
+    },
+    {
+      "id": 5182,
+      "title": "The Old English Baron: a Gothic Story",
+      "authors": [
+        {
+          "name": "Reeve, Clara",
+          "birth_year": 1729,
+          "death_year": 1807
+        }
+      ],
+      "subjects": [
+        "England -- Fiction",
+        "Gothic fiction",
+        "Great Britain -- History -- Henry VI, 1422-1461 -- Fiction",
+        "Historical fiction",
+        "Inheritance and succession -- Fiction",
+        "Nobility -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Historical Novels",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 881,
+      "discovery_sources": [
+        "topic:Gothic Fiction"
+      ],
+      "file": "books/5182.txt"
+    },
+    {
+      "id": 22661,
+      "title": "Clarimonde",
+      "authors": [
+        {
+          "name": "Gautier, Théophile",
+          "birth_year": 1811,
+          "death_year": 1872
+        }
+      ],
+      "subjects": [
+        "Horror tales",
+        "Vampires -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: French Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 863,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/22661.txt"
+    },
+    {
+      "id": 24584,
+      "title": "Man Overboard!",
+      "authors": [
+        {
+          "name": "Crawford, F. Marion (Francis Marion)",
+          "birth_year": 1854,
+          "death_year": 1909
+        }
+      ],
+      "subjects": [
+        "Ghost stories",
+        "Sailors -- Fiction",
+        "Seafaring life -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 851,
+      "discovery_sources": [
+        "topic:Ghost stories"
+      ],
+      "file": "books/24584.txt"
+    },
+    {
+      "id": 38531,
+      "title": "The Beckoning Hand, and Other Stories",
+      "authors": [
+        {
+          "name": "Allen, Grant",
+          "birth_year": 1848,
+          "death_year": 1899
+        }
+      ],
+      "subjects": [
+        "Horror tales",
+        "Mystery fiction",
+        "Short stories",
+        "Suspense fiction"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 759,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/38531.txt"
+    },
+    {
+      "id": 43092,
+      "title": "The Dead Secret: A Novel",
+      "authors": [
+        {
+          "name": "Collins, Wilkie",
+          "birth_year": 1824,
+          "death_year": 1889
+        }
+      ],
+      "subjects": [
+        "Cornwall (England : County) -- Fiction",
+        "Gothic fiction",
+        "Illegitimate children -- Fiction",
+        "Inheritance and succession -- Fiction",
+        "Mothers and daughters -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 730,
+      "discovery_sources": [
+        "topic:Gothic Fiction"
+      ],
+      "file": "books/43092.txt"
+    },
+    {
+      "id": 68277,
+      "title": "The blood of the vampire",
+      "authors": [
+        {
+          "name": "Marryat, Florence",
+          "birth_year": 1833,
+          "death_year": 1899
+        }
+      ],
+      "subjects": [
+        "Horror tales",
+        "Vampires -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 709,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/68277.txt"
+    },
+    {
+      "id": 36518,
+      "title": "All Men are Ghosts",
+      "authors": [
+        {
+          "name": "Jacks, L. P. (Lawrence Pearsall)",
+          "birth_year": 1860,
+          "death_year": 1955
+        }
+      ],
+      "subjects": [
+        "Short stories",
+        "Supernatural -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Novels",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 701,
+      "discovery_sources": [
+        "topic:Supernatural"
+      ],
+      "file": "books/36518.txt"
+    },
+    {
+      "id": 22662,
+      "title": "The Mummy's Foot",
+      "authors": [
+        {
+          "name": "Gautier, Théophile",
+          "birth_year": 1811,
+          "death_year": 1872
+        }
+      ],
+      "subjects": [
+        "Horror tales",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: French Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 683,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/22662.txt"
+    },
+    {
+      "id": 66881,
+      "title": "A Warning to the Curious, and Other Ghost Stories",
+      "authors": [
+        {
+          "name": "James, M. R. (Montague Rhodes)",
+          "birth_year": 1862,
+          "death_year": 1936
+        }
+      ],
+      "subjects": [
+        "English fiction -- 20th century",
+        "Ghost stories, English",
+        "Short stories, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 668,
+      "discovery_sources": [
+        "topic:Ghost stories"
+      ],
+      "file": "books/66881.txt"
+    },
+    {
+      "id": 26687,
+      "title": "Black Spirits and White: A Book of Ghost Stories",
+      "authors": [
+        {
+          "name": "Cram, Ralph Adams",
+          "birth_year": 1863,
+          "death_year": 1942
+        }
+      ],
+      "subjects": [
+        "Ghost stories"
+      ],
+      "bookshelves": [
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 652,
+      "discovery_sources": [
+        "topic:Ghost stories"
+      ],
+      "file": "books/26687.txt"
+    },
+    {
+      "id": 14082,
+      "title": "Le Corbeau = The Raven",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "Fantasy poetry, American -- Translations into French",
+        "Poe, Edgar Allan, 1809-1849 -- Translations into French",
+        "Ravens -- Poetry"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Poetry",
+        "FR Poésie",
+        "Horror"
+      ],
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "download_count": 648,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/14082.txt"
+    },
+    {
+      "id": 40321,
+      "title": "Grim Tales",
+      "authors": [
+        {
+          "name": "Nesbit, E. (Edith)",
+          "birth_year": 1858,
+          "death_year": 1924
+        }
+      ],
+      "subjects": [
+        "Ghost stories, English",
+        "Short stories, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 642,
+      "discovery_sources": [
+        "topic:Ghost stories"
+      ],
+      "file": "books/40321.txt"
+    },
+    {
+      "id": 1617,
+      "title": "The Wind in the Rose-Bush, and Other Stories of the Supernatural",
+      "authors": [
+        {
+          "name": "Freeman, Mary Eleanor Wilkins",
+          "birth_year": 1852,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Ghost stories, American",
+        "New England -- Fiction",
+        "Paranormal fiction, American",
+        "Short stories, American"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 633,
+      "discovery_sources": [
+        "topic:Ghost stories"
+      ],
+      "file": "books/1617.txt"
+    },
+    {
+      "id": 64701,
+      "title": "The Romance of the Forest, interspersed with some pieces of poetry.",
+      "authors": [
+        {
+          "name": "Radcliffe, Ann Ward",
+          "birth_year": 1764,
+          "death_year": 1823
+        }
+      ],
+      "subjects": [
+        "Gothic fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Historical Novels",
+        "Category: Novels",
+        "Category: Romance"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 628,
+      "discovery_sources": [
+        "topic:Gothic Fiction"
+      ],
+      "file": "books/64701.txt"
+    },
+    {
+      "id": 27449,
+      "title": "Border Ghost Stories",
+      "authors": [
+        {
+          "name": "Pease, Howard",
+          "birth_year": 1863,
+          "death_year": 1928
+        }
+      ],
+      "subjects": [
+        "Ghost stories"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Mythology, Legends & Folklore",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 622,
+      "discovery_sources": [
+        "topic:Ghost stories"
+      ],
+      "file": "books/27449.txt"
+    },
+    {
+      "id": 68553,
+      "title": "The festival",
+      "authors": [
+        {
+          "name": "Lovecraft, H. P. (Howard Phillips)",
+          "birth_year": 1890,
+          "death_year": 1937
+        }
+      ],
+      "subjects": [
+        "Horror tales",
+        "New England -- Fiction",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 616,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/68553.txt"
+    },
+    {
+      "id": 924,
+      "title": "To Be Read at Dusk",
+      "authors": [
+        {
+          "name": "Dickens, Charles",
+          "birth_year": 1812,
+          "death_year": 1870
+        }
+      ],
+      "subjects": [
+        "Fiction",
+        "Ghost stories",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 615,
+      "discovery_sources": [
+        "topic:Ghost stories"
+      ],
+      "file": "books/924.txt"
+    },
+    {
+      "id": 10832,
+      "title": "Carnacki, the Ghost Finder",
+      "authors": [
+        {
+          "name": "Hodgson, William Hope",
+          "birth_year": 1877,
+          "death_year": 1918
+        }
+      ],
+      "subjects": [
+        "Horror tales, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 600,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/10832.txt"
+    },
+    {
+      "id": 41646,
+      "title": "Emmeline, the Orphan of the Castle",
+      "authors": [
+        {
+          "name": "Smith, Charlotte",
+          "birth_year": 1749,
+          "death_year": 1806
+        }
+      ],
+      "subjects": [
+        "Gothic fiction",
+        "Great Britain -- Social life and customs -- 18th century -- Fiction",
+        "Marriage -- Fiction",
+        "Single women -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Romance"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 588,
+      "discovery_sources": [
+        "topic:Gothic Fiction"
+      ],
+      "file": "books/41646.txt"
+    },
+    {
+      "id": 54109,
+      "title": "Round the Fire Stories",
+      "authors": [
+        {
+          "name": "Doyle, Arthur Conan",
+          "birth_year": 1859,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "English fiction",
+        "Horror tales, English",
+        "Short stories, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 576,
+      "discovery_sources": [
+        "topic:Horror"
+      ],
+      "file": "books/54109.txt"
+    }
+  ]
+}

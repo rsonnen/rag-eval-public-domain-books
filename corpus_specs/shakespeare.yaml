@@ -1,0 +1,42 @@
+shakespeare:
+  description: |
+    Complete works of William Shakespeare including plays, sonnets, and
+    narrative poems. Uses the dedicated Shakespeare bookshelf on Project
+    Gutenberg for comprehensive coverage.
+
+  source: gutenberg
+
+  search_strategy:
+    searches:
+      - "Shakespeare, William"
+    languages: ["en"]
+
+  target_count: 50
+
+  evaluator_model: gpt-5-mini
+  confidence_threshold: 0.8
+
+  validation_prompt: |
+    You are evaluating whether a book belongs in a corpus of WILLIAM
+    SHAKESPEARE'S ORIGINAL WORKS.
+
+    STRICT ACCEPTANCE CRITERIA:
+    Accept ONLY if ALL of the following are true:
+    1. The PRIMARY content is the COMPLETE text of a Shakespeare play, poem,
+       or sonnet collection - not excerpts, selections, or quotations
+    2. The work is Shakespeare's ORIGINAL TEXT, not a retelling, adaptation,
+       or modernization by another author
+    3. The book is NOT primarily an editorial product (illustrated anthology,
+       gift book, study guide, or compilation by a later editor)
+
+    If the title suggests ANY editorial framing (selections, beauties, gems,
+    flowers, quotations, stories from, tales from), REJECT it.
+
+    If another person's name appears prominently (illustrator, editor, adapter,
+    reteller), REJECT it unless it's clearly just a scholarly editor of the
+    original text.
+
+    ACCEPT: Individual plays, complete sonnets, narrative poems, collected works
+    REJECT: Everything else - criticism, biography, adaptations, anthologies,
+    illustrated compilations, children's versions, study guides, quotation
+    collections, audio recording metadata

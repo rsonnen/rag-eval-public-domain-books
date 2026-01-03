@@ -1,0 +1,3348 @@
+{
+  "corpus": "early_american",
+  "source": "gutenberg",
+  "search_strategy": {
+    "topics": [
+      "American literature",
+      "American fiction",
+      "American poetry"
+    ],
+    "author_years": [
+      1780,
+      1920
+    ],
+    "languages": [
+      "en"
+    ]
+  },
+  "curated_at": "2025-12-26T20:49:11.796848+00:00",
+  "total_books": 120,
+  "books_evaluated": 274,
+  "acceptance_rate": 0.43795620437956206,
+  "books": [
+    {
+      "id": 2701,
+      "title": "Moby Dick; Or, The Whale",
+      "authors": [
+        {
+          "name": "Melville, Herman",
+          "birth_year": 1819,
+          "death_year": 1891
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Ahab, Captain (Fictitious character) -- Fiction",
+        "Mentally ill -- Fiction",
+        "Psychological fiction",
+        "Sea stories",
+        "Ship captains -- Fiction",
+        "Whales -- Fiction",
+        "Whaling -- Fiction",
+        "Whaling ships -- Fiction"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 119658,
+      "file": "books/2701.txt"
+    },
+    {
+      "id": 8492,
+      "title": "The King in Yellow",
+      "authors": [
+        {
+          "name": "Chambers, Robert W. (Robert William)",
+          "birth_year": 1865,
+          "death_year": 1933
+        }
+      ],
+      "subjects": [
+        "Horror tales, American",
+        "Short stories, American",
+        "United States -- Social life and customs -- 19th century -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 77816,
+      "file": "books/8492.txt"
+    },
+    {
+      "id": 25344,
+      "title": "The Scarlet Letter",
+      "authors": [
+        {
+          "name": "Hawthorne, Nathaniel",
+          "birth_year": 1804,
+          "death_year": 1864
+        }
+      ],
+      "subjects": [
+        "Adultery -- Fiction",
+        "Boston (Mass.) -- History -- Colonial period, ca. 1600-1775 -- Fiction",
+        "Clergy -- Fiction",
+        "Historical fiction",
+        "Illegitimate children -- Fiction",
+        "Married women -- Fiction",
+        "Psychological fiction",
+        "Puritans -- Fiction",
+        "Revenge -- Fiction",
+        "Triangles (Interpersonal relations) -- Fiction",
+        "Women immigrants -- Fiction"
+      ],
+      "bookshelves": [
+        "Banned Books from Anne Haight's list",
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 50892,
+      "file": "books/25344.txt"
+    },
+    {
+      "id": 37106,
+      "title": "Little Women; Or, Meg, Jo, Beth, and Amy",
+      "authors": [
+        {
+          "name": "Alcott, Louisa May",
+          "birth_year": 1832,
+          "death_year": 1888
+        }
+      ],
+      "subjects": [
+        "Autobiographical fiction",
+        "Bildungsromans",
+        "Domestic fiction",
+        "Family life -- New England -- Fiction",
+        "March family (Fictitious characters) -- Fiction",
+        "Mothers and daughters -- Fiction",
+        "New England -- Fiction",
+        "Sisters -- Fiction",
+        "Young women -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Children & Young Adult Reading",
+        "Category: Classics of Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 49985,
+      "file": "books/37106.txt"
+    },
+    {
+      "id": 76,
+      "title": "Adventures of Huckleberry Finn",
+      "authors": [
+        {
+          "name": "Twain, Mark",
+          "birth_year": 1835,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Bildungsromans",
+        "Boys -- Fiction",
+        "Finn, Huckleberry (Fictitious character) -- Fiction",
+        "Fugitive slaves -- Fiction",
+        "Humorous stories",
+        "Male friendship -- Fiction",
+        "Mississippi River -- Fiction",
+        "Missouri -- Fiction",
+        "Race relations -- Fiction",
+        "Runaway children -- Fiction"
+      ],
+      "bookshelves": [
+        "Banned Books List from the American Library Association",
+        "Banned Books from Anne Haight's list",
+        "Best Books Ever Listings",
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 30534,
+      "file": "books/76.txt"
+    },
+    {
+      "id": 41,
+      "title": "The Legend of Sleepy Hollow",
+      "authors": [
+        {
+          "name": "Irving, Washington",
+          "birth_year": 1783,
+          "death_year": 1859
+        }
+      ],
+      "subjects": [
+        "Ghosts -- Fiction",
+        "New York (State) -- History -- 1775-1865 -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Mythology, Legends & Folklore",
+        "Category: Short Stories",
+        "Children's Literature",
+        "Harvard Classics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 25577,
+      "file": "books/41.txt"
+    },
+    {
+      "id": 74,
+      "title": "The Adventures of Tom Sawyer, Complete",
+      "authors": [
+        {
+          "name": "Twain, Mark",
+          "birth_year": 1835,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Bildungsromans",
+        "Boys -- Fiction",
+        "Child witnesses -- Fiction",
+        "Humorous stories",
+        "Male friendship -- Fiction",
+        "Mississippi River Valley -- Fiction",
+        "Missouri -- Fiction",
+        "Runaway children -- Fiction",
+        "Sawyer, Tom (Fictitious character) -- Fiction"
+      ],
+      "bookshelves": [
+        "Banned Books List from the American Library Association",
+        "Banned Books from Anne Haight's list",
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 24606,
+      "file": "books/74.txt"
+    },
+    {
+      "id": 205,
+      "title": "Walden, and On The Duty Of Civil Disobedience",
+      "authors": [
+        {
+          "name": "Thoreau, Henry David",
+          "birth_year": 1817,
+          "death_year": 1862
+        }
+      ],
+      "subjects": [
+        "Authors, American -- 19th century -- Biography",
+        "Civil disobedience",
+        "Government, Resistance to",
+        "Natural history -- Massachusetts -- Walden Woods",
+        "Solitude",
+        "Thoreau, Henry David, 1817-1862 -- Homes and haunts -- Massachusetts -- Walden Woods",
+        "Walden Woods (Mass.) -- Social life and customs",
+        "Wilderness areas -- Massachusetts -- Walden Woods"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 23641,
+      "file": "books/205.txt"
+    },
+    {
+      "id": 2148,
+      "title": "The Works of Edgar Allan Poe — Volume 2",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "American fiction -- 19th century",
+        "Fantasy fiction",
+        "Horror tales, American",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Detective Fiction",
+        "Gothic Fiction",
+        "Horror",
+        "Mystery Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 22323,
+      "file": "books/2148.txt"
+    },
+    {
+      "id": 1952,
+      "title": "The Yellow Wallpaper",
+      "authors": [
+        {
+          "name": "Gilman, Charlotte Perkins",
+          "birth_year": 1860,
+          "death_year": 1935
+        }
+      ],
+      "subjects": [
+        "Feminist fiction",
+        "Married women -- Psychology -- Fiction",
+        "Mentally ill women -- Fiction",
+        "Psychological fiction",
+        "Sex role -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Short Stories",
+        "Gothic Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 22061,
+      "file": "books/1952.txt"
+    },
+    {
+      "id": 17135,
+      "title": "Twas the Night before Christmas: A Visit from St. Nicholas",
+      "authors": [
+        {
+          "name": "Moore, Clement Clarke",
+          "birth_year": 1779,
+          "death_year": 1863
+        }
+      ],
+      "subjects": [
+        "Children's poetry, American",
+        "Christmas -- Juvenile poetry",
+        "Narrative poetry",
+        "Santa Claus -- Juvenile poetry"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Children & Young Adult Reading",
+        "Category: Classics of Literature",
+        "Category: Poetry",
+        "Children's Picture Books",
+        "Christmas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 16092,
+      "file": "books/17135.txt"
+    },
+    {
+      "id": 514,
+      "title": "Little Women",
+      "authors": [
+        {
+          "name": "Alcott, Louisa May",
+          "birth_year": 1832,
+          "death_year": 1888
+        }
+      ],
+      "subjects": [
+        "Autobiographical fiction",
+        "Bildungsromans",
+        "Domestic fiction",
+        "Family life -- New England -- Fiction",
+        "March family (Fictitious characters) -- Fiction",
+        "Mothers and daughters -- Fiction",
+        "New England -- Fiction",
+        "Sisters -- Fiction",
+        "Young women -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Children's Literature"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 14821,
+      "file": "books/514.txt"
+    },
+    {
+      "id": 409,
+      "title": "Poems on various subjects, religious and moral",
+      "authors": [
+        {
+          "name": "Wheatley, Phillis",
+          "birth_year": 1753,
+          "death_year": 1784
+        }
+      ],
+      "subjects": [
+        "American poetry",
+        "American poetry -- African American authors"
+      ],
+      "bookshelves": [
+        "African American Writers",
+        "Category: American Literature",
+        "Category: Poetry"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 12574,
+      "file": "books/409.txt"
+    },
+    {
+      "id": 20203,
+      "title": "Autobiography of Benjamin Franklin",
+      "authors": [
+        {
+          "name": "Franklin, Benjamin",
+          "birth_year": 1706,
+          "death_year": 1790
+        }
+      ],
+      "subjects": [
+        "Franklin, Benjamin, 1706-1790",
+        "Statesmen -- United States -- Biography"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Biographies",
+        "Category: History - American",
+        "Harvard Classics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 11590,
+      "file": "books/20203.txt"
+    },
+    {
+      "id": 11030,
+      "title": "Incidents in the Life of a Slave Girl, Written by Herself",
+      "authors": [
+        {
+          "name": "Jacobs, Harriet A. (Harriet Ann)",
+          "birth_year": 1813,
+          "death_year": 1897
+        }
+      ],
+      "subjects": [
+        "Enslaved persons -- United States -- Biography",
+        "Enslaved persons -- United States -- Social conditions",
+        "Enslaved women -- United States -- Biography",
+        "Jacobs, Harriet A. (Harriet Ann), 1813-1897"
+      ],
+      "bookshelves": [
+        "African American Writers",
+        "Category: American Literature",
+        "Category: Biographies"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 11500,
+      "file": "books/11030.txt"
+    },
+    {
+      "id": 60976,
+      "title": "Rip Van Winkle",
+      "authors": [
+        {
+          "name": "Irving, Washington",
+          "birth_year": 1783,
+          "death_year": 1859
+        }
+      ],
+      "subjects": [
+        "Catskill Mountains Region (N.Y.) -- History -- 18th century -- Fiction",
+        "Fantasy fiction",
+        "Hudson River (N.Y. and N.J.) -- Fiction",
+        "New York (State) -- History -- 1775-1865 -- Fiction",
+        "Van Winkle, Rip (Fictitious character) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Mythology, Legends & Folklore",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 11456,
+      "file": "books/60976.txt"
+    },
+    {
+      "id": 29433,
+      "title": "Nature",
+      "authors": [
+        {
+          "name": "Emerson, Ralph Waldo",
+          "birth_year": 1803,
+          "death_year": 1882
+        }
+      ],
+      "subjects": [
+        "Nature",
+        "Philosophy, American"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 10178,
+      "file": "books/29433.txt"
+    },
+    {
+      "id": 16643,
+      "title": "Essays by Ralph Waldo Emerson",
+      "authors": [
+        {
+          "name": "Emerson, Ralph Waldo",
+          "birth_year": 1803,
+          "death_year": 1882
+        }
+      ],
+      "subjects": [
+        "Essays"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics",
+        "Harvard Classics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 9230,
+      "file": "books/16643.txt"
+    },
+    {
+      "id": 245,
+      "title": "Life on the Mississippi",
+      "authors": [
+        {
+          "name": "Twain, Mark",
+          "birth_year": 1835,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Authors, American -- 19th century -- Biography",
+        "Mississippi River -- Description and travel",
+        "Mississippi River Valley -- Social life and customs -- 19th century",
+        "Pilots and pilotage -- Mississippi River",
+        "Twain, Mark, 1835-1910 -- Travel -- Mississippi River"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Biographies",
+        "Category: History - American",
+        "Category: Travel Writing"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 9057,
+      "file": "books/245.txt"
+    },
+    {
+      "id": 1322,
+      "title": "Leaves of Grass",
+      "authors": [
+        {
+          "name": "Whitman, Walt",
+          "birth_year": 1819,
+          "death_year": 1892
+        }
+      ],
+      "subjects": [
+        "American poetry -- 19th century"
+      ],
+      "bookshelves": [
+        "Banned Books from Anne Haight's list",
+        "Best Books Ever Listings",
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Poetry",
+        "Poetry"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 8974,
+      "file": "books/1322.txt"
+    },
+    {
+      "id": 203,
+      "title": "Uncle Tom's Cabin",
+      "authors": [
+        {
+          "name": "Stowe, Harriet Beecher",
+          "birth_year": 1811,
+          "death_year": 1896
+        }
+      ],
+      "subjects": [
+        "African Americans -- Fiction",
+        "Didactic fiction",
+        "Enslaved persons -- Fiction",
+        "Fugitive slaves -- Fiction",
+        "Master and servant -- Fiction",
+        "Plantation life -- Fiction",
+        "Political fiction",
+        "Slavery -- Fiction",
+        "Southern States -- Fiction",
+        "Uncle Tom (Fictitious character) -- Fiction"
+      ],
+      "bookshelves": [
+        "Banned Books from Anne Haight's list",
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Slavery",
+        "US Civil War"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 8560,
+      "file": "books/203.txt"
+    },
+    {
+      "id": 12242,
+      "title": "Poems by Emily Dickinson, Three Series, Complete",
+      "authors": [
+        {
+          "name": "Dickinson, Emily",
+          "birth_year": 1830,
+          "death_year": 1886
+        }
+      ],
+      "subjects": [
+        "American poetry"
+      ],
+      "bookshelves": [
+        "Bibliomania",
+        "Category: American Literature",
+        "Category: Poetry"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 8238,
+      "file": "books/12242.txt"
+    },
+    {
+      "id": 2147,
+      "title": "The Works of Edgar Allan Poe — Volume 1",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "American fiction -- 19th century",
+        "Fantasy fiction",
+        "Horror tales, American",
+        "Poe, Edgar Allan, 1809-1849"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Poetry",
+        "Category: Short Stories",
+        "Detective Fiction",
+        "Horror",
+        "Mystery Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 7982,
+      "file": "books/2147.txt"
+    },
+    {
+      "id": 160,
+      "title": "The Awakening, and Selected Short Stories",
+      "authors": [
+        {
+          "name": "Chopin, Kate",
+          "birth_year": 1850,
+          "death_year": 1904
+        }
+      ],
+      "subjects": [
+        "Adultery -- Fiction",
+        "Louisiana -- Social life and customs -- Fiction",
+        "New Orleans (La.) -- Fiction",
+        "Self-actualization (Psychology) -- Fiction",
+        "Women -- Louisiana -- New Orleans -- Social conditions -- Fiction"
+      ],
+      "bookshelves": [
+        "Banned Books List from the American Library Association",
+        "Banned Books from Anne Haight's list",
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 7568,
+      "file": "books/160.txt"
+    },
+    {
+      "id": 71,
+      "title": "On the Duty of Civil Disobedience",
+      "authors": [
+        {
+          "name": "Thoreau, Henry David",
+          "birth_year": 1817,
+          "death_year": 1862
+        }
+      ],
+      "subjects": [
+        "Civil disobedience",
+        "Government, Resistance to"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics",
+        "Category: Politics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 6691,
+      "file": "books/71.txt"
+    },
+    {
+      "id": 11231,
+      "title": "Bartleby, the Scrivener: A Story of Wall-Street",
+      "authors": [
+        {
+          "name": "Melville, Herman",
+          "birth_year": 1819,
+          "death_year": 1891
+        }
+      ],
+      "subjects": [
+        "Copyists -- Fiction",
+        "New York (N.Y.) -- Fiction",
+        "Psychological fiction",
+        "Wall Street (New York, N.Y.) -- Fiction",
+        "Young men -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 6681,
+      "file": "books/11231.txt"
+    },
+    {
+      "id": 3177,
+      "title": "Roughing It",
+      "authors": [
+        {
+          "name": "Twain, Mark",
+          "birth_year": 1835,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Authors, American -- Homes and haunts -- West (U.S.)",
+        "Hawaii -- Description and travel",
+        "Twain, Mark, 1835-1910 -- Travel -- West (U.S.)",
+        "West (U.S.) -- Description and travel",
+        "West (U.S.) -- Intellectual life -- 19th century"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Humour",
+        "Category: Travel Writing",
+        "Travel"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 6671,
+      "file": "books/3177.txt"
+    },
+    {
+      "id": 1063,
+      "title": "The Cask of Amontillado",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "Horror tales, American",
+        "Revenge -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 6336,
+      "file": "books/1063.txt"
+    },
+    {
+      "id": 86,
+      "title": "A Connecticut Yankee in King Arthur's Court",
+      "authors": [
+        {
+          "name": "Twain, Mark",
+          "birth_year": 1835,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Americans -- Great Britain -- Fiction",
+        "Arthurian romances -- Adaptations",
+        "Britons -- Fiction",
+        "Fantasy fiction",
+        "Kings and rulers -- Fiction",
+        "Knights and knighthood -- Fiction",
+        "Satire",
+        "Time travel -- Fiction"
+      ],
+      "bookshelves": [
+        "Arthurian Legends",
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Humour",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Precursors of Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 6317,
+      "file": "books/86.txt"
+    },
+    {
+      "id": 43453,
+      "title": "A Pickle for the Knowing Ones",
+      "authors": [
+        {
+          "name": "Dexter, Timothy",
+          "birth_year": 1747,
+          "death_year": 1806
+        }
+      ],
+      "subjects": [
+        "Dexter, Timothy, 1747-1806",
+        "Newburyport (Mass.) -- Biography"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Biographies",
+        "Category: Humour",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 6280,
+      "file": "books/43453.txt"
+    },
+    {
+      "id": 25525,
+      "title": "The Works of Edgar Allan Poe, The Raven Edition: Table Of Contents And Index Of The Five Volumes",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "American fiction -- 19th century",
+        "Fantasy fiction",
+        "Horror tales, American",
+        "Indexes",
+        "Poe, Edgar Allan, 1809-1849",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Poetry",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 5863,
+      "file": "books/25525.txt"
+    },
+    {
+      "id": 73,
+      "title": "The Red Badge of Courage: An Episode of the American Civil War",
+      "authors": [
+        {
+          "name": "Crane, Stephen",
+          "birth_year": 1871,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Chancellorsville, Battle of, Chancellorsville, Va., 1863 -- Fiction",
+        "Historical fiction",
+        "United States -- History -- Civil War, 1861-1865 -- Fiction",
+        "Virginia -- History -- Civil War, 1861-1865 -- Fiction",
+        "War stories"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Bestsellers, American, 1895-1923",
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: History - American",
+        "Category: History - Warfare",
+        "Category: Novels",
+        "Historical Fiction",
+        "US Civil War"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 5832,
+      "file": "books/73.txt"
+    },
+    {
+      "id": 3178,
+      "title": "The Gilded Age: A Tale of Today",
+      "authors": [
+        {
+          "name": "Twain, Mark",
+          "birth_year": 1835,
+          "death_year": 1910
+        },
+        {
+          "name": "Warner, Charles Dudley",
+          "birth_year": 1829,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Businessmen -- Fiction",
+        "Legislators -- Fiction",
+        "Political corruption -- Fiction",
+        "Political fiction",
+        "Satire",
+        "Speculation -- Fiction",
+        "Washington (D.C.) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 5500,
+      "file": "books/3178.txt"
+    },
+    {
+      "id": 3176,
+      "title": "The Innocents Abroad",
+      "authors": [
+        {
+          "name": "Twain, Mark",
+          "birth_year": 1835,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Europe -- Description and travel",
+        "Middle East -- Description and travel",
+        "Voyages and travels"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Humour",
+        "Category: Travel Writing"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 5447,
+      "file": "books/3176.txt"
+    },
+    {
+      "id": 940,
+      "title": "The Last of the Mohicans; A narrative of 1757",
+      "authors": [
+        {
+          "name": "Cooper, James Fenimore",
+          "birth_year": 1789,
+          "death_year": 1851
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Bumppo, Natty (Fictitious character) -- Fiction",
+        "Frontier and pioneer life -- Fiction",
+        "Historical fiction",
+        "Mohegan Indians -- Fiction",
+        "United States -- History -- French and Indian War, 1754-1763 -- Fiction",
+        "War stories"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Historical Novels",
+        "Historical Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 5056,
+      "file": "books/940.txt"
+    },
+    {
+      "id": 375,
+      "title": "An Occurrence at Owl Creek Bridge",
+      "authors": [
+        {
+          "name": "Bierce, Ambrose",
+          "birth_year": 1842,
+          "death_year": 1913
+        }
+      ],
+      "subjects": [
+        "Prisoners -- Fiction",
+        "Short stories",
+        "United States -- History -- Civil War, 1861-1865 -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Short Stories",
+        "Horror",
+        "US Civil War"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4980,
+      "file": "books/375.txt"
+    },
+    {
+      "id": 15,
+      "title": "Moby-Dick; or, The Whale",
+      "authors": [
+        {
+          "name": "Melville, Herman",
+          "birth_year": 1819,
+          "death_year": 1891
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Ahab, Captain (Fictitious character) -- Fiction",
+        "Mentally ill -- Fiction",
+        "Psychological fiction",
+        "Sea stories",
+        "Ship captains -- Fiction",
+        "Whales -- Fiction",
+        "Whaling -- Fiction",
+        "Whaling ships -- Fiction"
+      ],
+      "bookshelves": [
+        "Adventure",
+        "Best Books Ever Listings",
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4698,
+      "file": "books/15.txt"
+    },
+    {
+      "id": 2895,
+      "title": "Following the Equator: A Journey Around the World",
+      "authors": [
+        {
+          "name": "Twain, Mark",
+          "birth_year": 1835,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Equator -- Description and travel",
+        "Twain, Mark, 1835-1910 -- Travel",
+        "Voyages around the world"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Travel Writing"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4659,
+      "file": "books/2895.txt"
+    },
+    {
+      "id": 512,
+      "title": "Mosses from an old manse",
+      "authors": [
+        {
+          "name": "Hawthorne, Nathaniel",
+          "birth_year": 1804,
+          "death_year": 1864
+        }
+      ],
+      "subjects": [
+        "New England -- Social life and customs -- Fiction",
+        "Short stories, American"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Gothic Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4558,
+      "file": "books/512.txt"
+    },
+    {
+      "id": 932,
+      "title": "The Fall of the House of Usher",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "Gothic fiction",
+        "Horror tales",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories",
+        "Movie Books"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4545,
+      "file": "books/932.txt"
+    },
+    {
+      "id": 3189,
+      "title": "Sketches New and Old",
+      "authors": [
+        {
+          "name": "Twain, Mark",
+          "birth_year": 1835,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Humorous stories, American",
+        "United States -- Social life and customs -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Humour",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4215,
+      "file": "books/3189.txt"
+    },
+    {
+      "id": 1064,
+      "title": "The Masque of the Red Death",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "Horror tales, American"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3971,
+      "file": "books/1064.txt"
+    },
+    {
+      "id": 51060,
+      "title": "The Narrative of Arthur Gordon Pym of Nantucket: Comprising the details of a mutiny and atrocious butchery on board the American brig Grampus, on her way to the South Seas, in the month of June, 1827.",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "Sea stories",
+        "Stowaways -- Fiction",
+        "Whaling ships -- Fiction",
+        "Young men -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3749,
+      "file": "books/51060.txt"
+    },
+    {
+      "id": 202,
+      "title": "My Bondage and My Freedom",
+      "authors": [
+        {
+          "name": "Douglass, Frederick",
+          "birth_year": 1818,
+          "death_year": 1895
+        }
+      ],
+      "subjects": [
+        "Abolitionists -- United States -- Biography",
+        "African American abolitionists -- Biography",
+        "Antislavery movements -- United States -- History -- 19th century",
+        "Douglass, Frederick, 1818-1895",
+        "Enslaved persons -- Maryland -- Social conditions -- 19th century",
+        "Fugitive slaves -- Maryland -- Biography",
+        "Plantation life -- Maryland -- History -- 19th century"
+      ],
+      "bookshelves": [
+        "African American Writers",
+        "Category: American Literature",
+        "Category: Biographies",
+        "Category: History - American",
+        "Slavery"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3651,
+      "file": "books/202.txt"
+    },
+    {
+      "id": 13707,
+      "title": "Twice-told tales",
+      "authors": [
+        {
+          "name": "Hawthorne, Nathaniel",
+          "birth_year": 1804,
+          "death_year": 1864
+        }
+      ],
+      "subjects": [
+        "Historical fiction, American",
+        "New England -- Social life and customs -- Fiction",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Short Stories",
+        "Children's Literature"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3590,
+      "file": "books/13707.txt"
+    },
+    {
+      "id": 45524,
+      "title": "The Open Boat and Other Stories",
+      "authors": [
+        {
+          "name": "Crane, Stephen",
+          "birth_year": 1871,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Short stories, American",
+        "United States -- Social life and customs -- 19th century -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3512,
+      "file": "books/45524.txt"
+    },
+    {
+      "id": 102,
+      "title": "The Tragedy of Pudd'nhead Wilson",
+      "authors": [
+        {
+          "name": "Twain, Mark",
+          "birth_year": 1835,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Impostors and imposture -- Fiction",
+        "Infants switched at birth -- Fiction",
+        "Legal stories",
+        "Missouri -- Fiction",
+        "Passing (Identity) -- Fiction",
+        "Race relations -- Fiction",
+        "Trials (Murder) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3257,
+      "file": "books/102.txt"
+    },
+    {
+      "id": 60479,
+      "title": "1900; or, The last President",
+      "authors": [
+        {
+          "name": "Lockwood, Ingersoll",
+          "birth_year": 1841,
+          "death_year": 1918
+        }
+      ],
+      "subjects": [
+        "United States -- Politics and government -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Politics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3243,
+      "file": "books/60479.txt"
+    },
+    {
+      "id": 21829,
+      "title": "A Treatise on Domestic Economy; For the Use of Young Ladies at Home and at School",
+      "authors": [
+        {
+          "name": "Beecher, Catharine Esther",
+          "birth_year": 1800,
+          "death_year": 1878
+        }
+      ],
+      "subjects": [
+        "Home economics"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Health & Medicine",
+        "Category: How To ...",
+        "Category: Parenthood & Family Relations",
+        "Category: Teaching & Education",
+        "Technology"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3138,
+      "file": "books/21829.txt"
+    },
+    {
+      "id": 10031,
+      "title": "The Complete Poetical Works of Edgar Allan Poe: Including Essays on Poetry",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "Fantasy poetry, American"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Poetry"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3012,
+      "file": "books/10031.txt"
+    },
+    {
+      "id": 119,
+      "title": "A Tramp Abroad",
+      "authors": [
+        {
+          "name": "Twain, Mark",
+          "birth_year": 1835,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Americans -- Europe -- Fiction",
+        "Europe -- Fiction",
+        "Humorous stories",
+        "Walking -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Humour",
+        "Category: Travel Writing"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3002,
+      "file": "books/119.txt"
+    },
+    {
+      "id": 6615,
+      "title": "Myths and Legends of Our Own Land — Complete",
+      "authors": [
+        {
+          "name": "Skinner, Charles M. (Charles Montgomery)",
+          "birth_year": 1852,
+          "death_year": 1907
+        }
+      ],
+      "subjects": [
+        "Folklore -- United States"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Mythology, Legends & Folklore",
+        "Folklore"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2952,
+      "file": "books/6615.txt"
+    },
+    {
+      "id": 208,
+      "title": "Daisy Miller: A Study",
+      "authors": [
+        {
+          "name": "James, Henry",
+          "birth_year": 1843,
+          "death_year": 1916
+        }
+      ],
+      "subjects": [
+        "Americans -- Europe -- Fiction",
+        "Europe -- Fiction",
+        "Psychological fiction",
+        "Young women -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2933,
+      "file": "books/208.txt"
+    },
+    {
+      "id": 12843,
+      "title": "Poems: Household Edition",
+      "authors": [
+        {
+          "name": "Emerson, Ralph Waldo",
+          "birth_year": 1803,
+          "death_year": 1882
+        }
+      ],
+      "subjects": [
+        "Poetry"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Poetry"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2909,
+      "file": "books/12843.txt"
+    },
+    {
+      "id": 876,
+      "title": "Life in the Iron-Mills; Or, The Korl Woman",
+      "authors": [
+        {
+          "name": "Davis, Rebecca Harding",
+          "birth_year": 1831,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Feminism -- Fiction",
+        "Women iron and steel workers -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2844,
+      "file": "books/876.txt"
+    },
+    {
+      "id": 77,
+      "title": "The House of the Seven Gables",
+      "authors": [
+        {
+          "name": "Hawthorne, Nathaniel",
+          "birth_year": 1804,
+          "death_year": 1864
+        }
+      ],
+      "subjects": [
+        "Domestic fiction",
+        "Haunted houses -- Fiction",
+        "Historical fiction",
+        "Paranormal fiction",
+        "Salem (Mass.) -- Fiction"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2832,
+      "file": "books/77.txt"
+    },
+    {
+      "id": 2048,
+      "title": "The Sketch-Book of Geoffrey Crayon",
+      "authors": [
+        {
+          "name": "Irving, Washington",
+          "birth_year": 1783,
+          "death_year": 1859
+        }
+      ],
+      "subjects": [
+        "Americans -- England -- History -- 19th century",
+        "Catskill Mountains Region (N.Y.) -- Fiction",
+        "England -- Social life and customs -- 19th century",
+        "Fantasy fiction, American",
+        "Hudson River Valley (N.Y. and N.J.) -- Fiction",
+        "Irving, Washington, 1783-1859 -- Travel -- England"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2799,
+      "file": "books/2048.txt"
+    },
+    {
+      "id": 42283,
+      "title": "The San Rosario Ranch",
+      "authors": [
+        {
+          "name": "Elliott, Maud Howe",
+          "birth_year": 1854,
+          "death_year": 1948
+        }
+      ],
+      "subjects": [
+        "California -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Romance"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2735,
+      "file": "books/42283.txt"
+    },
+    {
+      "id": 17192,
+      "title": "The Raven",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "Fantasy poetry, American",
+        "Ravens -- Poetry"
+      ],
+      "bookshelves": [
+        "Bibliomania",
+        "Category: American Literature",
+        "Category: Poetry"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2734,
+      "file": "books/17192.txt"
+    },
+    {
+      "id": 55987,
+      "title": "Letters of Asa Gray; Vol. 2",
+      "authors": [
+        {
+          "name": "Gray, Asa",
+          "birth_year": 1810,
+          "death_year": 1888
+        }
+      ],
+      "subjects": [
+        "Botanists -- United States -- Correspondence",
+        "Gray, Asa, 1810-1888 -- Correspondence"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Biographies",
+        "Category: Essays, Letters & Speeches",
+        "Category: Science - Biology",
+        "Category: Travel Writing"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2731,
+      "file": "books/55987.txt"
+    },
+    {
+      "id": 23172,
+      "title": "The Damned Thing: 1898, From \"In the Midst of Life\"",
+      "authors": [
+        {
+          "name": "Bierce, Ambrose",
+          "birth_year": 1842,
+          "death_year": 1913
+        }
+      ],
+      "subjects": [
+        "Horror tales",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2621,
+      "file": "books/23172.txt"
+    },
+    {
+      "id": 2944,
+      "title": "Essays — First Series",
+      "authors": [
+        {
+          "name": "Emerson, Ralph Waldo",
+          "birth_year": 1803,
+          "death_year": 1882
+        }
+      ],
+      "subjects": [
+        "American essays -- 19th century"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics",
+        "Harvard Classics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2527,
+      "file": "books/2944.txt"
+    },
+    {
+      "id": 8813,
+      "title": "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy",
+      "authors": [
+        {
+          "name": "Whitman, Walt",
+          "birth_year": 1819,
+          "death_year": 1892
+        }
+      ],
+      "subjects": [
+        "American literature"
+      ],
+      "bookshelves": [
+        "Category: Biographies",
+        "Category: Essays, Letters & Speeches",
+        "Category: History - American"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2446,
+      "file": "books/8813.txt"
+    },
+    {
+      "id": 2150,
+      "title": "The Works of Edgar Allan Poe — Volume 4",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "American fiction -- 19th century",
+        "Fantasy fiction",
+        "Horror tales, American",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Short Stories",
+        "Horror",
+        "Mystery Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2373,
+      "file": "books/2150.txt"
+    },
+    {
+      "id": 33,
+      "title": "The Scarlet Letter",
+      "authors": [
+        {
+          "name": "Hawthorne, Nathaniel",
+          "birth_year": 1804,
+          "death_year": 1864
+        }
+      ],
+      "subjects": [
+        "Adultery -- Fiction",
+        "Boston (Mass.) -- History -- Colonial period, ca. 1600-1775 -- Fiction",
+        "Clergy -- Fiction",
+        "Historical fiction",
+        "Illegitimate children -- Fiction",
+        "Married women -- Fiction",
+        "Psychological fiction",
+        "Puritans -- Fiction",
+        "Revenge -- Fiction",
+        "Triangles (Interpersonal relations) -- Fiction",
+        "Women immigrants -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Harvard Classics",
+        "Movie Books"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2349,
+      "file": "books/33.txt"
+    },
+    {
+      "id": 27279,
+      "title": "Southern Literature From 1579-1895: A comprehensive review, with copious extracts and criticisms; for the use of schools and the general reader",
+      "authors": [
+        {
+          "name": "Manly, Louise",
+          "birth_year": 1857,
+          "death_year": 1936
+        }
+      ],
+      "subjects": [
+        "American literature -- Southern States",
+        "American literature -- Southern states -- History and criticism",
+        "Southern States -- In literature",
+        "Southern States -- Intellectual life",
+        "Southern States -- Literary collections"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: History - American",
+        "Category: Teaching & Education"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2319,
+      "file": "books/27279.txt"
+    },
+    {
+      "id": 21816,
+      "title": "The Confidence-Man: His Masquerade",
+      "authors": [
+        {
+          "name": "Melville, Herman",
+          "birth_year": 1819,
+          "death_year": 1891
+        }
+      ],
+      "subjects": [
+        "Mississippi River -- Fiction",
+        "Satire",
+        "Steamboats -- Fiction",
+        "Swindlers and swindling -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2307,
+      "file": "books/21816.txt"
+    },
+    {
+      "id": 15859,
+      "title": "The Piazza Tales",
+      "authors": [
+        {
+          "name": "Melville, Herman",
+          "birth_year": 1819,
+          "death_year": 1891
+        }
+      ],
+      "subjects": [
+        "Manners and customs -- Fiction",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2282,
+      "file": "books/15859.txt"
+    },
+    {
+      "id": 7100,
+      "title": "Adventures of Huckleberry Finn, Chapters 01 to 05",
+      "authors": [
+        {
+          "name": "Twain, Mark",
+          "birth_year": 1835,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Bildungsromans",
+        "Boys -- Fiction",
+        "Finn, Huckleberry (Fictitious character) -- Fiction",
+        "Fugitive slaves -- Fiction",
+        "Humorous stories",
+        "Male friendship -- Fiction",
+        "Mississippi River -- Fiction",
+        "Missouri -- Fiction",
+        "Race relations -- Fiction",
+        "Runaway children -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2276,
+      "file": "books/7100.txt"
+    },
+    {
+      "id": 2149,
+      "title": "The Works of Edgar Allan Poe — Volume 3",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "American fiction -- 19th century",
+        "Fantasy fiction",
+        "Horror tales, American"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Novels",
+        "Horror",
+        "Mystery Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2270,
+      "file": "books/2149.txt"
+    },
+    {
+      "id": 19,
+      "title": "The Song of Hiawatha",
+      "authors": [
+        {
+          "name": "Longfellow, Henry Wadsworth",
+          "birth_year": 1807,
+          "death_year": 1882
+        }
+      ],
+      "subjects": [
+        "Hiawatha, active 15th century -- Poetry",
+        "Indians of North America -- Poetry",
+        "Iroquois Indians -- Kings and rulers -- Poetry"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Mythology, Legends & Folklore",
+        "Category: Poetry",
+        "Children's Literature",
+        "Native America",
+        "Poetry"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2261,
+      "file": "books/19.txt"
+    },
+    {
+      "id": 2945,
+      "title": "Essays — Second Series",
+      "authors": [
+        {
+          "name": "Emerson, Ralph Waldo",
+          "birth_year": 1803,
+          "death_year": 1882
+        }
+      ],
+      "subjects": [
+        "American essays -- 19th century"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Harvard Classics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2165,
+      "file": "books/2945.txt"
+    },
+    {
+      "id": 2151,
+      "title": "The Works of Edgar Allan Poe — Volume 5",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "American fiction -- 19th century",
+        "American poetry",
+        "Fantasy fiction",
+        "Horror tales, American"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Poetry",
+        "Category: Short Stories",
+        "Horror",
+        "Mystery Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2163,
+      "file": "books/2151.txt"
+    },
+    {
+      "id": 2788,
+      "title": "Little Men: Life at Plumfield With Jo's Boys",
+      "authors": [
+        {
+          "name": "Alcott, Louisa May",
+          "birth_year": 1832,
+          "death_year": 1888
+        }
+      ],
+      "subjects": [
+        "Boarding schools -- Fiction",
+        "Family life -- New England -- Fiction",
+        "New England -- History -- 19th century -- Fiction",
+        "Schools -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Children & Young Adult Reading",
+        "Category: Novels",
+        "Children's Literature",
+        "School Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2160,
+      "file": "books/2788.txt"
+    },
+    {
+      "id": 50115,
+      "title": "Struggles and Triumphs: or, Forty Years' Recollections of P. T. Barnum",
+      "authors": [
+        {
+          "name": "Barnum, P. T. (Phineas Taylor)",
+          "birth_year": 1810,
+          "death_year": 1891
+        }
+      ],
+      "subjects": [
+        "Barnum, P. T. (Phineas Taylor), 1810-1891",
+        "Circus owners -- United States -- Biography"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Biographies"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2129,
+      "file": "books/50115.txt"
+    },
+    {
+      "id": 38520,
+      "title": "Poems of James Russell Lowell: With biographical sketch by Nathan Haskell Dole",
+      "authors": [
+        {
+          "name": "Lowell, James Russell",
+          "birth_year": 1819,
+          "death_year": 1891
+        }
+      ],
+      "subjects": [
+        "American poetry"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Poetry"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2055,
+      "file": "books/38520.txt"
+    },
+    {
+      "id": 792,
+      "title": "Wieland; Or, The Transformation: An American Tale",
+      "authors": [
+        {
+          "name": "Brown, Charles Brockden",
+          "birth_year": 1771,
+          "death_year": 1810
+        }
+      ],
+      "subjects": [
+        "Combustion, Spontaneous -- Fiction",
+        "Epistolary fiction",
+        "Fathers -- Death -- Fiction",
+        "Gothic fiction",
+        "Horror tales",
+        "Pennsylvania -- History -- Colonial period, ca. 1600-1775 -- Fiction",
+        "Psychological fiction",
+        "Radicals -- Fiction",
+        "Religious fanaticism -- Fiction",
+        "Siblings -- Fiction"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: American Literature",
+        "Category: Novels",
+        "Gothic Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2024,
+      "file": "books/792.txt"
+    },
+    {
+      "id": 6373,
+      "title": "The Luck of Roaring Camp and Other Tales: With Condensed Novels, Spanish and American Legends, and Earlier Papers",
+      "authors": [
+        {
+          "name": "Harte, Bret",
+          "birth_year": 1836,
+          "death_year": 1902
+        }
+      ],
+      "subjects": [
+        "Frontier and pioneer life -- West (U.S.) -- Fiction",
+        "Western stories"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1970,
+      "file": "books/6373.txt"
+    },
+    {
+      "id": 2786,
+      "title": "Jack and Jill",
+      "authors": [
+        {
+          "name": "Alcott, Louisa May",
+          "birth_year": 1832,
+          "death_year": 1888
+        }
+      ],
+      "subjects": [
+        "Children's accidents -- Juvenile fiction",
+        "Family life -- Juvenile fiction",
+        "Friendship -- Juvenile fiction",
+        "New England -- Social life and customs -- Juvenile fiction",
+        "Winter -- Juvenile fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Children & Young Adult Reading",
+        "Category: Novels",
+        "Children's Literature"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1935,
+      "file": "books/2786.txt"
+    },
+    {
+      "id": 7193,
+      "title": "The Adventures of Tom Sawyer, Part 1.",
+      "authors": [
+        {
+          "name": "Twain, Mark",
+          "birth_year": 1835,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Bildungsromans",
+        "Boys -- Fiction",
+        "Child witnesses -- Fiction",
+        "Humorous stories",
+        "Male friendship -- Fiction",
+        "Mississippi River Valley -- Fiction",
+        "Missouri -- Fiction",
+        "Runaway children -- Fiction",
+        "Sawyer, Tom (Fictitious character) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1909,
+      "file": "books/7193.txt"
+    },
+    {
+      "id": 13042,
+      "title": "Knickerbocker's History of New York, Complete",
+      "authors": [
+        {
+          "name": "Irving, Washington",
+          "birth_year": 1783,
+          "death_year": 1859
+        }
+      ],
+      "subjects": [
+        "New York (State) -- History -- Colonial period, ca. 1600-1775"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Humour"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1841,
+      "file": "books/13042.txt"
+    },
+    {
+      "id": 2787,
+      "title": "An Old-Fashioned Girl",
+      "authors": [
+        {
+          "name": "Alcott, Louisa May",
+          "birth_year": 1832,
+          "death_year": 1888
+        }
+      ],
+      "subjects": [
+        "Boston (Mass.) -- History -- 19th century -- Fiction",
+        "City and town life -- Fiction",
+        "Friendship -- Juvenile fiction",
+        "New England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels",
+        "Children's Literature"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1816,
+      "file": "books/2787.txt"
+    },
+    {
+      "id": 148,
+      "title": "The Autobiography of Benjamin Franklin",
+      "authors": [
+        {
+          "name": "Franklin, Benjamin",
+          "birth_year": 1706,
+          "death_year": 1790
+        }
+      ],
+      "subjects": [
+        "Franklin, Benjamin, 1706-1790",
+        "Statesmen -- United States -- Biography"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Biographies",
+        "Category: History - American",
+        "Harvard Classics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1796,
+      "file": "books/148.txt"
+    },
+    {
+      "id": 13514,
+      "title": "Tales of a Traveller",
+      "authors": [
+        {
+          "name": "Irving, Washington",
+          "birth_year": 1783,
+          "death_year": 1859
+        }
+      ],
+      "subjects": [
+        "Germany -- Social life and customs -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1795,
+      "file": "books/13514.txt"
+    },
+    {
+      "id": 447,
+      "title": "Maggie: A Girl of the Streets",
+      "authors": [
+        {
+          "name": "Crane, Stephen",
+          "birth_year": 1871,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "New York (N.Y.) -- Fiction",
+        "Poor families -- Fiction",
+        "Poor women -- Fiction",
+        "Prostitutes -- Fiction",
+        "Psychological fiction",
+        "Slums -- Fiction",
+        "Suicide victims -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1789,
+      "file": "books/447.txt"
+    },
+    {
+      "id": 2055,
+      "title": "Two Years Before the Mast",
+      "authors": [
+        {
+          "name": "Dana, Richard Henry",
+          "birth_year": 1815,
+          "death_year": 1882
+        }
+      ],
+      "subjects": [
+        "Dana, Richard Henry, 1815-1882",
+        "Sailors",
+        "Seafaring life",
+        "Voyages and travels"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Biographies",
+        "Category: Travel Writing",
+        "Harvard Classics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1771,
+      "file": "books/2055.txt"
+    },
+    {
+      "id": 11982,
+      "title": "Eighty Years and More; Reminiscences 1815-1897",
+      "authors": [
+        {
+          "name": "Stanton, Elizabeth Cady",
+          "birth_year": 1815,
+          "death_year": 1902
+        }
+      ],
+      "subjects": [
+        "Feminism -- United States -- History -- 19th century",
+        "Stanton, Elizabeth Cady, 1815-1902",
+        "Suffragists -- United States -- Biography",
+        "Women -- Suffrage -- United States -- History -- 19th century"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Biographies",
+        "Category: Gender & Sexuality Studies",
+        "Category: History - Modern (1750+)",
+        "Category: Parenthood & Family Relations"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1765,
+      "file": "books/11982.txt"
+    },
+    {
+      "id": 1065,
+      "title": "The Raven",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "Fantasy poetry, American",
+        "Ravens -- Poetry"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Poetry"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1762,
+      "file": "books/1065.txt"
+    },
+    {
+      "id": 165,
+      "title": "McTeague: A Story of San Francisco",
+      "authors": [
+        {
+          "name": "Norris, Frank",
+          "birth_year": 1870,
+          "death_year": 1902
+        }
+      ],
+      "subjects": [
+        "Avarice -- Fiction",
+        "Dentists -- Fiction",
+        "Didactic fiction",
+        "Married people -- Fiction",
+        "Murderers -- Fiction",
+        "Psychological fiction",
+        "San Francisco (Calif.) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1729,
+      "file": "books/165.txt"
+    },
+    {
+      "id": 3031,
+      "title": "Wild Animals I Have Known",
+      "authors": [
+        {
+          "name": "Seton, Ernest Thompson",
+          "birth_year": 1860,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Animals -- Anecdotes",
+        "Animals -- Biography"
+      ],
+      "bookshelves": [
+        "Canada",
+        "Category: American Literature",
+        "Category: Nature/Gardening/Animals",
+        "Category: Short Stories",
+        "Children's Instructional Books"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1713,
+      "file": "books/3031.txt"
+    },
+    {
+      "id": 26429,
+      "title": "Nights With Uncle Remus: Myths and Legends of the Old Plantation",
+      "authors": [
+        {
+          "name": "Harris, Joel Chandler",
+          "birth_year": 1848,
+          "death_year": 1908
+        }
+      ],
+      "subjects": [
+        "African American men -- Fiction",
+        "Animals -- Fiction",
+        "Georgia -- Social life and customs -- Fiction",
+        "Plantation life -- Fiction",
+        "Remus, Uncle (Fictitious character) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Mythology, Legends & Folklore",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1700,
+      "file": "books/26429.txt"
+    },
+    {
+      "id": 16341,
+      "title": "Poems by William Cullen Bryant",
+      "authors": [
+        {
+          "name": "Bryant, William Cullen",
+          "birth_year": 1794,
+          "death_year": 1878
+        }
+      ],
+      "subjects": [
+        "American poetry -- 19th century"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Poetry"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1673,
+      "file": "books/16341.txt"
+    },
+    {
+      "id": 6702,
+      "title": "Life of Harriet Beecher Stowe: Compiled From Her Letters and Journals by Her Son Charles Edward Stowe",
+      "authors": [
+        {
+          "name": "Stowe, Harriet Beecher",
+          "birth_year": 1811,
+          "death_year": 1896
+        }
+      ],
+      "subjects": [
+        "Authors, American -- 19th century -- Biography",
+        "Stowe, Harriet Beecher, 1811-1896",
+        "Women abolitionists -- United States -- Biography"
+      ],
+      "bookshelves": [
+        "Biographies",
+        "Category: American Literature",
+        "Category: Biographies"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1671,
+      "file": "books/6702.txt"
+    },
+    {
+      "id": 10712,
+      "title": "White Jacket; Or, The World on a Man-of-War",
+      "authors": [
+        {
+          "name": "Melville, Herman",
+          "birth_year": 1819,
+          "death_year": 1891
+        }
+      ],
+      "subjects": [
+        "Flagellation -- Fiction",
+        "Naval discipline -- Fiction",
+        "Sailors -- Fiction",
+        "Sea stories",
+        "United States -- History, Naval -- 19th century -- Fiction",
+        "Warships -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1649,
+      "file": "books/10712.txt"
+    },
+    {
+      "id": 69485,
+      "title": "Letters on the equality of the sexes, and the condition of woman",
+      "authors": [
+        {
+          "name": "Grimké, Sarah",
+          "birth_year": 1792,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Women -- History",
+        "Women -- United States",
+        "Women's rights -- United States"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Gender & Sexuality Studies",
+        "Category: History - Modern (1750+)",
+        "Category: Philosophy & Ethics",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1627,
+      "file": "books/69485.txt"
+    },
+    {
+      "id": 5348,
+      "title": "Ragged Dick, Or, Street Life in New York with the Boot-Blacks",
+      "authors": [
+        {
+          "name": "Alger, Horatio, Jr.",
+          "birth_year": 1832,
+          "death_year": 1899
+        }
+      ],
+      "subjects": [
+        "Bildungsromans",
+        "Boys -- Fiction",
+        "New York (N.Y.) -- Fiction",
+        "Poor children -- Fiction",
+        "Shoe shiners -- Fiction",
+        "Street children -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels",
+        "Children's Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1618,
+      "file": "books/5348.txt"
+    },
+    {
+      "id": 3285,
+      "title": "The Deerslayer",
+      "authors": [
+        {
+          "name": "Cooper, James Fenimore",
+          "birth_year": 1789,
+          "death_year": 1851
+        }
+      ],
+      "subjects": [
+        "Bildungsromans",
+        "Bumppo, Natty (Fictitious character) -- Fiction",
+        "Delaware Indians -- Fiction",
+        "Frontier and pioneer life -- Fiction",
+        "Historical fiction",
+        "Hunters -- Fiction",
+        "Male friendship -- Fiction",
+        "New York (State) -- History -- French and Indian War, 1754-1763 -- Fiction",
+        "Scouting (Reconnaissance) -- Fiction",
+        "War stories"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Historical Novels",
+        "Native America"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1609,
+      "file": "books/3285.txt"
+    },
+    {
+      "id": 16287,
+      "title": "Talks To Teachers On Psychology; And To Students On Some Of Life's Ideals",
+      "authors": [
+        {
+          "name": "James, William",
+          "birth_year": 1842,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "College students -- Conduct of life",
+        "Educational psychology",
+        "Teachers -- Professional ethics"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Psychiatry/Psychology",
+        "Category: Teaching & Education",
+        "Psychology"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1589,
+      "file": "books/16287.txt"
+    },
+    {
+      "id": 34970,
+      "title": "Pierre; or The Ambiguities",
+      "authors": [
+        {
+          "name": "Melville, Herman",
+          "birth_year": 1819,
+          "death_year": 1891
+        }
+      ],
+      "subjects": [
+        "Autobiographical fiction",
+        "Domestic fiction",
+        "Male authors -- Fiction",
+        "Men -- Fiction",
+        "Psychological fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1587,
+      "file": "books/34970.txt"
+    },
+    {
+      "id": 22320,
+      "title": "Oldtown Fireside Stories",
+      "authors": [
+        {
+          "name": "Stowe, Harriet Beecher",
+          "birth_year": 1811,
+          "death_year": 1896
+        }
+      ],
+      "subjects": [
+        "New England -- Social life and customs -- Fiction",
+        "United States -- Social life and customs -- 19th century -- Fiction",
+        "Women -- New England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Mythology, Legends & Folklore",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1507,
+      "file": "books/22320.txt"
+    },
+    {
+      "id": 1916,
+      "title": "The Great Stone Face, and Other Tales of the White Mountains",
+      "authors": [
+        {
+          "name": "Hawthorne, Nathaniel",
+          "birth_year": 1804,
+          "death_year": 1864
+        }
+      ],
+      "subjects": [
+        "Historical fiction, American",
+        "Old Man of the Mountain (N.H.) -- Fiction",
+        "Short stories",
+        "White Mountains (N.H. and Me.) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1503,
+      "file": "books/1916.txt"
+    },
+    {
+      "id": 2306,
+      "title": "Uncle Remus, His Songs and His Sayings",
+      "authors": [
+        {
+          "name": "Harris, Joel Chandler",
+          "birth_year": 1848,
+          "death_year": 1908
+        }
+      ],
+      "subjects": [
+        "African American men -- Literary collections",
+        "African Americans -- Folklore -- Literary collections",
+        "African Americans -- Songs and music",
+        "Animals -- Folklore -- Literary collections",
+        "Georgia -- Literary collections",
+        "Plantation life -- Literary collections",
+        "Remus, Uncle (Fictitious character) -- Literary collections"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Mythology, Legends & Folklore",
+        "Children's Literature",
+        "Folklore"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1496,
+      "file": "books/2306.txt"
+    },
+    {
+      "id": 10679,
+      "title": "The Story of the Other Wise Man",
+      "authors": [
+        {
+          "name": "Van Dyke, Henry",
+          "birth_year": 1852,
+          "death_year": 1933
+        }
+      ],
+      "subjects": [
+        "Christian fiction",
+        "Christmas stories",
+        "Jesus Christ -- Fiction",
+        "Magi -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Mythology, Legends & Folklore",
+        "Category: Novels",
+        "Category: Religion/Spirituality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1475,
+      "file": "books/10679.txt"
+    },
+    {
+      "id": 43523,
+      "title": "Familiar Letters: The Writings of Henry David Thoreau, Volume 06 (of 20)",
+      "authors": [
+        {
+          "name": "Thoreau, Henry David",
+          "birth_year": 1817,
+          "death_year": 1862
+        }
+      ],
+      "subjects": [
+        "Authors, American -- 19th century -- Correspondence",
+        "Intellectuals -- United States -- Correspondence",
+        "Naturalists -- United States -- Correspondence",
+        "Thoreau, Henry David, 1817-1862 -- Correspondence"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Biographies",
+        "Category: Essays, Letters & Speeches"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1449,
+      "file": "books/43523.txt"
+    },
+    {
+      "id": 2666,
+      "title": "The Poet at the Breakfast-Table",
+      "authors": [
+        {
+          "name": "Holmes, Oliver Wendell",
+          "birth_year": 1809,
+          "death_year": 1894
+        }
+      ],
+      "subjects": [
+        "American fiction -- 19th century",
+        "Conversation -- Fiction",
+        "Poetry"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1443,
+      "file": "books/2666.txt"
+    },
+    {
+      "id": 26640,
+      "title": "The Humbugs of the World: An Account of Humbugs, Delusions, Impositions, Quackeries, Deceits and Deceivers Generally, in All Ages",
+      "authors": [
+        {
+          "name": "Barnum, P. T. (Phineas Taylor)",
+          "birth_year": 1810,
+          "death_year": 1891
+        }
+      ],
+      "subjects": [
+        "Impostors and imposture"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Humour"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1430,
+      "file": "books/26640.txt"
+    },
+    {
+      "id": 22680,
+      "title": "The Biglow Papers",
+      "authors": [
+        {
+          "name": "Lowell, James Russell",
+          "birth_year": 1819,
+          "death_year": 1891
+        }
+      ],
+      "subjects": [
+        "Mexican War, 1846-1848 -- Poetry",
+        "Slavery -- United States -- Poetry"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Humour",
+        "Category: Poetry"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1419,
+      "file": "books/22680.txt"
+    },
+    {
+      "id": 39716,
+      "title": "Nathaniel Hawthorne",
+      "authors": [
+        {
+          "name": "Hawthorne, Nathaniel",
+          "birth_year": 1804,
+          "death_year": 1864
+        }
+      ],
+      "subjects": [
+        "American fiction -- 19th century",
+        "Short stories, American"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1394,
+      "file": "books/39716.txt"
+    },
+    {
+      "id": 8801,
+      "title": "Drum-Taps",
+      "authors": [
+        {
+          "name": "Whitman, Walt",
+          "birth_year": 1819,
+          "death_year": 1892
+        }
+      ],
+      "subjects": [
+        "War poetry, American"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: History - American",
+        "Category: History - Warfare",
+        "Category: Poetry",
+        "Poetry",
+        "US Civil War"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1384,
+      "file": "books/8801.txt"
+    },
+    {
+      "id": 45280,
+      "title": "The Wonderful \"One-Hoss-Shay\", and Other Poems",
+      "authors": [
+        {
+          "name": "Holmes, Oliver Wendell",
+          "birth_year": 1809,
+          "death_year": 1894
+        }
+      ],
+      "subjects": [
+        "American poetry -- 19th century"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Humour",
+        "Category: Poetry"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1382,
+      "file": "books/45280.txt"
+    },
+    {
+      "id": 3172,
+      "title": "Fenimore Cooper's Literary Offences",
+      "authors": [
+        {
+          "name": "Twain, Mark",
+          "birth_year": 1835,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "American literature -- History and criticism -- Theory, etc.",
+        "Criticism -- United States",
+        "Literature and society -- United States",
+        "National characteristics, American, in literature",
+        "United States -- Civilization"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Humour"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1371,
+      "file": "books/3172.txt"
+    },
+    {
+      "id": 842,
+      "title": "Memoirs of Carwin the Biloquist (A Fragment)",
+      "authors": [
+        {
+          "name": "Brown, Charles Brockden",
+          "birth_year": 1771,
+          "death_year": 1810
+        }
+      ],
+      "subjects": [
+        "Ventriloquists -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1366,
+      "file": "books/842.txt"
+    },
+    {
+      "id": 61522,
+      "title": "The £1,000,000 bank-note, and other new stories",
+      "authors": [
+        {
+          "name": "Twain, Mark",
+          "birth_year": 1835,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "American essays -- 19th century",
+        "American fiction -- 19th century",
+        "Humorous stories, American"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Humour",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1359,
+      "file": "books/61522.txt"
+    },
+    {
+      "id": 32037,
+      "title": "Eureka: A Prose Poem",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "Cosmology"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1355,
+      "file": "books/32037.txt"
+    },
+    {
+      "id": 23781,
+      "title": "A Little Girl of Long Ago; Or, Hannah Ann: A Sequel to a Little Girl in Old New York",
+      "authors": [
+        {
+          "name": "Douglas, Amanda M.",
+          "birth_year": 1831,
+          "death_year": 1916
+        }
+      ],
+      "subjects": [
+        "New York (N.Y.) -- History -- 1775-1865 -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Children & Young Adult Reading",
+        "Category: Historical Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1350,
+      "file": "books/23781.txt"
+    },
+    {
+      "id": 751,
+      "title": "The Autocrat of the Breakfast-Table",
+      "authors": [
+        {
+          "name": "Holmes, Oliver Wendell",
+          "birth_year": 1809,
+          "death_year": 1894
+        }
+      ],
+      "subjects": [
+        "American fiction -- 19th century",
+        "Boardinghouses -- Fiction",
+        "Conversation -- Fiction",
+        "Poetry"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Essays, Letters & Speeches",
+        "Category: Humour"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1345,
+      "file": "books/751.txt"
+    },
+    {
+      "id": 2081,
+      "title": "The Blithedale Romance",
+      "authors": [
+        {
+          "name": "Hawthorne, Nathaniel",
+          "birth_year": 1804,
+          "death_year": 1864
+        }
+      ],
+      "subjects": [
+        "Autobiographical fiction",
+        "Collective farms -- Fiction",
+        "Communal living -- Fiction",
+        "Farm life -- Fiction",
+        "Massachusetts -- Fiction",
+        "Psychological fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1327,
+      "file": "books/2081.txt"
+    },
+    {
+      "id": 1213,
+      "title": "The Man That Corrupted Hadleyburg",
+      "authors": [
+        {
+          "name": "Twain, Mark",
+          "birth_year": 1835,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Humorous stories, American",
+        "United States -- Social life and customs -- 19th century -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1321,
+      "file": "books/1213.txt"
+    },
+    {
+      "id": 11666,
+      "title": "The Conjure Woman",
+      "authors": [
+        {
+          "name": "Chesnutt, Charles W. (Charles Waddell)",
+          "birth_year": 1858,
+          "death_year": 1932
+        }
+      ],
+      "subjects": [
+        "African Americans -- Fiction",
+        "Southern States -- Social life and customs -- Fiction"
+      ],
+      "bookshelves": [
+        "African American Writers",
+        "Category: American Literature",
+        "Category: Mythology, Legends & Folklore",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1318,
+      "file": "books/11666.txt"
+    },
+    {
+      "id": 25153,
+      "title": "Tales of a Wayside Inn",
+      "authors": [
+        {
+          "name": "Longfellow, Henry Wadsworth",
+          "birth_year": 1807,
+          "death_year": 1882
+        }
+      ],
+      "subjects": [
+        "American poetry"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Poetry"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1311,
+      "file": "books/25153.txt"
+    }
+  ]
+}

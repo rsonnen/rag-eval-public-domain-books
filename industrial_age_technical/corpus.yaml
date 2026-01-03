@@ -1,0 +1,33 @@
+name: "Industrial Age Technical Documentation"
+
+corpus_context: >
+  103 technical and industrial documentation from Project Gutenberg.
+  Includes engineering manuals, manufacturing guides, machinery descriptions,
+  and technical treatises from the Industrial Age. Documents feature period
+  technical terminology, measurement systems, and industrial processes.
+  Plain UTF-8 text format.
+
+scenarios:
+  technical_analysis:
+    name: "Technical Analysis"
+    description: >
+      You are creating questions for students studying industrial history
+      or engineering evolution. Questions should test understanding of how
+      technical knowledge was documented, what processes and machines were
+      described, and how engineering problems were addressed in this period.
+
+  specification_retrieval:
+    name: "Specification Retrieval"
+    description: >
+      You are creating questions to test retrieval of specific technical
+      specifications, measurements, processes, or equipment descriptions.
+      Questions should target particular machines, techniques, or procedural
+      details that appear in the technical texts.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system actually read these
+      technical documents. Questions must have specific, verifiable answers -
+      measurements, machine names, process steps, or technical specifications
+      that require the actual text.

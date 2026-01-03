@@ -1,0 +1,3485 @@
+{
+  "corpus": "victorian_detective",
+  "source": "gutenberg",
+  "search_strategy": {
+    "topics": [
+      "Detective fiction",
+      "Mystery fiction",
+      "Crime fiction"
+    ],
+    "author_years": [
+      1800,
+      1930
+    ],
+    "languages": [
+      "en"
+    ]
+  },
+  "curated_at": "2025-12-26T20:40:01.801754+00:00",
+  "total_books": 130,
+  "books_evaluated": 194,
+  "acceptance_rate": 0.6701030927835051,
+  "books": [
+    {
+      "id": 1661,
+      "title": "The Adventures of Sherlock Holmes",
+      "authors": [
+        {
+          "name": "Doyle, Arthur Conan",
+          "birth_year": 1859,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories, English",
+        "Holmes, Sherlock (Fictitious character) -- Fiction",
+        "Private investigators -- England -- Fiction"
+      ],
+      "bookshelves": [
+        "Banned Books from Anne Haight's list",
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Contemporary Reviews",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 30632,
+      "file": "books/1661.txt"
+    },
+    {
+      "id": 2148,
+      "title": "The Works of Edgar Allan Poe — Volume 2",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "American fiction -- 19th century",
+        "Fantasy fiction",
+        "Horror tales, American",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Detective Fiction",
+        "Gothic Fiction",
+        "Horror",
+        "Mystery Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 22323,
+      "file": "books/2148.txt"
+    },
+    {
+      "id": 2852,
+      "title": "The Hound of the Baskervilles",
+      "authors": [
+        {
+          "name": "Doyle, Arthur Conan",
+          "birth_year": 1859,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Blessing and cursing -- Fiction",
+        "Dartmoor (England) -- Fiction",
+        "Detective and mystery stories",
+        "Dogs -- Fiction",
+        "Holmes, Sherlock (Fictitious character) -- Fiction",
+        "Private investigators -- England -- Fiction"
+      ],
+      "bookshelves": [
+        "Bestsellers, American, 1895-1923",
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 18854,
+      "file": "books/2852.txt"
+    },
+    {
+      "id": 244,
+      "title": "A Study in Scarlet",
+      "authors": [
+        {
+          "name": "Doyle, Arthur Conan",
+          "birth_year": 1859,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "England -- Fiction",
+        "Holmes, Sherlock (Fictitious character) -- Fiction",
+        "Private investigators -- England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 14451,
+      "file": "books/244.txt"
+    },
+    {
+      "id": 2097,
+      "title": "The Sign of the Four",
+      "authors": [
+        {
+          "name": "Doyle, Arthur Conan",
+          "birth_year": 1859,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "Holmes, Sherlock (Fictitious character) -- Fiction",
+        "Private investigators -- England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 9487,
+      "file": "books/2097.txt"
+    },
+    {
+      "id": 2147,
+      "title": "The Works of Edgar Allan Poe — Volume 1",
+      "authors": [
+        {
+          "name": "Poe, Edgar Allan",
+          "birth_year": 1809,
+          "death_year": 1849
+        }
+      ],
+      "subjects": [
+        "American fiction -- 19th century",
+        "Fantasy fiction",
+        "Horror tales, American",
+        "Poe, Edgar Allan, 1809-1849"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Poetry",
+        "Category: Short Stories",
+        "Detective Fiction",
+        "Horror",
+        "Mystery Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 7982,
+      "file": "books/2147.txt"
+    },
+    {
+      "id": 108,
+      "title": "The Return of Sherlock Holmes",
+      "authors": [
+        {
+          "name": "Doyle, Arthur Conan",
+          "birth_year": 1859,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories, English",
+        "Holmes, Sherlock (Fictitious character) -- Fiction",
+        "Private investigators -- England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 6742,
+      "file": "books/108.txt"
+    },
+    {
+      "id": 834,
+      "title": "The Memoirs of Sherlock Holmes",
+      "authors": [
+        {
+          "name": "Doyle, Arthur Conan",
+          "birth_year": 1859,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories, English",
+        "Holmes, Sherlock (Fictitious character) -- Fiction",
+        "Private investigators -- England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 6317,
+      "file": "books/834.txt"
+    },
+    {
+      "id": 863,
+      "title": "The Mysterious Affair at Styles",
+      "authors": [
+        {
+          "name": "Christie, Agatha",
+          "birth_year": 1890,
+          "death_year": 1976
+        }
+      ],
+      "subjects": [
+        "Belgians -- England -- Fiction",
+        "Detective and mystery stories",
+        "Poirot, Hercule (Fictitious character) -- Fiction",
+        "Private investigators -- England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 5828,
+      "file": "books/863.txt"
+    },
+    {
+      "id": 204,
+      "title": "The innocence of Father Brown",
+      "authors": [
+        {
+          "name": "Chesterton, G. K. (Gilbert Keith)",
+          "birth_year": 1874,
+          "death_year": 1936
+        }
+      ],
+      "subjects": [
+        "Brown, Father (Fictitious character) -- Fiction",
+        "Catholics -- Fiction",
+        "Clergy -- Fiction",
+        "Detective and mystery stories, English",
+        "England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4052,
+      "file": "books/204.txt"
+    },
+    {
+      "id": 155,
+      "title": "The Moonstone",
+      "authors": [
+        {
+          "name": "Collins, Wilkie",
+          "birth_year": 1824,
+          "death_year": 1889
+        }
+      ],
+      "subjects": [
+        "Country homes -- Fiction",
+        "East Indians -- England -- Fiction",
+        "England -- Fiction",
+        "Jewelry theft -- Fiction",
+        "Mystery fiction",
+        "Police -- England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction",
+        "Mystery Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3966,
+      "file": "books/155.txt"
+    },
+    {
+      "id": 2350,
+      "title": "His last bow : $b Some later reminiscences of Sherlock Holmes",
+      "authors": [
+        {
+          "name": "Doyle, Arthur Conan",
+          "birth_year": 1859,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories, English",
+        "Holmes, Sherlock (Fictitious character) -- Fiction",
+        "Private investigators -- England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3684,
+      "file": "books/2350.txt"
+    },
+    {
+      "id": 221,
+      "title": "The Return of Sherlock Holmes",
+      "authors": [
+        {
+          "name": "Doyle, Arthur Conan",
+          "birth_year": 1859,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories, English",
+        "Holmes, Sherlock (Fictitious character) -- Fiction",
+        "Private investigators -- England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3611,
+      "file": "books/221.txt"
+    },
+    {
+      "id": 3289,
+      "title": "The Valley of Fear",
+      "authors": [
+        {
+          "name": "Doyle, Arthur Conan",
+          "birth_year": 1859,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "Holmes, Sherlock (Fictitious character) -- Fiction",
+        "Private investigators -- England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3507,
+      "file": "books/3289.txt"
+    },
+    {
+      "id": 223,
+      "title": "The wisdom of Father Brown",
+      "authors": [
+        {
+          "name": "Chesterton, G. K. (Gilbert Keith)",
+          "birth_year": 1874,
+          "death_year": 1936
+        }
+      ],
+      "subjects": [
+        "Brown, Father (Fictitious character) -- Fiction",
+        "Catholics -- Fiction",
+        "Clergy -- Fiction",
+        "Detective and mystery stories, English",
+        "England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3412,
+      "file": "books/223.txt"
+    },
+    {
+      "id": 1685,
+      "title": "The Mystery of the Yellow Room",
+      "authors": [
+        {
+          "name": "Leroux, Gaston",
+          "birth_year": 1868,
+          "death_year": 1927
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "Reporters and reporting -- Fiction",
+        "Rouletabille, Joseph (Fictitious character) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: French Literature",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2806,
+      "file": "books/1685.txt"
+    },
+    {
+      "id": 20546,
+      "title": "The Hand in the Dark",
+      "authors": [
+        {
+          "name": "Rees, Arthur J. (Arthur John)",
+          "birth_year": 1872,
+          "death_year": 1942
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2284,
+      "file": "books/20546.txt"
+    },
+    {
+      "id": 1686,
+      "title": "The Secret of the Night",
+      "authors": [
+        {
+          "name": "Leroux, Gaston",
+          "birth_year": 1868,
+          "death_year": 1927
+        }
+      ],
+      "subjects": [
+        "Attempted assassination -- Fiction",
+        "Detective and mystery stories",
+        "Generals -- Fiction",
+        "Rouletabille, Joseph (Fictitious character) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2206,
+      "file": "books/1686.txt"
+    },
+    {
+      "id": 2346,
+      "title": "The Adventure of the Bruce-Partington Plans",
+      "authors": [
+        {
+          "name": "Doyle, Arthur Conan",
+          "birth_year": 1859,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "Holmes, Sherlock (Fictitious character) -- Fiction",
+        "Private investigators -- England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1054,
+      "file": "books/2346.txt"
+    },
+    {
+      "id": 4047,
+      "title": "The Leavenworth Case",
+      "authors": [
+        {
+          "name": "Green, Anna Katharine",
+          "birth_year": 1846,
+          "death_year": 1935
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "Inheritance and succession -- Fiction",
+        "Lawyers -- United States -- Fiction",
+        "Merchants -- Crimes against -- Fiction",
+        "Murder -- Investigation -- Fiction",
+        "Police -- New York (State) -- New York -- Fiction",
+        "Sisters -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 781,
+      "file": "books/4047.txt"
+    },
+    {
+      "id": 2347,
+      "title": "The Adventure of the Dying Detective",
+      "authors": [
+        {
+          "name": "Doyle, Arthur Conan",
+          "birth_year": 1859,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "Holmes, Sherlock (Fictitious character) -- Fiction",
+        "Private investigators -- England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 762,
+      "file": "books/2347.txt"
+    },
+    {
+      "id": 434,
+      "title": "The Circular Staircase",
+      "authors": [
+        {
+          "name": "Rinehart, Mary Roberts",
+          "birth_year": 1876,
+          "death_year": 1958
+        }
+      ],
+      "subjects": [
+        "Country homes -- Fiction",
+        "Middle-aged women -- Fiction",
+        "Murder -- Investigation -- Fiction",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 746,
+      "file": "books/434.txt"
+    },
+    {
+      "id": 13882,
+      "title": "John Thorndyke's Cases: related by Christopher Jervis and edited by R. Austin Freeman",
+      "authors": [
+        {
+          "name": "Freeman, R. Austin (Richard Austin)",
+          "birth_year": 1862,
+          "death_year": 1943
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories, English",
+        "London (England) -- Fiction",
+        "Physicians -- Fiction",
+        "Thorndyke, Doctor (Fictitious character) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 741,
+      "file": "books/13882.txt"
+    },
+    {
+      "id": 2451,
+      "title": "Caught in the Net",
+      "authors": [
+        {
+          "name": "Gaboriau, Emile",
+          "birth_year": 1832,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "Paris (France) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: French Literature",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 675,
+      "file": "books/2451.txt"
+    },
+    {
+      "id": 2349,
+      "title": "The Adventure of the Devil's Foot",
+      "authors": [
+        {
+          "name": "Doyle, Arthur Conan",
+          "birth_year": 1859,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "Holmes, Sherlock (Fictitious character) -- Fiction",
+        "Private investigators -- England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 650,
+      "file": "books/2349.txt"
+    },
+    {
+      "id": 12187,
+      "title": "The Mystery of 31 New Inn",
+      "authors": [
+        {
+          "name": "Freeman, R. Austin (Richard Austin)",
+          "birth_year": 1862,
+          "death_year": 1943
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "Inheritance and succession -- Fiction",
+        "London (England) -- Fiction",
+        "Physicians -- Fiction",
+        "Thorndyke, Doctor (Fictitious character) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 610,
+      "file": "books/12187.txt"
+    },
+    {
+      "id": 547,
+      "title": "Baron Trigault's Vengeance",
+      "authors": [
+        {
+          "name": "Gaboriau, Emile",
+          "birth_year": 1832,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "Fiction"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: French Literature",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 583,
+      "file": "books/547.txt"
+    },
+    {
+      "id": 807,
+      "title": "Hunted Down: The Detective Stories of Charles Dickens",
+      "authors": [
+        {
+          "name": "Dickens, Charles",
+          "birth_year": 1812,
+          "death_year": 1870
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 555,
+      "file": "books/807.txt"
+    },
+    {
+      "id": 10556,
+      "title": "The Old Man in the Corner",
+      "authors": [
+        {
+          "name": "Orczy, Emmuska Orczy, Baroness",
+          "birth_year": 1865,
+          "death_year": 1947
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 550,
+      "file": "books/10556.txt"
+    },
+    {
+      "id": 11128,
+      "title": "The Red Thumb Mark",
+      "authors": [
+        {
+          "name": "Freeman, R. Austin (Richard Austin)",
+          "birth_year": 1862,
+          "death_year": 1943
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "London (England) -- Fiction",
+        "Physicians -- Fiction",
+        "Thorndyke, Doctor (Fictitious character) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 549,
+      "file": "books/11128.txt"
+    },
+    {
+      "id": 2344,
+      "title": "The Adventure of the Cardboard Box",
+      "authors": [
+        {
+          "name": "Doyle, Arthur Conan",
+          "birth_year": 1859,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "Holmes, Sherlock (Fictitious character) -- Fiction",
+        "Private investigators -- England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 534,
+      "file": "books/2344.txt"
+    },
+    {
+      "id": 34732,
+      "title": "Max Carrados",
+      "authors": [
+        {
+          "name": "Bramah, Ernest",
+          "birth_year": 1867,
+          "death_year": 1942
+        }
+      ],
+      "subjects": [
+        "Blind -- Fiction",
+        "Detective and mystery stories, English",
+        "Private investigators -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 527,
+      "file": "books/34732.txt"
+    },
+    {
+      "id": 2343,
+      "title": "The Adventure of Wisteria Lodge",
+      "authors": [
+        {
+          "name": "Doyle, Arthur Conan",
+          "birth_year": 1859,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "Holmes, Sherlock (Fictitious character) -- Fiction",
+        "Private investigators -- England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 520,
+      "file": "books/2343.txt"
+    },
+    {
+      "id": 2568,
+      "title": "Trent's Last Case",
+      "authors": [
+        {
+          "name": "Bentley, E. C. (Edmund Clerihew)",
+          "birth_year": 1875,
+          "death_year": 1956
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "Trent, Philip (Fictitious character) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 519,
+      "file": "books/2568.txt"
+    },
+    {
+      "id": 4071,
+      "title": "Monsieur Lecoq, v. 1",
+      "authors": [
+        {
+          "name": "Gaboriau, Emile",
+          "birth_year": 1832,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "French fiction -- Translations into English"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: French Literature",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 512,
+      "file": "books/4071.txt"
+    },
+    {
+      "id": 2345,
+      "title": "The Adventure of the Red Circle",
+      "authors": [
+        {
+          "name": "Doyle, Arthur Conan",
+          "birth_year": 1859,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "Holmes, Sherlock (Fictitious character) -- Fiction",
+        "Private investigators -- England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 504,
+      "file": "books/2345.txt"
+    },
+    {
+      "id": 2348,
+      "title": "The Disappearance of Lady Frances Carfax",
+      "authors": [
+        {
+          "name": "Doyle, Arthur Conan",
+          "birth_year": 1859,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "Holmes, Sherlock (Fictitious character) -- Fiction",
+        "Private investigators -- England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 478,
+      "file": "books/2348.txt"
+    },
+    {
+      "id": 19369,
+      "title": "The Triumphs of Eugène Valmont",
+      "authors": [
+        {
+          "name": "Barr, Robert",
+          "birth_year": 1850,
+          "death_year": 1912
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories, English",
+        "French -- England -- London -- Fiction",
+        "Humorous stories, English",
+        "Private investigators -- England -- London -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 476,
+      "file": "books/19369.txt"
+    },
+    {
+      "id": 3803,
+      "title": "File No. 113",
+      "authors": [
+        {
+          "name": "Gaboriau, Emile",
+          "birth_year": 1832,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Bank robberies -- Fiction",
+        "Bankers -- Fiction",
+        "Deception -- Fiction",
+        "Detective and mystery stories",
+        "Detectives -- Fiction",
+        "Family secrets -- Fiction",
+        "France -- Fiction",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: French Literature",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 472,
+      "file": "books/3803.txt"
+    },
+    {
+      "id": 2688,
+      "title": "The Clue of the Twisted Candle",
+      "authors": [
+        {
+          "name": "Wallace, Edgar",
+          "birth_year": 1875,
+          "death_year": 1932
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 459,
+      "file": "books/2688.txt"
+    },
+    {
+      "id": 2861,
+      "title": "The Sleuth of St. James's Square",
+      "authors": [
+        {
+          "name": "Post, Melville Davisson",
+          "birth_year": 1869,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "American fiction -- 20th century",
+        "Detective and mystery stories, American"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 446,
+      "file": "books/2861.txt"
+    },
+    {
+      "id": 4002,
+      "title": "The Honor of the Name",
+      "authors": [
+        {
+          "name": "Gaboriau, Emile",
+          "birth_year": 1832,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories"
+      ],
+      "bookshelves": [
+        "Category: French Literature",
+        "Category: Historical Novels",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 445,
+      "file": "books/4002.txt"
+    },
+    {
+      "id": 10373,
+      "title": "The Middle Temple Murder",
+      "authors": [
+        {
+          "name": "Fletcher, J. S. (Joseph Smith)",
+          "birth_year": 1863,
+          "death_year": 1935
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 445,
+      "file": "books/10373.txt"
+    },
+    {
+      "id": 1748,
+      "title": "Other People's Money",
+      "authors": [
+        {
+          "name": "Gaboriau, Emile",
+          "birth_year": 1832,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "Fiction"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: French Literature",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 444,
+      "file": "books/1748.txt"
+    },
+    {
+      "id": 4604,
+      "title": "The Clique of Gold",
+      "authors": [
+        {
+          "name": "Gaboriau, Emile",
+          "birth_year": 1832,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories, French"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 429,
+      "file": "books/4604.txt"
+    },
+    {
+      "id": 305,
+      "title": "The Count's Millions",
+      "authors": [
+        {
+          "name": "Gaboriau, Emile",
+          "birth_year": 1832,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "Fiction"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: French Literature",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 425,
+      "file": "books/305.txt"
+    },
+    {
+      "id": 7884,
+      "title": "In the Fog",
+      "authors": [
+        {
+          "name": "Davis, Richard Harding",
+          "birth_year": 1864,
+          "death_year": 1916
+        }
+      ],
+      "subjects": [
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 410,
+      "file": "books/7884.txt"
+    },
+    {
+      "id": 5308,
+      "title": "The Paradise Mystery",
+      "authors": [
+        {
+          "name": "Fletcher, J. S. (Joseph Smith)",
+          "birth_year": 1863,
+          "death_year": 1935
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 405,
+      "file": "books/5308.txt"
+    },
+    {
+      "id": 1167,
+      "title": "A Strange Disappearance",
+      "authors": [
+        {
+          "name": "Green, Anna Katharine",
+          "birth_year": 1846,
+          "death_year": 1935
+        }
+      ],
+      "subjects": [
+        "Missing persons -- Fiction",
+        "Mystery fiction",
+        "New York (N.Y.) -- Fiction",
+        "Police -- New York (State) -- New York -- Fiction",
+        "Women household employees -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 404,
+      "file": "books/1167.txt"
+    },
+    {
+      "id": 3802,
+      "title": "The Lerouge Case",
+      "authors": [
+        {
+          "name": "Gaboriau, Emile",
+          "birth_year": 1832,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: French Literature",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 397,
+      "file": "books/3802.txt"
+    },
+    {
+      "id": 20912,
+      "title": "The Daffodil Mystery",
+      "authors": [
+        {
+          "name": "Wallace, Edgar",
+          "birth_year": 1875,
+          "death_year": 1932
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 379,
+      "file": "books/20912.txt"
+    },
+    {
+      "id": 37820,
+      "title": "Chronicles of Martin Hewitt",
+      "authors": [
+        {
+          "name": "Morrison, Arthur",
+          "birth_year": 1863,
+          "death_year": 1945
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories, English",
+        "Private investigators -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 374,
+      "file": "books/37820.txt"
+    },
+    {
+      "id": 2736,
+      "title": "The Champdoce Mystery",
+      "authors": [
+        {
+          "name": "Gaboriau, Emile",
+          "birth_year": 1832,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: French Literature",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 372,
+      "file": "books/2736.txt"
+    },
+    {
+      "id": 3336,
+      "title": "Within an Inch of His Life",
+      "authors": [
+        {
+          "name": "Gaboriau, Emile",
+          "birth_year": 1832,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Arsonists -- Fiction",
+        "Detective and mystery stories",
+        "Fires -- Fiction",
+        "Paris (France) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: French Literature",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 366,
+      "file": "books/3336.txt"
+    },
+    {
+      "id": 14332,
+      "title": "Cleek: the Man of the Forty Faces",
+      "authors": [
+        {
+          "name": "Hanshew, Thomas W.",
+          "birth_year": 1857,
+          "death_year": 1914
+        }
+      ],
+      "subjects": [
+        "Cleek, Hamilton (Fictitious character) -- Fiction",
+        "Detective and mystery stories",
+        "Police -- Great Britain -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 357,
+      "file": "books/14332.txt"
+    },
+    {
+      "id": 10067,
+      "title": "The Mystery of the Boule Cabinet: A Detective Story",
+      "authors": [
+        {
+          "name": "Stevenson, Burton Egbert",
+          "birth_year": 1872,
+          "death_year": 1962
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 340,
+      "file": "books/10067.txt"
+    },
+    {
+      "id": 17763,
+      "title": "The Mystery of the Hasty Arrow",
+      "authors": [
+        {
+          "name": "Green, Anna Katharine",
+          "birth_year": 1846,
+          "death_year": 1935
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 335,
+      "file": "books/17763.txt"
+    },
+    {
+      "id": 21891,
+      "title": "The Brand of Silence: A Detective Story",
+      "authors": [
+        {
+          "name": "McCulley, Johnston",
+          "birth_year": 1883,
+          "death_year": 1958
+        }
+      ],
+      "subjects": [
+        "American fiction -- 20th century",
+        "Detective and mystery stories"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 335,
+      "file": "books/21891.txt"
+    },
+    {
+      "id": 12932,
+      "title": "Four Max Carrados Detective Stories",
+      "authors": [
+        {
+          "name": "Bramah, Ernest",
+          "birth_year": 1867,
+          "death_year": 1942
+        }
+      ],
+      "subjects": [
+        "Blind -- Fiction",
+        "Detective and mystery stories, English",
+        "Private investigators -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 334,
+      "file": "books/12932.txt"
+    },
+    {
+      "id": 28071,
+      "title": "The Red Triangle: Being Some Further Chronicles of Martin Hewitt, Investigator",
+      "authors": [
+        {
+          "name": "Morrison, Arthur",
+          "birth_year": 1863,
+          "death_year": 1945
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories, English",
+        "Private investigators -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 331,
+      "file": "books/28071.txt"
+    },
+    {
+      "id": 11252,
+      "title": "Martin Hewitt, Investigator",
+      "authors": [
+        {
+          "name": "Morrison, Arthur",
+          "birth_year": 1863,
+          "death_year": 1945
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories, English",
+        "Private investigators -- England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 325,
+      "file": "books/11252.txt"
+    },
+    {
+      "id": 1651,
+      "title": "The Mystery of Orcival",
+      "authors": [
+        {
+          "name": "Gaboriau, Emile",
+          "birth_year": 1832,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "Fiction"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: French Literature",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 322,
+      "file": "books/1651.txt"
+    },
+    {
+      "id": 11451,
+      "title": "The Rome Express",
+      "authors": [
+        {
+          "name": "Griffiths, Arthur",
+          "birth_year": 1838,
+          "death_year": 1908
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 311,
+      "file": "books/11451.txt"
+    },
+    {
+      "id": 18761,
+      "title": "The Circular Study",
+      "authors": [
+        {
+          "name": "Green, Anna Katharine",
+          "birth_year": 1846,
+          "death_year": 1935
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 293,
+      "file": "books/18761.txt"
+    },
+    {
+      "id": 20494,
+      "title": "The Shrieking Pit",
+      "authors": [
+        {
+          "name": "Rees, Arthur J. (Arthur John)",
+          "birth_year": 1872,
+          "death_year": 1942
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 286,
+      "file": "books/20494.txt"
+    },
+    {
+      "id": 9834,
+      "title": "The Talleyrand Maxim",
+      "authors": [
+        {
+          "name": "Fletcher, J. S. (Joseph Smith)",
+          "birth_year": 1863,
+          "death_year": 1935
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 280,
+      "file": "books/9834.txt"
+    },
+    {
+      "id": 16339,
+      "title": "The Passenger from Calais",
+      "authors": [
+        {
+          "name": "Griffiths, Arthur",
+          "birth_year": 1838,
+          "death_year": 1908
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 274,
+      "file": "books/16339.txt"
+    },
+    {
+      "id": 12239,
+      "title": "Dead Men's Money",
+      "authors": [
+        {
+          "name": "Fletcher, J. S. (Joseph Smith)",
+          "birth_year": 1863,
+          "death_year": 1935
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 267,
+      "file": "books/12239.txt"
+    },
+    {
+      "id": 35247,
+      "title": "That Affair at Elizabeth",
+      "authors": [
+        {
+          "name": "Stevenson, Burton Egbert",
+          "birth_year": 1872,
+          "death_year": 1962
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "Fiction",
+        "Love stories"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 265,
+      "file": "books/35247.txt"
+    },
+    {
+      "id": 20559,
+      "title": "R. Holmes & Co.: Being the Remarkable Adventures of Raffles Holmes, Esq., Detective and Amateur Cracksman by Birth",
+      "authors": [
+        {
+          "name": "Bangs, John Kendrick",
+          "birth_year": 1862,
+          "death_year": 1922
+        }
+      ],
+      "subjects": [
+        "Criminals -- Fiction",
+        "Detective and mystery stories",
+        "Doyle, Arthur Conan, 1859-1930 -- Parodies, imitations, etc.",
+        "England -- Fiction",
+        "Hornung, E. W. (Ernest William), 1866-1921 -- Parodies, imitations, etc.",
+        "Private investigators -- England -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Humour",
+        "Category: Short Stories",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 263,
+      "file": "books/20559.txt"
+    },
+    {
+      "id": 13372,
+      "title": "The Gloved Hand",
+      "authors": [
+        {
+          "name": "Stevenson, Burton Egbert",
+          "birth_year": 1872,
+          "death_year": 1962
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 255,
+      "file": "books/13372.txt"
+    },
+    {
+      "id": 19672,
+      "title": "The Holladay case : $b a tale",
+      "authors": [
+        {
+          "name": "Stevenson, Burton Egbert",
+          "birth_year": 1872,
+          "death_year": 1962
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories",
+        "New York (N.Y.) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Detective Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 231,
+      "file": "books/19672.txt"
+    },
+    {
+      "id": 583,
+      "title": "The Woman in White",
+      "authors": [
+        {
+          "name": "Collins, Wilkie",
+          "birth_year": 1824,
+          "death_year": 1889
+        }
+      ],
+      "subjects": [
+        "Art teachers -- Fiction",
+        "Country homes -- Fiction",
+        "Deception -- Fiction",
+        "England -- Fiction",
+        "Gothic fiction",
+        "Inheritance and succession -- Fiction",
+        "Love stories",
+        "Nobility -- Fiction",
+        "Psychiatric hospital patients -- Fiction",
+        "Psychological fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Mystery Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 5375,
+      "file": "books/583.txt"
+    },
+    {
+      "id": 564,
+      "title": "The Mystery of Edwin Drood",
+      "authors": [
+        {
+          "name": "Dickens, Charles",
+          "birth_year": 1812,
+          "death_year": 1870
+        }
+      ],
+      "subjects": [
+        "Cathedrals -- Fiction",
+        "Choral conductors -- Fiction",
+        "England -- Fiction",
+        "Missing persons -- Fiction",
+        "Mystery fiction",
+        "Psychological fiction",
+        "Separation (Psychology) -- Fiction",
+        "Triangles (Interpersonal relations) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Mystery Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3376,
+      "file": "books/564.txt"
+    },
+    {
+      "id": 57616,
+      "title": "The Secret of Wyvern Towers",
+      "authors": [
+        {
+          "name": "Speight, T. W. (Thomas Wilkinson)",
+          "birth_year": 1830,
+          "death_year": 1915
+        }
+      ],
+      "subjects": [
+        "English fiction -- 19th century",
+        "Murder -- Investigation -- Fiction",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1396,
+      "file": "books/57616.txt"
+    },
+    {
+      "id": 5164,
+      "title": "The Beetle: A Mystery",
+      "authors": [
+        {
+          "name": "Marsh, Richard",
+          "birth_year": 1857,
+          "death_year": 1915
+        }
+      ],
+      "subjects": [
+        "British -- Egypt -- Fiction",
+        "Champnell, Augustus (Fictitious character) -- Fiction",
+        "Egypt -- Antiquities -- Collection and preservation -- Fiction",
+        "Egyptologists -- Fiction",
+        "Horror tales",
+        "London (England) -- Fiction",
+        "Monsters -- Fiction",
+        "Paranormal fiction",
+        "Politicians -- Fiction",
+        "Revenge -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Mystery Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1183,
+      "file": "books/5164.txt"
+    },
+    {
+      "id": 27395,
+      "title": "The Slave of Silence",
+      "authors": [
+        {
+          "name": "White, Fred M. (Fred Merrick)",
+          "birth_year": 1859,
+          "death_year": 1935
+        }
+      ],
+      "subjects": [
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1006,
+      "file": "books/27395.txt"
+    },
+    {
+      "id": 1622,
+      "title": "The Law and the Lady",
+      "authors": [
+        {
+          "name": "Collins, Wilkie",
+          "birth_year": 1824,
+          "death_year": 1889
+        }
+      ],
+      "subjects": [
+        "England -- Social life and customs -- 19th century -- Fiction",
+        "Married people -- Fiction",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 802,
+      "file": "books/1622.txt"
+    },
+    {
+      "id": 30970,
+      "title": "Miss Cayley's Adventures",
+      "authors": [
+        {
+          "name": "Allen, Grant",
+          "birth_year": 1848,
+          "death_year": 1899
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Man-woman relationships -- Fiction",
+        "Mystery fiction",
+        "Travel -- Fiction",
+        "Young women -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: British Literature",
+        "Category: Humour",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 776,
+      "file": "books/30970.txt"
+    },
+    {
+      "id": 93,
+      "title": "Tom Sawyer, Detective",
+      "authors": [
+        {
+          "name": "Twain, Mark",
+          "birth_year": 1835,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Mystery fiction",
+        "Sawyer, Tom (Fictitious character) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 762,
+      "file": "books/93.txt"
+    },
+    {
+      "id": 707,
+      "title": "Raffles: Further Adventures of the Amateur Cracksman",
+      "authors": [
+        {
+          "name": "Hornung, E. W. (Ernest William)",
+          "birth_year": 1866,
+          "death_year": 1921
+        }
+      ],
+      "subjects": [
+        "Criminals -- England -- Fiction",
+        "Mystery fiction",
+        "Raffles (Fictitious character) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories",
+        "Crime Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 722,
+      "file": "books/707.txt"
+    },
+    {
+      "id": 1626,
+      "title": "After Dark",
+      "authors": [
+        {
+          "name": "Collins, Wilkie",
+          "birth_year": 1824,
+          "death_year": 1889
+        }
+      ],
+      "subjects": [
+        "Diary fiction",
+        "England -- Social life and customs -- 19th century -- Fiction",
+        "Mystery fiction",
+        "Short stories, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 716,
+      "file": "books/1626.txt"
+    },
+    {
+      "id": 1718,
+      "title": "Manalive",
+      "authors": [
+        {
+          "name": "Chesterton, G. K. (Gilbert Keith)",
+          "birth_year": 1874,
+          "death_year": 1936
+        }
+      ],
+      "subjects": [
+        "Attempted murder -- Fiction",
+        "False arrest -- Fiction",
+        "Humorous stories",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Humour",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 700,
+      "file": "books/1718.txt"
+    },
+    {
+      "id": 41022,
+      "title": "Clara Vaughan, Volume 3 (of 3)",
+      "authors": [
+        {
+          "name": "Blackmore, R. D. (Richard Doddridge)",
+          "birth_year": 1825,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Murder victims' families -- Fiction",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Romance"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 663,
+      "file": "books/41022.txt"
+    },
+    {
+      "id": 41020,
+      "title": "Clara Vaughan, Volume 1 (of 3)",
+      "authors": [
+        {
+          "name": "Blackmore, R. D. (Richard Doddridge)",
+          "birth_year": 1825,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Murder victims' families -- Fiction",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 658,
+      "file": "books/41020.txt"
+    },
+    {
+      "id": 9779,
+      "title": "The Black Bag",
+      "authors": [
+        {
+          "name": "Vance, Louis Joseph",
+          "birth_year": 1879,
+          "death_year": 1933
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Jewel thieves -- Fiction",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Bestsellers, American, 1895-1923",
+        "Category: Adventure",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 613,
+      "file": "books/9779.txt"
+    },
+    {
+      "id": 41021,
+      "title": "Clara Vaughan, Volume 2 (of 3)",
+      "authors": [
+        {
+          "name": "Blackmore, R. D. (Richard Doddridge)",
+          "birth_year": 1825,
+          "death_year": 1900
+        }
+      ],
+      "subjects": [
+        "Murder victims' families -- Fiction",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 601,
+      "file": "books/41021.txt"
+    },
+    {
+      "id": 40835,
+      "title": "The Pauper of Park Lane",
+      "authors": [
+        {
+          "name": "Le Queux, William",
+          "birth_year": 1864,
+          "death_year": 1927
+        }
+      ],
+      "subjects": [
+        "Capitalists and financiers -- Fiction",
+        "London (England) -- Fiction",
+        "Murder -- Fiction",
+        "Mystery fiction",
+        "Spy stories"
+      ],
+      "bookshelves": [
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 580,
+      "file": "books/40835.txt"
+    },
+    {
+      "id": 55404,
+      "title": "The Man with a Secret: A Novel",
+      "authors": [
+        {
+          "name": "Hume, Fergus",
+          "birth_year": 1859,
+          "death_year": 1932
+        }
+      ],
+      "subjects": [
+        "England -- Fiction",
+        "English fiction -- 19th century",
+        "Inheritance and succession -- Fiction",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 565,
+      "file": "books/55404.txt"
+    },
+    {
+      "id": 57885,
+      "title": "The Tickencote Treasure",
+      "authors": [
+        {
+          "name": "Le Queux, William",
+          "birth_year": 1864,
+          "death_year": 1927
+        }
+      ],
+      "subjects": [
+        "Mystery fiction",
+        "Physicians -- Fiction",
+        "Treasure troves -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 564,
+      "file": "books/57885.txt"
+    },
+    {
+      "id": 1183,
+      "title": "The Return of Dr. Fu-Manchu",
+      "authors": [
+        {
+          "name": "Rohmer, Sax",
+          "birth_year": 1883,
+          "death_year": 1959
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "China -- Fiction",
+        "Criminal investigation -- Fiction",
+        "Fu Manchu, Doctor (Fictitious character) -- Fiction",
+        "Mystery fiction",
+        "Poisoning -- Fiction",
+        "Secret societies -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Crime Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 561,
+      "file": "books/1183.txt"
+    },
+    {
+      "id": 43492,
+      "title": "The Five Knots",
+      "authors": [
+        {
+          "name": "White, Fred M. (Fred Merrick)",
+          "birth_year": 1859,
+          "death_year": 1935
+        }
+      ],
+      "subjects": [
+        "England -- Fiction",
+        "Jewelry theft -- Fiction",
+        "Love stories",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 549,
+      "file": "books/43492.txt"
+    },
+    {
+      "id": 55006,
+      "title": "The Sundial",
+      "authors": [
+        {
+          "name": "White, Fred M. (Fred Merrick)",
+          "birth_year": 1859,
+          "death_year": 1935
+        }
+      ],
+      "subjects": [
+        "England -- Fiction",
+        "Jewelry theft -- Fiction",
+        "Man-woman relationships -- Fiction",
+        "Murder -- Fiction",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 527,
+      "file": "books/55006.txt"
+    },
+    {
+      "id": 1629,
+      "title": "\"I Say No\"",
+      "authors": [
+        {
+          "name": "Collins, Wilkie",
+          "birth_year": 1824,
+          "death_year": 1889
+        }
+      ],
+      "subjects": [
+        "Great Britain -- Social life and customs -- 19th century -- Fiction",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 525,
+      "file": "books/1629.txt"
+    },
+    {
+      "id": 34492,
+      "title": "The Master of the Ceremonies",
+      "authors": [
+        {
+          "name": "Fenn, George Manville",
+          "birth_year": 1831,
+          "death_year": 1909
+        }
+      ],
+      "subjects": [
+        "Great Britain -- History -- George III, 1760-1820 -- Fiction",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Category: Romance"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 520,
+      "file": "books/34492.txt"
+    },
+    {
+      "id": 647,
+      "title": "The Dynamiter",
+      "authors": [
+        {
+          "name": "Stevenson, Robert Louis",
+          "birth_year": 1850,
+          "death_year": 1894
+        },
+        {
+          "name": "Stevenson, Fanny Van de Grift",
+          "birth_year": 1840,
+          "death_year": 1914
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Fiction",
+        "Mystery fiction",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 503,
+      "file": "books/647.txt"
+    },
+    {
+      "id": 59772,
+      "title": "Convict B 14: A Novel",
+      "authors": [
+        {
+          "name": "Weekes, R. K. (Rose Kirkpatrick)",
+          "birth_year": 1874,
+          "death_year": 1956
+        }
+      ],
+      "subjects": [
+        "Love stories",
+        "Mystery fiction",
+        "Prisoners -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 500,
+      "file": "books/59772.txt"
+    },
+    {
+      "id": 7964,
+      "title": "The mystery of Cloomber",
+      "authors": [
+        {
+          "name": "Doyle, Arthur Conan",
+          "birth_year": 1859,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Buddhist priests -- Fiction",
+        "East India Company. Army -- Officers -- Fiction",
+        "Hindu Kush Mountains Region (Afghanistan and Pakistan) -- Fiction",
+        "Massacres -- Fiction",
+        "Mystery fiction",
+        "Revenge -- Fiction",
+        "Wigtownshire (Scotland) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 486,
+      "file": "books/7964.txt"
+    },
+    {
+      "id": 363,
+      "title": "The Oakdale Affair",
+      "authors": [
+        {
+          "name": "Burroughs, Edgar Rice",
+          "birth_year": 1875,
+          "death_year": 1950
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 472,
+      "file": "books/363.txt"
+    },
+    {
+      "id": 39896,
+      "title": "The Girl Next Door",
+      "authors": [
+        {
+          "name": "Seaman, Augusta Huiell",
+          "birth_year": 1879,
+          "death_year": 1950
+        }
+      ],
+      "subjects": [
+        "Friendship -- Juvenile fiction",
+        "Girls -- Juvenile fiction",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Children & Young Adult Reading",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 472,
+      "file": "books/39896.txt"
+    },
+    {
+      "id": 44324,
+      "title": "The Flying Death",
+      "authors": [
+        {
+          "name": "Adams, Samuel Hopkins",
+          "birth_year": 1871,
+          "death_year": 1958
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Long Island (N.Y.) -- Fiction",
+        "Mystery fiction",
+        "Pteranodon -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Category: Romance"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 461,
+      "file": "books/44324.txt"
+    },
+    {
+      "id": 43674,
+      "title": "The Cardinal Moth",
+      "authors": [
+        {
+          "name": "White, Fred M. (Fred Merrick)",
+          "birth_year": 1859,
+          "death_year": 1935
+        }
+      ],
+      "subjects": [
+        "England -- Fiction",
+        "Love stories",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 449,
+      "file": "books/43674.txt"
+    },
+    {
+      "id": 41619,
+      "title": "The Haunting of Low Fennel",
+      "authors": [
+        {
+          "name": "Rohmer, Sax",
+          "birth_year": 1883,
+          "death_year": 1959
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Mystery fiction",
+        "Short stories, English",
+        "Supernatural -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 441,
+      "file": "books/41619.txt"
+    },
+    {
+      "id": 1970,
+      "title": "A Poor Wise Man",
+      "authors": [
+        {
+          "name": "Rinehart, Mary Roberts",
+          "birth_year": 1876,
+          "death_year": 1958
+        }
+      ],
+      "subjects": [
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Bestsellers, American, 1895-1923",
+        "Category: American Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 436,
+      "file": "books/1970.txt"
+    },
+    {
+      "id": 69112,
+      "title": "The quest for the rose of Sharon",
+      "authors": [
+        {
+          "name": "Stevenson, Burton Egbert",
+          "birth_year": 1872,
+          "death_year": 1962
+        }
+      ],
+      "subjects": [
+        "Families -- Fiction",
+        "Inheritance and succession -- Fiction",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 434,
+      "file": "books/69112.txt"
+    },
+    {
+      "id": 8188,
+      "title": "The Mysterious Key and What It Opened",
+      "authors": [
+        {
+          "name": "Alcott, Louisa May",
+          "birth_year": 1832,
+          "death_year": 1888
+        }
+      ],
+      "subjects": [
+        "Household employees -- Fiction",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Children's Literature"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 420,
+      "file": "books/8188.txt"
+    },
+    {
+      "id": 29524,
+      "title": "The Masked Bridal",
+      "authors": [
+        {
+          "name": "Sheldon, Georgie, Mrs.",
+          "birth_year": 1843,
+          "death_year": 1926
+        }
+      ],
+      "subjects": [
+        "Mystery fiction",
+        "Young women -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Novels",
+        "Category: Romance"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 414,
+      "file": "books/29524.txt"
+    },
+    {
+      "id": 68875,
+      "title": "The lion's share",
+      "authors": [
+        {
+          "name": "Thanet, Octave",
+          "birth_year": 1850,
+          "death_year": 1934
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Kidnapping -- Fiction",
+        "Mystery fiction",
+        "Revenge -- Fiction",
+        "San Francisco (Calif.) -- Fiction",
+        "San Francisco Earthquake and Fire, Calif., 1906 -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 411,
+      "file": "books/68875.txt"
+    },
+    {
+      "id": 40997,
+      "title": "As We Forgive Them",
+      "authors": [
+        {
+          "name": "Le Queux, William",
+          "birth_year": 1864,
+          "death_year": 1927
+        }
+      ],
+      "subjects": [
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 409,
+      "file": "books/40997.txt"
+    },
+    {
+      "id": 41199,
+      "title": "The Great God Gold",
+      "authors": [
+        {
+          "name": "Le Queux, William",
+          "birth_year": 1864,
+          "death_year": 1927
+        }
+      ],
+      "subjects": [
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 409,
+      "file": "books/41199.txt"
+    },
+    {
+      "id": 34988,
+      "title": "The Professor's Mystery",
+      "authors": [
+        {
+          "name": "Hastings, Wells",
+          "birth_year": 1879,
+          "death_year": 1923
+        },
+        {
+          "name": "Hooker, Brian",
+          "birth_year": 1880,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Love stories",
+        "Mystery fiction",
+        "Spiritualism -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 406,
+      "file": "books/34988.txt"
+    },
+    {
+      "id": 4789,
+      "title": "Black Caesar's Clan : A Florida Mystery Story",
+      "authors": [
+        {
+          "name": "Terhune, Albert Payson",
+          "birth_year": 1872,
+          "death_year": 1942
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Everglades (Fla.) -- Fiction",
+        "Florida -- Fiction",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Category: Romance"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 401,
+      "file": "books/4789.txt"
+    },
+    {
+      "id": 34017,
+      "title": "Deep Moat Grange",
+      "authors": [
+        {
+          "name": "Crockett, S. R. (Samuel Rutherford)",
+          "birth_year": 1860,
+          "death_year": 1914
+        }
+      ],
+      "subjects": [
+        "Murder -- Fiction",
+        "Mystery fiction",
+        "Northumberland (England) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 397,
+      "file": "books/34017.txt"
+    },
+    {
+      "id": 9931,
+      "title": "K",
+      "authors": [
+        {
+          "name": "Rinehart, Mary Roberts",
+          "birth_year": 1876,
+          "death_year": 1958
+        }
+      ],
+      "subjects": [
+        "Mystery fiction",
+        "Pittsburgh (Pa.) -- Fiction"
+      ],
+      "bookshelves": [
+        "Bestsellers, American, 1895-1923",
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Romance"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 395,
+      "file": "books/9931.txt"
+    },
+    {
+      "id": 56230,
+      "title": "The Amethyst Cross",
+      "authors": [
+        {
+          "name": "Hume, Fergus",
+          "birth_year": 1859,
+          "death_year": 1932
+        }
+      ],
+      "subjects": [
+        "England -- Fiction",
+        "Identity -- Fiction",
+        "Jewelry theft -- Fiction",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Category: Romance"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 391,
+      "file": "books/56230.txt"
+    },
+    {
+      "id": 9312,
+      "title": "From Whose Bourne",
+      "authors": [
+        {
+          "name": "Barr, Robert",
+          "birth_year": 1850,
+          "death_year": 1912
+        }
+      ],
+      "subjects": [
+        "Ghosts -- Fiction",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 390,
+      "file": "books/9312.txt"
+    },
+    {
+      "id": 40831,
+      "title": "The Wiles of the Wicked",
+      "authors": [
+        {
+          "name": "Le Queux, William",
+          "birth_year": 1864,
+          "death_year": 1927
+        }
+      ],
+      "subjects": [
+        "Amnesia -- Fiction",
+        "Blindness -- Fiction",
+        "Millionaires -- Fiction",
+        "Mystery fiction",
+        "Princesses -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 390,
+      "file": "books/40831.txt"
+    },
+    {
+      "id": 56243,
+      "title": "The Mikado Jewel",
+      "authors": [
+        {
+          "name": "Hume, Fergus",
+          "birth_year": 1859,
+          "death_year": 1932
+        }
+      ],
+      "subjects": [
+        "Jewelry theft -- Fiction",
+        "Murder -- Investigation -- Fiction",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 389,
+      "file": "books/56243.txt"
+    },
+    {
+      "id": 39547,
+      "title": "Beaumaroy Home from the Wars",
+      "authors": [
+        {
+          "name": "Hope, Anthony",
+          "birth_year": 1863,
+          "death_year": 1933
+        }
+      ],
+      "subjects": [
+        "England -- Social life and customs -- 20th century -- Fiction",
+        "Mystery fiction",
+        "Women physicians -- Fiction",
+        "World War, 1914-1918 -- Veterans -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 385,
+      "file": "books/39547.txt"
+    },
+    {
+      "id": 46236,
+      "title": "The Red Widow; or, The Death-Dealers of London",
+      "authors": [
+        {
+          "name": "Le Queux, William",
+          "birth_year": 1864,
+          "death_year": 1927
+        }
+      ],
+      "subjects": [
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 384,
+      "file": "books/46236.txt"
+    },
+    {
+      "id": 36112,
+      "title": "Sons and Fathers",
+      "authors": [
+        {
+          "name": "Edwards, Harry Stillwell",
+          "birth_year": 1855,
+          "death_year": 1938
+        }
+      ],
+      "subjects": [
+        "Mystery fiction",
+        "Race relations -- Fiction",
+        "Southern States -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 383,
+      "file": "books/36112.txt"
+    },
+    {
+      "id": 10869,
+      "title": "The Abandoned Room",
+      "authors": [
+        {
+          "name": "Camp, Wadsworth",
+          "birth_year": 1879,
+          "death_year": 1936
+        }
+      ],
+      "subjects": [
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 375,
+      "file": "books/10869.txt"
+    },
+    {
+      "id": 33971,
+      "title": "Witching Hill",
+      "authors": [
+        {
+          "name": "Hornung, E. W. (Ernest William)",
+          "birth_year": 1866,
+          "death_year": 1921
+        }
+      ],
+      "subjects": [
+        "Mystery fiction",
+        "Suburbs -- England -- London -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 374,
+      "file": "books/33971.txt"
+    },
+    {
+      "id": 10057,
+      "title": "The Secret of the Tower",
+      "authors": [
+        {
+          "name": "Hope, Anthony",
+          "birth_year": 1863,
+          "death_year": 1933
+        }
+      ],
+      "subjects": [
+        "England -- Social life and customs -- 20th century -- Fiction",
+        "Mystery fiction",
+        "Women physicians -- Fiction",
+        "World War, 1914-1918 -- Veterans -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 369,
+      "file": "books/10057.txt"
+    },
+    {
+      "id": 1741,
+      "title": "The White Moll",
+      "authors": [
+        {
+          "name": "Packard, Frank L. (Frank Lucius)",
+          "birth_year": 1877,
+          "death_year": 1942
+        }
+      ],
+      "subjects": [
+        "Gangsters -- New York (State) -- New York -- Fiction",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 363,
+      "file": "books/1741.txt"
+    },
+    {
+      "id": 1721,
+      "title": "The Trees of Pride",
+      "authors": [
+        {
+          "name": "Chesterton, G. K. (Gilbert Keith)",
+          "birth_year": 1874,
+          "death_year": 1936
+        }
+      ],
+      "subjects": [
+        "Murder -- Fiction",
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 358,
+      "file": "books/1721.txt"
+    },
+    {
+      "id": 42056,
+      "title": "The Red Window",
+      "authors": [
+        {
+          "name": "Hume, Fergus",
+          "birth_year": 1859,
+          "death_year": 1932
+        }
+      ],
+      "subjects": [
+        "Mystery fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 357,
+      "file": "books/42056.txt"
+    },
+    {
+      "id": 17398,
+      "title": "The Cabman's Story: The Mysteries of a London 'Growler'",
+      "authors": [
+        {
+          "name": "Doyle, Arthur Conan",
+          "birth_year": 1859,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Mystery fiction",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 348,
+      "file": "books/17398.txt"
+    },
+    {
+      "id": 68544,
+      "title": "St. Cuthbert's tower",
+      "authors": [
+        {
+          "name": "Warden, Florence",
+          "birth_year": 1857,
+          "death_year": 1929
+        }
+      ],
+      "subjects": [
+        "Clergy -- Fiction",
+        "Farms -- Fiction",
+        "Mystery fiction",
+        "Yorkshire (England) -- Fiction",
+        "Young women -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 346,
+      "file": "books/68544.txt"
+    },
+    {
+      "id": 35617,
+      "title": "The Terror: A Mystery",
+      "authors": [
+        {
+          "name": "Machen, Arthur",
+          "birth_year": 1863,
+          "death_year": 1947
+        }
+      ],
+      "subjects": [
+        "Animals -- Great Britain -- Fiction",
+        "London (England) -- Fiction",
+        "Murder -- Fiction",
+        "Mystery fiction",
+        "World War, 1914-1918 -- Great Britain -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 345,
+      "file": "books/35617.txt"
+    }
+  ]
+}

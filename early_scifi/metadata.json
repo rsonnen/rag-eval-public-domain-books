@@ -1,0 +1,3606 @@
+{
+  "corpus": "early_scifi",
+  "source": "gutenberg",
+  "search_strategy": {
+    "topics": [
+      "Science Fiction",
+      "Utopias",
+      "Dystopias",
+      "Interplanetary voyages"
+    ],
+    "author_years": [
+      1750,
+      1950
+    ],
+    "languages": [
+      "en"
+    ]
+  },
+  "curated_at": "2025-12-26T20:08:58.090758+00:00",
+  "total_books": 130,
+  "books_evaluated": 238,
+  "acceptance_rate": 0.5462184873949579,
+  "books": [
+    {
+      "id": 84,
+      "title": "Frankenstein; Or, The Modern Prometheus",
+      "authors": [
+        {
+          "name": "Shelley, Mary Wollstonecraft",
+          "birth_year": 1797,
+          "death_year": 1851
+        }
+      ],
+      "subjects": [
+        "Frankenstein's monster (Fictitious character) -- Fiction",
+        "Frankenstein, Victor (Fictitious character) -- Fiction",
+        "Gothic fiction",
+        "Horror tales",
+        "Monsters -- Fiction",
+        "Science fiction",
+        "Scientists -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Gothic Fiction",
+        "Movie Books",
+        "Precursors of Science Fiction",
+        "Science Fiction by Women"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 303668,
+      "file": "books/84.txt"
+    },
+    {
+      "id": 43,
+      "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+      "authors": [
+        {
+          "name": "Stevenson, Robert Louis",
+          "birth_year": 1850,
+          "death_year": 1894
+        }
+      ],
+      "subjects": [
+        "Horror tales",
+        "London (England) -- Fiction",
+        "Multiple personality -- Fiction",
+        "Physicians -- Fiction",
+        "Psychological fiction",
+        "Science fiction",
+        "Self-experimentation in medicine -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Horror",
+        "Movie Books",
+        "Precursors of Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 66198,
+      "file": "books/43.txt"
+    },
+    {
+      "id": 41445,
+      "title": "Frankenstein; Or, The Modern Prometheus",
+      "authors": [
+        {
+          "name": "Shelley, Mary Wollstonecraft",
+          "birth_year": 1797,
+          "death_year": 1851
+        }
+      ],
+      "subjects": [
+        "Frankenstein's monster (Fictitious character) -- Fiction",
+        "Frankenstein, Victor (Fictitious character) -- Fiction",
+        "Gothic fiction",
+        "Horror tales",
+        "Monsters -- Fiction",
+        "Science fiction",
+        "Scientists -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Precursors of Science Fiction",
+        "Science Fiction by Women"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 19327,
+      "file": "books/41445.txt"
+    },
+    {
+      "id": 42324,
+      "title": "Frankenstein; Or, The Modern Prometheus",
+      "authors": [
+        {
+          "name": "Shelley, Mary Wollstonecraft",
+          "birth_year": 1797,
+          "death_year": 1851
+        }
+      ],
+      "subjects": [
+        "Frankenstein's monster (Fictitious character) -- Fiction",
+        "Frankenstein, Victor (Fictitious character) -- Fiction",
+        "Gothic fiction",
+        "Horror tales",
+        "Monsters -- Fiction",
+        "Science fiction",
+        "Scientists -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Precursors of Science Fiction",
+        "Science Fiction by Women"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 14007,
+      "file": "books/42324.txt"
+    },
+    {
+      "id": 164,
+      "title": "Twenty Thousand Leagues under the Sea",
+      "authors": [
+        {
+          "name": "Verne, Jules",
+          "birth_year": 1828,
+          "death_year": 1905
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Science fiction",
+        "Sea stories",
+        "Submarines (Ships) -- Fiction",
+        "Underwater exploration -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Classics of Literature",
+        "Category: French Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 10270,
+      "file": "books/164.txt"
+    },
+    {
+      "id": 35,
+      "title": "The Time Machine",
+      "authors": [
+        {
+          "name": "Wells, H. G. (Herbert George)",
+          "birth_year": 1866,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Dystopias -- Fiction",
+        "Science fiction",
+        "Time travel -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Movie Books",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 10237,
+      "file": "books/35.txt"
+    },
+    {
+      "id": 36,
+      "title": "The War of the Worlds",
+      "authors": [
+        {
+          "name": "Wells, H. G. (Herbert George)",
+          "birth_year": 1866,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Imaginary wars and battles -- Fiction",
+        "Life on other planets -- Fiction",
+        "Mars (Planet) -- Fiction",
+        "Martians -- Fiction",
+        "Science fiction",
+        "Space warfare -- Fiction",
+        "War stories"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Movie Books",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 9920,
+      "file": "books/36.txt"
+    },
+    {
+      "id": 18857,
+      "title": "A Journey to the Centre of the Earth",
+      "authors": [
+        {
+          "name": "Verne, Jules",
+          "birth_year": 1828,
+          "death_year": 1905
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Earth (Planet) -- Core -- Fiction",
+        "Science fiction",
+        "Voyages, Imaginary -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Classics of Literature",
+        "Category: French Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Movie Books",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 7262,
+      "file": "books/18857.txt"
+    },
+    {
+      "id": 5230,
+      "title": "The Invisible Man: A Grotesque Romance",
+      "authors": [
+        {
+          "name": "Wells, H. G. (Herbert George)",
+          "birth_year": 1866,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Mentally ill -- Fiction",
+        "Psychological fiction",
+        "Science fiction",
+        "Scientists -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Movie Books"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 6991,
+      "file": "books/5230.txt"
+    },
+    {
+      "id": 86,
+      "title": "A Connecticut Yankee in King Arthur's Court",
+      "authors": [
+        {
+          "name": "Twain, Mark",
+          "birth_year": 1835,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Americans -- Great Britain -- Fiction",
+        "Arthurian romances -- Adaptations",
+        "Britons -- Fiction",
+        "Fantasy fiction",
+        "Kings and rulers -- Fiction",
+        "Knights and knighthood -- Fiction",
+        "Satire",
+        "Time travel -- Fiction"
+      ],
+      "bookshelves": [
+        "Arthurian Legends",
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Humour",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Precursors of Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 6317,
+      "file": "books/86.txt"
+    },
+    {
+      "id": 61963,
+      "title": "We",
+      "authors": [
+        {
+          "name": "Zamiatin, Evgenii Ivanovich",
+          "birth_year": 1884,
+          "death_year": 1937
+        }
+      ],
+      "subjects": [
+        "Dystopias -- Fiction",
+        "Russian fiction -- Translations into English",
+        "Science fiction",
+        "Totalitarianism -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Novels",
+        "Category: Russian Literature",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 5133,
+      "file": "books/61963.txt"
+    },
+    {
+      "id": 62,
+      "title": "A Princess of Mars",
+      "authors": [
+        {
+          "name": "Burroughs, Edgar Rice",
+          "birth_year": 1875,
+          "death_year": 1950
+        }
+      ],
+      "subjects": [
+        "Carter, John (Fictitious character) -- Fiction",
+        "Dejah Thoris (Fictitious character) -- Fiction",
+        "Mars (Planet) -- Fiction",
+        "Princesses -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: Adventure",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4456,
+      "file": "books/62.txt"
+    },
+    {
+      "id": 159,
+      "title": "The island of Doctor Moreau",
+      "authors": [
+        {
+          "name": "Wells, H. G. (Herbert George)",
+          "birth_year": 1866,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Animal experimentation -- Fiction",
+        "Islands -- Fiction",
+        "Science -- Ethics -- Fiction",
+        "Science fiction",
+        "Shipwreck survival -- Fiction"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Movie Books",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4419,
+      "file": "books/159.txt"
+    },
+    {
+      "id": 1268,
+      "title": "The Mysterious Island",
+      "authors": [
+        {
+          "name": "Verne, Jules",
+          "birth_year": 1828,
+          "death_year": 1905
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Castaways -- Fiction",
+        "Islands of the Pacific -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: French Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3905,
+      "file": "books/1268.txt"
+    },
+    {
+      "id": 2488,
+      "title": "Twenty Thousand Leagues Under the Seas: An Underwater Tour of the World",
+      "authors": [
+        {
+          "name": "Verne, Jules",
+          "birth_year": 1828,
+          "death_year": 1905
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Science fiction",
+        "Sea stories",
+        "Submarines (Ships) -- Fiction",
+        "Underwater exploration -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Classics of Literature",
+        "Category: French Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Movie Books",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3868,
+      "file": "books/2488.txt"
+    },
+    {
+      "id": 72,
+      "title": "Thuvia, Maid of Mars",
+      "authors": [
+        {
+          "name": "Burroughs, Edgar Rice",
+          "birth_year": 1875,
+          "death_year": 1950
+        }
+      ],
+      "subjects": [
+        "Mars (Planet) -- Fiction",
+        "Martians -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Romance",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3002,
+      "file": "books/72.txt"
+    },
+    {
+      "id": 10002,
+      "title": "The House on the Borderland",
+      "authors": [
+        {
+          "name": "Hodgson, William Hope",
+          "birth_year": 1877,
+          "death_year": 1918
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Fantasy",
+        "Horror",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2790,
+      "file": "books/10002.txt"
+    },
+    {
+      "id": 21638,
+      "title": "Tarrano the Conqueror",
+      "authors": [
+        {
+          "name": "Cummings, Ray",
+          "birth_year": 1887,
+          "death_year": 1957
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2667,
+      "file": "books/21638.txt"
+    },
+    {
+      "id": 18247,
+      "title": "The Last Man",
+      "authors": [
+        {
+          "name": "Shelley, Mary Wollstonecraft",
+          "birth_year": 1797,
+          "death_year": 1851
+        }
+      ],
+      "subjects": [
+        "End of the world -- Fiction",
+        "Epidemics -- Fiction",
+        "Science fiction",
+        "Twenty-first century -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Precursors of Science Fiction",
+        "Science Fiction by Women"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2634,
+      "file": "books/18247.txt"
+    },
+    {
+      "id": 64,
+      "title": "The Gods of Mars",
+      "authors": [
+        {
+          "name": "Burroughs, Edgar Rice",
+          "birth_year": 1875,
+          "death_year": 1950
+        }
+      ],
+      "subjects": [
+        "Carter, John (Fictitious character) -- Fiction",
+        "Dejah Thoris (Fictitious character) -- Fiction",
+        "Life on other planets -- Fiction",
+        "Mars (Planet) -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2633,
+      "file": "books/64.txt"
+    },
+    {
+      "id": 201,
+      "title": "Flatland: A Romance of Many Dimensions",
+      "authors": [
+        {
+          "name": "Abbott, Edwin Abbott",
+          "birth_year": 1838,
+          "death_year": 1926
+        }
+      ],
+      "subjects": [
+        "Fourth dimension"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Mathematics",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2476,
+      "file": "books/201.txt"
+    },
+    {
+      "id": 68,
+      "title": "The warlord of Mars",
+      "authors": [
+        {
+          "name": "Burroughs, Edgar Rice",
+          "birth_year": 1875,
+          "death_year": 1950
+        }
+      ],
+      "subjects": [
+        "Carter, John (Fictitious character) -- Fiction",
+        "Dejah Thoris (Fictitious character) -- Fiction",
+        "Mars (Planet) -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2063,
+      "file": "books/68.txt"
+    },
+    {
+      "id": 50133,
+      "title": "The Dunwich horror",
+      "authors": [
+        {
+          "name": "Lovecraft, H. P. (Howard Phillips)",
+          "birth_year": 1890,
+          "death_year": 1937
+        }
+      ],
+      "subjects": [
+        "American fiction -- 20th century",
+        "Fantasy fiction",
+        "Horror tales"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2025,
+      "file": "books/50133.txt"
+    },
+    {
+      "id": 3748,
+      "title": "A Journey into the Interior of the Earth",
+      "authors": [
+        {
+          "name": "Verne, Jules",
+          "birth_year": 1828,
+          "death_year": 1905
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Earth (Planet) -- Core -- Fiction",
+        "Science fiction",
+        "Voyages, Imaginary -- Fiction"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: Adventure",
+        "Category: French Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1890,
+      "file": "books/3748.txt"
+    },
+    {
+      "id": 72890,
+      "title": "The eternal moment, and other stories",
+      "authors": [
+        {
+          "name": "Forster, E. M. (Edward Morgan)",
+          "birth_year": 1879,
+          "death_year": 1970
+        }
+      ],
+      "subjects": [
+        "Fantasy fiction",
+        "Great Britain -- Social life and customs -- 20th century -- Fiction",
+        "Science fiction",
+        "Short stories, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1878,
+      "file": "books/72890.txt"
+    },
+    {
+      "id": 40361,
+      "title": "The Air Pirate",
+      "authors": [
+        {
+          "name": "Thorne, Guy",
+          "birth_year": 1875,
+          "death_year": 1923
+        }
+      ],
+      "subjects": [
+        "Aeronautics -- Fiction",
+        "England -- Fiction",
+        "Pirates -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1839,
+      "file": "books/40361.txt"
+    },
+    {
+      "id": 1153,
+      "title": "The Chessmen of Mars",
+      "authors": [
+        {
+          "name": "Burroughs, Edgar Rice",
+          "birth_year": 1875,
+          "death_year": 1950
+        }
+      ],
+      "subjects": [
+        "Mars (Planet) -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1786,
+      "file": "books/1153.txt"
+    },
+    {
+      "id": 1164,
+      "title": "The iron heel",
+      "authors": [
+        {
+          "name": "London, Jack",
+          "birth_year": 1876,
+          "death_year": 1916
+        }
+      ],
+      "subjects": [
+        "Dystopias -- Fiction",
+        "Oligarchy -- Fiction",
+        "Political fiction",
+        "Revolutionaries -- Fiction",
+        "Revolutions -- Fiction",
+        "Science fiction",
+        "Socialism -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1723,
+      "file": "books/1164.txt"
+    },
+    {
+      "id": 23731,
+      "title": "A Martian Odyssey",
+      "authors": [
+        {
+          "name": "Weinbaum, Stanley G. (Stanley Grauman)",
+          "birth_year": 1902,
+          "death_year": 1935
+        }
+      ],
+      "subjects": [
+        "Mars (Planet) -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1703,
+      "file": "books/23731.txt"
+    },
+    {
+      "id": 551,
+      "title": "The Land That Time Forgot",
+      "authors": [
+        {
+          "name": "Burroughs, Edgar Rice",
+          "birth_year": 1875,
+          "death_year": 1950
+        }
+      ],
+      "subjects": [
+        "Dinosaurs -- Fiction",
+        "Lost continents -- Fiction",
+        "Prehistoric peoples -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1685,
+      "file": "books/551.txt"
+    },
+    {
+      "id": 1951,
+      "title": "The Coming Race",
+      "authors": [
+        {
+          "name": "Lytton, Edward Bulwer Lytton, Baron",
+          "birth_year": 1803,
+          "death_year": 1873
+        }
+      ],
+      "subjects": [
+        "Civilization, Subterranean -- Fiction",
+        "Science fiction",
+        "Underground areas -- Fiction",
+        "Utopian fiction",
+        "Utopias -- Fiction"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: Adventure",
+        "Category: British Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Precursors of Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1664,
+      "file": "books/1951.txt"
+    },
+    {
+      "id": 19476,
+      "title": "A Honeymoon in Space",
+      "authors": [
+        {
+          "name": "Griffith, George Chetwynd",
+          "birth_year": 1857,
+          "death_year": 1906
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: British Literature",
+        "Category: Romance",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1636,
+      "file": "books/19476.txt"
+    },
+    {
+      "id": 456,
+      "title": "The Door in the Wall, and Other Stories",
+      "authors": [
+        {
+          "name": "Wells, H. G. (Herbert George)",
+          "birth_year": 1866,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Fantasy fiction, English",
+        "Science fiction, English",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1587,
+      "file": "books/456.txt"
+    },
+    {
+      "id": 83,
+      "title": "From the Earth to the Moon; and, Round the Moon",
+      "authors": [
+        {
+          "name": "Verne, Jules",
+          "birth_year": 1828,
+          "death_year": 1905
+        }
+      ],
+      "subjects": [
+        "Manned space flight -- Fiction",
+        "Moon -- Fiction",
+        "Science fiction",
+        "Space flight to the moon -- Fiction",
+        "Space ships -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Classics of Literature",
+        "Category: French Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Movie Books",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1476,
+      "file": "books/83.txt"
+    },
+    {
+      "id": 1059,
+      "title": "The World Set Free",
+      "authors": [
+        {
+          "name": "Wells, H. G. (Herbert George)",
+          "birth_year": 1866,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Imaginary wars and battles -- Fiction",
+        "Nuclear warfare -- Fiction",
+        "War stories"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1467,
+      "file": "books/1059.txt"
+    },
+    {
+      "id": 26563,
+      "title": "The Crack of Doom",
+      "authors": [
+        {
+          "name": "Cromie, Robert",
+          "birth_year": 1856,
+          "death_year": 1907
+        }
+      ],
+      "subjects": [
+        "Nuclear explosions -- Fiction",
+        "Paranormal fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Romance",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1457,
+      "file": "books/26563.txt"
+    },
+    {
+      "id": 12750,
+      "title": "The Stolen Bacillus and Other Incidents",
+      "authors": [
+        {
+          "name": "Wells, H. G. (Herbert George)",
+          "birth_year": 1866,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Science fiction, English",
+        "Short stories, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1454,
+      "file": "books/12750.txt"
+    },
+    {
+      "id": 27365,
+      "title": "Tales of Space and Time",
+      "authors": [
+        {
+          "name": "Wells, H. G. (Herbert George)",
+          "birth_year": 1866,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Science fiction, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1448,
+      "file": "books/27365.txt"
+    },
+    {
+      "id": 3479,
+      "title": "The Metal Monster",
+      "authors": [
+        {
+          "name": "Merritt, Abraham",
+          "birth_year": 1884,
+          "death_year": 1943
+        }
+      ],
+      "subjects": [
+        "Adventure and adventurers -- Fiction",
+        "Science fiction",
+        "Tibet Autonomous Region (China) -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1379,
+      "file": "books/3479.txt"
+    },
+    {
+      "id": 1353,
+      "title": "Off on a Comet! a Journey through Planetary Space",
+      "authors": [
+        {
+          "name": "Verne, Jules",
+          "birth_year": 1828,
+          "death_year": 1905
+        }
+      ],
+      "subjects": [
+        "Interplanetary voyages -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1373,
+      "file": "books/1353.txt"
+    },
+    {
+      "id": 149,
+      "title": "The Lost Continent",
+      "authors": [
+        {
+          "name": "Burroughs, Edgar Rice",
+          "birth_year": 1875,
+          "death_year": 1950
+        }
+      ],
+      "subjects": [
+        "England -- Fiction",
+        "Fantasy fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1359,
+      "file": "books/149.txt"
+    },
+    {
+      "id": 2026,
+      "title": "The Coming Conquest of England",
+      "authors": [
+        {
+          "name": "Niemann, August",
+          "birth_year": 1839,
+          "death_year": 1919
+        }
+      ],
+      "subjects": [
+        "Imaginary wars and battles -- Fiction",
+        "Science fiction",
+        "War stories"
+      ],
+      "bookshelves": [
+        "Category: Historical Novels",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1347,
+      "file": "books/2026.txt"
+    },
+    {
+      "id": 68236,
+      "title": "The colour out of space",
+      "authors": [
+        {
+          "name": "Lovecraft, H. P. (Howard Phillips)",
+          "birth_year": 1890,
+          "death_year": 1937
+        }
+      ],
+      "subjects": [
+        "Extraterrestrial beings -- Fiction",
+        "Families -- Fiction",
+        "Farmers -- Fiction",
+        "Horror tales",
+        "Human-alien encounters -- Fiction",
+        "Meteorites -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1339,
+      "file": "books/68236.txt"
+    },
+    {
+      "id": 29135,
+      "title": "With the Night Mail: A Story of 2000 A.D.: (Together with extracts from the comtemporary magazine in which it appeared)",
+      "authors": [
+        {
+          "name": "Kipling, Rudyard",
+          "birth_year": 1865,
+          "death_year": 1936
+        }
+      ],
+      "subjects": [
+        "Aeronautics -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Nobel Prizes in Literature",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1317,
+      "file": "books/29135.txt"
+    },
+    {
+      "id": 624,
+      "title": "Looking Backward, 2000 to 1887",
+      "authors": [
+        {
+          "name": "Bellamy, Edward",
+          "birth_year": 1850,
+          "death_year": 1898
+        }
+      ],
+      "subjects": [
+        "Boston (Mass.) -- Fiction",
+        "Science fiction",
+        "Social problems -- Fiction",
+        "Time travel -- Fiction",
+        "Two thousand, A.D. -- Fiction",
+        "Utopian fiction",
+        "Utopias -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1302,
+      "file": "books/624.txt"
+    },
+    {
+      "id": 44278,
+      "title": "From the Earth to the Moon, Direct in Ninety-Seven Hours and Twenty Minutes: and a Trip Round It",
+      "authors": [
+        {
+          "name": "Verne, Jules",
+          "birth_year": 1828,
+          "death_year": 1905
+        }
+      ],
+      "subjects": [
+        "Manned space flight -- Fiction",
+        "Moon -- Fiction",
+        "Science fiction",
+        "Space flight to the moon -- Fiction",
+        "Space ships -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1300,
+      "file": "books/44278.txt"
+    },
+    {
+      "id": 553,
+      "title": "Out of Time's Abyss",
+      "authors": [
+        {
+          "name": "Burroughs, Edgar Rice",
+          "birth_year": 1875,
+          "death_year": 1950
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1261,
+      "file": "books/553.txt"
+    },
+    {
+      "id": 1329,
+      "title": "A Voyage to Arcturus",
+      "authors": [
+        {
+          "name": "Lindsay, David",
+          "birth_year": 1876,
+          "death_year": 1945
+        }
+      ],
+      "subjects": [
+        "Life on other planets -- Fiction",
+        "Psychological fiction",
+        "Quests (Expeditions) -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1205,
+      "file": "books/1329.txt"
+    },
+    {
+      "id": 10662,
+      "title": "The Night Land",
+      "authors": [
+        {
+          "name": "Hodgson, William Hope",
+          "birth_year": 1877,
+          "death_year": 1918
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Fantasy",
+        "Horror",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1138,
+      "file": "books/10662.txt"
+    },
+    {
+      "id": 21970,
+      "title": "The Scarlet Plague",
+      "authors": [
+        {
+          "name": "London, Jack",
+          "birth_year": 1876,
+          "death_year": 1916
+        }
+      ],
+      "subjects": [
+        "End of the world -- Fiction",
+        "Epidemics -- Fiction",
+        "Regression (Civilization) -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1131,
+      "file": "books/21970.txt"
+    },
+    {
+      "id": 1743,
+      "title": "Twelve Stories and a Dream",
+      "authors": [
+        {
+          "name": "Wells, H. G. (Herbert George)",
+          "birth_year": 1866,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Science fiction, English",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1114,
+      "file": "books/1743.txt"
+    },
+    {
+      "id": 68811,
+      "title": "Black no more : $b Being an account of the strange and wonderful workings of science in the land of the free, A.D. 1933-1940",
+      "authors": [
+        {
+          "name": "Schuyler, George S. (George Samuel)",
+          "birth_year": 1895,
+          "death_year": 1977
+        }
+      ],
+      "subjects": [
+        "African Americans -- Fiction",
+        "Human skin color -- Fiction",
+        "Humorous stories",
+        "Picaresque literature",
+        "Satire",
+        "Science fiction",
+        "United States -- Race relations -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1112,
+      "file": "books/68811.txt"
+    },
+    {
+      "id": 780,
+      "title": "The War in the Air",
+      "authors": [
+        {
+          "name": "Wells, H. G. (Herbert George)",
+          "birth_year": 1866,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Air warfare -- Fiction",
+        "Science fiction",
+        "War stories"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1103,
+      "file": "books/780.txt"
+    },
+    {
+      "id": 20782,
+      "title": "Triplanetary",
+      "authors": [
+        {
+          "name": "Smith, E. E. (Edward Elmer)",
+          "birth_year": 1890,
+          "death_year": 1965
+        }
+      ],
+      "subjects": [
+        "Extraterrestrial beings -- Fiction",
+        "Human-alien encounters -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1098,
+      "file": "books/20782.txt"
+    },
+    {
+      "id": 37775,
+      "title": "Etidorhpa; or, The End of Earth.: The Strange History of a Mysterious Being and the Account of a Remarkable Journey",
+      "authors": [
+        {
+          "name": "Lloyd, John Uri",
+          "birth_year": 1849,
+          "death_year": 1936
+        }
+      ],
+      "subjects": [
+        "Earth (Planet) -- Internal structure -- Fiction",
+        "Fantasy fiction",
+        "Occultism -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1064,
+      "file": "books/37775.txt"
+    },
+    {
+      "id": 27609,
+      "title": "The Undersea Tube",
+      "authors": [
+        {
+          "name": "Hansen, L. Taylor (Lucile Taylor)",
+          "birth_year": 1897,
+          "death_year": 1976
+        }
+      ],
+      "subjects": [
+        "Science fiction",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction",
+        "Science Fiction by Women"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1045,
+      "file": "books/27609.txt"
+    },
+    {
+      "id": 11696,
+      "title": "The Food of the Gods and How It Came to Earth",
+      "authors": [
+        {
+          "name": "Wells, H. G. (Herbert George)",
+          "birth_year": 1866,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Agriculture -- Experimentation -- Fiction",
+        "Food supply -- Fiction",
+        "Giants -- Fiction",
+        "Growth factors -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Contemporary Reviews",
+        "Movie Books",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1038,
+      "file": "books/11696.txt"
+    },
+    {
+      "id": 59774,
+      "title": "Thirty Strange Stories",
+      "authors": [
+        {
+          "name": "Wells, H. G. (Herbert George)",
+          "birth_year": 1866,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Fantasy fiction, English",
+        "Science fiction, English",
+        "Short stories, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1033,
+      "file": "books/59774.txt"
+    },
+    {
+      "id": 32398,
+      "title": "Brood of the Dark Moon: (A Sequel to \"Dark Moon\")",
+      "authors": [
+        {
+          "name": "Diffin, Charles Willard",
+          "birth_year": 1884,
+          "death_year": 1966
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Astounding Stories",
+        "Category: Adventure",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1030,
+      "file": "books/32398.txt"
+    },
+    {
+      "id": 3526,
+      "title": "Five Weeks in a Balloon: Or, Journeys and Discoveries in Africa by Three Englishmen",
+      "authors": [
+        {
+          "name": "Verne, Jules",
+          "birth_year": 1828,
+          "death_year": 1905
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Africa -- Fiction",
+        "Balloons -- Fiction",
+        "Science fiction",
+        "Travel -- Fiction"
+      ],
+      "bookshelves": [
+        "Adventure",
+        "Category: Adventure",
+        "Category: Classics of Literature",
+        "Category: French Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Movie Books"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1017,
+      "file": "books/3526.txt"
+    },
+    {
+      "id": 25780,
+      "title": "The Fire People",
+      "authors": [
+        {
+          "name": "Cummings, Ray",
+          "birth_year": 1887,
+          "death_year": 1957
+        }
+      ],
+      "subjects": [
+        "Science fiction, American"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 983,
+      "file": "books/25780.txt"
+    },
+    {
+      "id": 32706,
+      "title": "Triplanetary",
+      "authors": [
+        {
+          "name": "Smith, E. E. (Edward Elmer)",
+          "birth_year": 1890,
+          "death_year": 1965
+        }
+      ],
+      "subjects": [
+        "Human-alien encounters -- Fiction",
+        "Science fiction",
+        "Space warfare -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 970,
+      "file": "books/32706.txt"
+    },
+    {
+      "id": 97,
+      "title": "Flatland: A Romance of Many Dimensions",
+      "authors": [
+        {
+          "name": "Abbott, Edwin Abbott",
+          "birth_year": 1838,
+          "death_year": 1926
+        }
+      ],
+      "subjects": [
+        "Fourth dimension"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Mathematics",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 969,
+      "file": "books/97.txt"
+    },
+    {
+      "id": 21670,
+      "title": "Edison's Conquest of Mars",
+      "authors": [
+        {
+          "name": "Serviss, Garrett Putman",
+          "birth_year": 1851,
+          "death_year": 1929
+        }
+      ],
+      "subjects": [
+        "Mars (Planet) -- Fiction",
+        "Martians -- Fiction",
+        "Science fiction",
+        "Space travelers -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 952,
+      "file": "books/21670.txt"
+    },
+    {
+      "id": 126,
+      "title": "The Poison Belt",
+      "authors": [
+        {
+          "name": "Doyle, Arthur Conan",
+          "birth_year": 1859,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Challenger, Professor (Fictitious character) -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 920,
+      "file": "books/126.txt"
+    },
+    {
+      "id": 12163,
+      "title": "The Sleeper Awakes: A Revised Edition of When the Sleeper Wakes",
+      "authors": [
+        {
+          "name": "Wells, H. G. (Herbert George)",
+          "birth_year": 1866,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Dystopias -- Fiction",
+        "London (England) -- Fiction",
+        "Science fiction",
+        "Technological innovations -- Fiction",
+        "Time travel -- Fiction",
+        "Twenty-first century -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 905,
+      "file": "books/12163.txt"
+    },
+    {
+      "id": 7463,
+      "title": "Darkness and Dawn",
+      "authors": [
+        {
+          "name": "England, George Allan",
+          "birth_year": 1877,
+          "death_year": 1936
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 872,
+      "file": "books/7463.txt"
+    },
+    {
+      "id": 27682,
+      "title": "The Panchronicon",
+      "authors": [
+        {
+          "name": "MacKaye, Harold Steele",
+          "birth_year": 1866,
+          "death_year": 1928
+        }
+      ],
+      "subjects": [
+        "Science fiction",
+        "Time travel -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 866,
+      "file": "books/27682.txt"
+    },
+    {
+      "id": 22893,
+      "title": "Pygmalion's Spectacles",
+      "authors": [
+        {
+          "name": "Weinbaum, Stanley G. (Stanley Grauman)",
+          "birth_year": 1902,
+          "death_year": 1935
+        }
+      ],
+      "subjects": [
+        "Science fiction",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 844,
+      "file": "books/22893.txt"
+    },
+    {
+      "id": 96,
+      "title": "The Monster Men",
+      "authors": [
+        {
+          "name": "Burroughs, Edgar Rice",
+          "birth_year": 1875,
+          "death_year": 1950
+        }
+      ],
+      "subjects": [
+        "Fantasy fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 841,
+      "file": "books/96.txt"
+    },
+    {
+      "id": 23678,
+      "title": "Tales of Fantasy and Fact",
+      "authors": [
+        {
+          "name": "Matthews, Brander",
+          "birth_year": 1852,
+          "death_year": 1929
+        }
+      ],
+      "subjects": [
+        "Fantasy fiction, American"
+      ],
+      "bookshelves": [
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 820,
+      "file": "books/23678.txt"
+    },
+    {
+      "id": 20857,
+      "title": "Spacehounds of IPC",
+      "authors": [
+        {
+          "name": "Smith, E. E. (Edward Elmer)",
+          "birth_year": 1890,
+          "death_year": 1965
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 810,
+      "file": "books/20857.txt"
+    },
+    {
+      "id": 20869,
+      "title": "The Skylark of Space",
+      "authors": [
+        {
+          "name": "Smith, E. E. (Edward Elmer)",
+          "birth_year": 1890,
+          "death_year": 1965
+        },
+        {
+          "name": "Garby, Lee Hawkins",
+          "birth_year": 1892,
+          "death_year": 1953
+        }
+      ],
+      "subjects": [
+        "Science fiction",
+        "Space flight -- Fiction",
+        "Space ships -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 808,
+      "file": "books/20869.txt"
+    },
+    {
+      "id": 32825,
+      "title": "The Goddess of Atvatabar: Being the history of the discovery of the interior world and conquest of Atvatabar",
+      "authors": [
+        {
+          "name": "Bradshaw, William Richard",
+          "birth_year": 1851,
+          "death_year": 1927
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 777,
+      "file": "books/32825.txt"
+    },
+    {
+      "id": 123,
+      "title": "At the Earth's Core",
+      "authors": [
+        {
+          "name": "Burroughs, Edgar Rice",
+          "birth_year": 1875,
+          "death_year": 1950
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Earth (Planet) -- Core -- Fiction",
+        "Fantasy fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 775,
+      "file": "books/123.txt"
+    },
+    {
+      "id": 67071,
+      "title": "The Star",
+      "authors": [
+        {
+          "name": "Wells, H. G. (Herbert George)",
+          "birth_year": 1866,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Apocalyptic fiction",
+        "Science fiction",
+        "Short stories",
+        "Stars -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 772,
+      "file": "books/67071.txt"
+    },
+    {
+      "id": 1013,
+      "title": "The First Men in the Moon",
+      "authors": [
+        {
+          "name": "Wells, H. G. (Herbert George)",
+          "birth_year": 1866,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Imperialism -- Fiction",
+        "Moon -- Fiction",
+        "Satire",
+        "Science fiction",
+        "Space flight to the moon -- Fiction",
+        "Utopian fiction",
+        "Utopias -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Movie Books",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 768,
+      "file": "books/1013.txt"
+    },
+    {
+      "id": 765,
+      "title": "The Moon Pool",
+      "authors": [
+        {
+          "name": "Merritt, Abraham",
+          "birth_year": 1884,
+          "death_year": 1943
+        }
+      ],
+      "subjects": [
+        "Botanists -- Fiction",
+        "Geographical myths -- Fiction",
+        "Oceania -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 760,
+      "file": "books/765.txt"
+    },
+    {
+      "id": 14021,
+      "title": "Lord of the World",
+      "authors": [
+        {
+          "name": "Benson, Robert Hugh",
+          "birth_year": 1871,
+          "death_year": 1914
+        }
+      ],
+      "subjects": [
+        "Science fiction",
+        "Second Advent -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Religion/Spirituality",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 759,
+      "file": "books/14021.txt"
+    },
+    {
+      "id": 775,
+      "title": "When the Sleeper Wakes",
+      "authors": [
+        {
+          "name": "Wells, H. G. (Herbert George)",
+          "birth_year": 1866,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Dystopias -- Fiction",
+        "London (England) -- Fiction",
+        "Science fiction",
+        "Technological innovations -- Fiction",
+        "Time travel -- Fiction",
+        "Twenty-first century -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 746,
+      "file": "books/775.txt"
+    },
+    {
+      "id": 13944,
+      "title": "After London; Or, Wild England",
+      "authors": [
+        {
+          "name": "Jefferies, Richard",
+          "birth_year": 1848,
+          "death_year": 1887
+        }
+      ],
+      "subjects": [
+        "Apocalyptic fiction",
+        "Dystopias -- Fiction",
+        "England -- Fiction",
+        "Regression (Civilization) -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: Adventure",
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Precursors of Science Fiction",
+        "United Kingdom"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 740,
+      "file": "books/13944.txt"
+    },
+    {
+      "id": 11229,
+      "title": "The Purple Cloud",
+      "authors": [
+        {
+          "name": "Shiel, M. P. (Matthew Phipps)",
+          "birth_year": 1865,
+          "death_year": 1947
+        }
+      ],
+      "subjects": [
+        "Apocalyptic fantasies",
+        "End of the world -- Fiction",
+        "Natural disasters -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 738,
+      "file": "books/11229.txt"
+    },
+    {
+      "id": 32530,
+      "title": "Armageddon—2419 A.D.",
+      "authors": [
+        {
+          "name": "Nowlan, Philip Francis",
+          "birth_year": 1888,
+          "death_year": 1940
+        }
+      ],
+      "subjects": [
+        "Science fiction",
+        "War stories"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 727,
+      "file": "books/32530.txt"
+    },
+    {
+      "id": 4920,
+      "title": "The Blind Spot",
+      "authors": [
+        {
+          "name": "Hall, Austin",
+          "birth_year": 1882,
+          "death_year": 1933
+        },
+        {
+          "name": "Flint, Homer Eon",
+          "birth_year": 1888,
+          "death_year": 1924
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 720,
+      "file": "books/4920.txt"
+    },
+    {
+      "id": 20988,
+      "title": "Islands of Space",
+      "authors": [
+        {
+          "name": "Campbell, John W., Jr. (John Wood)",
+          "birth_year": 1910,
+          "death_year": 1971
+        }
+      ],
+      "subjects": [
+        "Extraterrestrial beings -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 702,
+      "file": "books/20988.txt"
+    },
+    {
+      "id": 52501,
+      "title": "The First Men in the Moon",
+      "authors": [
+        {
+          "name": "Wells, H. G. (Herbert George)",
+          "birth_year": 1866,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Imperialism -- Fiction",
+        "Moon -- Fiction",
+        "Satire",
+        "Science fiction",
+        "Space flight to the moon -- Fiction",
+        "Utopian fiction",
+        "Utopias -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 697,
+      "file": "books/52501.txt"
+    },
+    {
+      "id": 8993,
+      "title": "The Mysterious Island",
+      "authors": [
+        {
+          "name": "Verne, Jules",
+          "birth_year": 1828,
+          "death_year": 1905
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Castaways -- Fiction",
+        "Islands of the Pacific -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Classics of Literature",
+        "Category: French Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Movie Books",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 696,
+      "file": "books/8993.txt"
+    },
+    {
+      "id": 27434,
+      "title": "Doctor Jones' Picnic",
+      "authors": [
+        {
+          "name": "Chapman, S. E. (Samuel E.)",
+          "birth_year": 1847,
+          "death_year": 1930
+        }
+      ],
+      "subjects": [
+        "Imaginary wars and battles -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 694,
+      "file": "books/27434.txt"
+    },
+    {
+      "id": 42989,
+      "title": "The Plattner Story, and Others",
+      "authors": [
+        {
+          "name": "Wells, H. G. (Herbert George)",
+          "birth_year": 1866,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Great Britain -- Social life and customs -- Fiction",
+        "Science fiction",
+        "Short stories, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 689,
+      "file": "books/42989.txt"
+    },
+    {
+      "id": 27730,
+      "title": "The Doomsman",
+      "authors": [
+        {
+          "name": "Sutphen, Van Tassel",
+          "birth_year": 1861,
+          "death_year": 1945
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 687,
+      "file": "books/27730.txt"
+    },
+    {
+      "id": 21051,
+      "title": "Skylark Three",
+      "authors": [
+        {
+          "name": "Smith, E. E. (Edward Elmer)",
+          "birth_year": 1890,
+          "death_year": 1965
+        }
+      ],
+      "subjects": [
+        "Science fiction",
+        "Space ships -- Fiction",
+        "Space warfare -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 680,
+      "file": "books/21051.txt"
+    },
+    {
+      "id": 1368,
+      "title": "When the World Shook: Being an Account of the Great Adventure of Bastin, Bickley and Arbuthnot",
+      "authors": [
+        {
+          "name": "Haggard, H. Rider (Henry Rider)",
+          "birth_year": 1856,
+          "death_year": 1925
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 670,
+      "file": "books/1368.txt"
+    },
+    {
+      "id": 26637,
+      "title": "The Mystery of the Green Ray",
+      "authors": [
+        {
+          "name": "Le Queux, William",
+          "birth_year": 1864,
+          "death_year": 1927
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 667,
+      "file": "books/26637.txt"
+    },
+    {
+      "id": 69394,
+      "title": "The dream: A novel",
+      "authors": [
+        {
+          "name": "Wells, H. G. (Herbert George)",
+          "birth_year": 1866,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Dreams -- Fiction",
+        "England -- Social conditions -- 20th century -- Fiction",
+        "Science fiction",
+        "Scientists -- Fiction",
+        "Utopias -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 666,
+      "file": "books/69394.txt"
+    },
+    {
+      "id": 605,
+      "title": "Pellucidar",
+      "authors": [
+        {
+          "name": "Burroughs, Edgar Rice",
+          "birth_year": 1875,
+          "death_year": 1950
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Earth (Planet) -- Core -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 665,
+      "file": "books/605.txt"
+    },
+    {
+      "id": 24764,
+      "title": "The World Peril of 1910",
+      "authors": [
+        {
+          "name": "Griffith, George Chetwynd",
+          "birth_year": 1857,
+          "death_year": 1906
+        }
+      ],
+      "subjects": [
+        "Science fiction, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 663,
+      "file": "books/24764.txt"
+    },
+    {
+      "id": 31324,
+      "title": "The Angel of the Revolution: A Tale of the Coming Terror",
+      "authors": [
+        {
+          "name": "Griffith, George Chetwynd",
+          "birth_year": 1857,
+          "death_year": 1906
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 654,
+      "file": "books/31324.txt"
+    },
+    {
+      "id": 23169,
+      "title": "The Diamond Lens",
+      "authors": [
+        {
+          "name": "O'Brien, Fitz James",
+          "birth_year": 1828,
+          "death_year": 1862
+        }
+      ],
+      "subjects": [
+        "Microscopy -- Fiction",
+        "Murder -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories",
+        "Precursors of Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 652,
+      "file": "books/23169.txt"
+    },
+    {
+      "id": 73727,
+      "title": "Metropolis",
+      "authors": [
+        {
+          "name": "Harbou, Thea von",
+          "birth_year": 1888,
+          "death_year": 1954
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: German Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 639,
+      "file": "books/73727.txt"
+    },
+    {
+      "id": 20859,
+      "title": "Wandl the Invader",
+      "authors": [
+        {
+          "name": "Cummings, Ray",
+          "birth_year": 1887,
+          "death_year": 1957
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Astounding Stories",
+        "Category: Adventure",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 628,
+      "file": "books/20859.txt"
+    },
+    {
+      "id": 18668,
+      "title": "In Search of the Unknown",
+      "authors": [
+        {
+          "name": "Chambers, Robert W. (Robert William)",
+          "birth_year": 1865,
+          "death_year": 1933
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 616,
+      "file": "books/18668.txt"
+    },
+    {
+      "id": 6993,
+      "title": "The Lord of the Sea",
+      "authors": [
+        {
+          "name": "Shiel, M. P. (Matthew Phipps)",
+          "birth_year": 1865,
+          "death_year": 1947
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 615,
+      "file": "books/6993.txt"
+    },
+    {
+      "id": 552,
+      "title": "The People That Time Forgot",
+      "authors": [
+        {
+          "name": "Burroughs, Edgar Rice",
+          "birth_year": 1875,
+          "death_year": 1950
+        }
+      ],
+      "subjects": [
+        "Lost continents -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 604,
+      "file": "books/552.txt"
+    },
+    {
+      "id": 19141,
+      "title": "Edison's Conquest of Mars",
+      "authors": [
+        {
+          "name": "Serviss, Garrett Putman",
+          "birth_year": 1851,
+          "death_year": 1929
+        }
+      ],
+      "subjects": [
+        "Mars (Planet) -- Fiction",
+        "Martians -- Fiction",
+        "Science fiction",
+        "Space travelers -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 600,
+      "file": "books/19141.txt"
+    },
+    {
+      "id": 70691,
+      "title": "A fighting man of Mars",
+      "authors": [
+        {
+          "name": "Burroughs, Edgar Rice",
+          "birth_year": 1875,
+          "death_year": 1950
+        }
+      ],
+      "subjects": [
+        "Life on other planets -- Fiction",
+        "Mars (Planet) -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 595,
+      "file": "books/70691.txt"
+    },
+    {
+      "id": 16457,
+      "title": "All Around the Moon",
+      "authors": [
+        {
+          "name": "Verne, Jules",
+          "birth_year": 1828,
+          "death_year": 1905
+        }
+      ],
+      "subjects": [
+        "Manned space flight -- Fiction",
+        "Moon -- Fiction",
+        "Science fiction",
+        "Space flight to the moon -- Fiction",
+        "Space ships -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 589,
+      "file": "books/16457.txt"
+    },
+    {
+      "id": 69703,
+      "title": "The master mind of Mars",
+      "authors": [
+        {
+          "name": "Burroughs, Edgar Rice",
+          "birth_year": 1875,
+          "death_year": 1950
+        }
+      ],
+      "subjects": [
+        "Extraterrestrial beings -- Fiction",
+        "Life on other planets -- Fiction",
+        "Mars (Planet) -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 587,
+      "file": "books/69703.txt"
+    },
+    {
+      "id": 285,
+      "title": "The Lost Continent",
+      "authors": [
+        {
+          "name": "Hyne, Charles John Cutcliffe Wright",
+          "birth_year": 1866,
+          "death_year": 1944
+        }
+      ],
+      "subjects": [
+        "Atlantis (Legendary place) -- Fiction",
+        "Fantasy fiction",
+        "Lost continents -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 583,
+      "file": "books/285.txt"
+    },
+    {
+      "id": 56426,
+      "title": "The Mummy! A Tale of the Twenty-Second Century",
+      "authors": [
+        {
+          "name": "Loudon, Mrs. (Jane)",
+          "birth_year": 1807,
+          "death_year": 1858
+        }
+      ],
+      "subjects": [
+        "Feminist fiction",
+        "Science fiction",
+        "Twenty-second century -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 579,
+      "file": "books/56426.txt"
+    },
+    {
+      "id": 545,
+      "title": "At the Earth's Core",
+      "authors": [
+        {
+          "name": "Burroughs, Edgar Rice",
+          "birth_year": 1875,
+          "death_year": 1950
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Earth (Planet) -- Core -- Fiction",
+        "Fantasy fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 572,
+      "file": "books/545.txt"
+    },
+    {
+      "id": 3809,
+      "title": "The Master of the World",
+      "authors": [
+        {
+          "name": "Verne, Jules",
+          "birth_year": 1828,
+          "death_year": 1905
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "North Carolina -- Fiction",
+        "Science fiction",
+        "Technological innovations -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: French Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Movie Books"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 553,
+      "file": "books/3809.txt"
+    },
+    {
+      "id": 66409,
+      "title": "Tales of the Unexpected",
+      "authors": [
+        {
+          "name": "Wells, H. G. (Herbert George)",
+          "birth_year": 1866,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "London (England) -- Fiction",
+        "Paranormal fiction",
+        "Science fiction",
+        "Short stories, English",
+        "Technological innovations -- Fiction",
+        "Time travel -- Fiction",
+        "Twenty-first century -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Category: Short Stories"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 549,
+      "file": "books/66409.txt"
+    },
+    {
+      "id": 44535,
+      "title": "The Secret of the Earth",
+      "authors": [
+        {
+          "name": "Beale, Charles Willing",
+          "birth_year": 1845,
+          "death_year": 1932
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 541,
+      "file": "books/44535.txt"
+    },
+    {
+      "id": 10165,
+      "title": "Across the Zodiac: The Story of a Wrecked Record",
+      "authors": [
+        {
+          "name": "Greg, Percy",
+          "birth_year": 1836,
+          "death_year": 1889
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 533,
+      "file": "books/10165.txt"
+    },
+    {
+      "id": 42914,
+      "title": "Gladiator",
+      "authors": [
+        {
+          "name": "Wylie, Philip",
+          "birth_year": 1902,
+          "death_year": 1971
+        }
+      ],
+      "subjects": [
+        "Alienation (Social psychology) -- Fiction",
+        "Fathers and sons -- Fiction",
+        "Human experimentation in medicine -- Fiction",
+        "Loneliness -- Fiction",
+        "Muscle strength -- Fiction",
+        "Psychological fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 533,
+      "file": "books/42914.txt"
+    },
+    {
+      "id": 6709,
+      "title": "A Strange Manuscript Found in a Copper Cylinder",
+      "authors": [
+        {
+          "name": "De Mille, James",
+          "birth_year": 1833,
+          "death_year": 1880
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 528,
+      "file": "books/6709.txt"
+    },
+    {
+      "id": 7246,
+      "title": "A Connecticut Yankee in King Arthur's Court, Part 5.",
+      "authors": [
+        {
+          "name": "Twain, Mark",
+          "birth_year": 1835,
+          "death_year": 1910
+        }
+      ],
+      "subjects": [
+        "Americans -- Great Britain -- Fiction",
+        "Arthurian romances -- Adaptations",
+        "Britons -- Fiction",
+        "Fantasy fiction",
+        "Kings and rulers -- Fiction",
+        "Knights and knighthood -- Fiction",
+        "Satire",
+        "Time travel -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Humour",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Precursors of Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 527,
+      "file": "books/7246.txt"
+    },
+    {
+      "id": 9862,
+      "title": "City of Endless Night",
+      "authors": [
+        {
+          "name": "Hastings, Milo",
+          "birth_year": 1884,
+          "death_year": 1957
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 522,
+      "file": "books/9862.txt"
+    },
+    {
+      "id": 10008,
+      "title": "The Mystery",
+      "authors": [
+        {
+          "name": "White, Stewart Edward",
+          "birth_year": 1873,
+          "death_year": 1946
+        },
+        {
+          "name": "Adams, Samuel Hopkins",
+          "birth_year": 1871,
+          "death_year": 1958
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Crime, Thrillers and Mystery",
+        "Category: Novels"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 521,
+      "file": "books/10008.txt"
+    },
+    {
+      "id": 19362,
+      "title": "In the year 2889",
+      "authors": [
+        {
+          "name": "Verne, Jules",
+          "birth_year": 1828,
+          "death_year": 1905
+        },
+        {
+          "name": "Verne, Michel",
+          "birth_year": 1861,
+          "death_year": 1925
+        }
+      ],
+      "subjects": [
+        "Science fiction",
+        "Short stories"
+      ],
+      "bookshelves": [
+        "Category: French Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 521,
+      "file": "books/19362.txt"
+    },
+    {
+      "id": 1607,
+      "title": "A Journey in Other Worlds: A Romance of the Future",
+      "authors": [
+        {
+          "name": "Astor, John Jacob",
+          "birth_year": 1864,
+          "death_year": 1912
+        }
+      ],
+      "subjects": [
+        "Jupiter (Planet) -- Fiction",
+        "Manned space flight -- Fiction",
+        "Saturn (Planet) -- Fiction",
+        "Science fiction",
+        "Space ships -- Fiction",
+        "Utopias -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 518,
+      "file": "books/1607.txt"
+    },
+    {
+      "id": 3797,
+      "title": "In the Days of the Comet",
+      "authors": [
+        {
+          "name": "Wells, H. G. (Herbert George)",
+          "birth_year": 1866,
+          "death_year": 1946
+        }
+      ],
+      "subjects": [
+        "Comets -- Collisions with Earth -- Fiction",
+        "Political fiction",
+        "Science fiction",
+        "Utopian fiction",
+        "Utopias -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 515,
+      "file": "books/3797.txt"
+    },
+    {
+      "id": 43835,
+      "title": "Lumen",
+      "authors": [
+        {
+          "name": "Flammarion, Camille",
+          "birth_year": 1842,
+          "death_year": 1925
+        }
+      ],
+      "subjects": [
+        "Human-alien encounters -- Fiction",
+        "Science fiction",
+        "Space and time -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Novels",
+        "Category: Philosophy & Ethics"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 512,
+      "file": "books/43835.txt"
+    },
+    {
+      "id": 3808,
+      "title": "Robur the Conqueror",
+      "authors": [
+        {
+          "name": "Verne, Jules",
+          "birth_year": 1828,
+          "death_year": 1905
+        }
+      ],
+      "subjects": [
+        "Aeronautics -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: French Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 509,
+      "file": "books/3808.txt"
+    },
+    {
+      "id": 60944,
+      "title": "Ralph 124C 41+: A Romance of the Year 2660",
+      "authors": [
+        {
+          "name": "Gernsback, Hugo",
+          "birth_year": 1884,
+          "death_year": 1967
+        }
+      ],
+      "subjects": [
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 503,
+      "file": "books/60944.txt"
+    },
+    {
+      "id": 10005,
+      "title": "A Voyage to the Moon: With Some Account of the Manners and Customs, Science and Philosophy, of the People of Morosofia, and Other Lunarians",
+      "authors": [
+        {
+          "name": "Tucker, George",
+          "birth_year": 1775,
+          "death_year": 1861
+        }
+      ],
+      "subjects": [
+        "Science fiction",
+        "Space flight to the moon -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 501,
+      "file": "books/10005.txt"
+    },
+    {
+      "id": 25439,
+      "title": "Looking Backward: 2000-1887",
+      "authors": [
+        {
+          "name": "Bellamy, Edward",
+          "birth_year": 1850,
+          "death_year": 1898
+        }
+      ],
+      "subjects": [
+        "Boston (Mass.) -- Fiction",
+        "Science fiction",
+        "Social problems -- Fiction",
+        "Time travel -- Fiction",
+        "Two thousand, A.D. -- Fiction",
+        "Utopian fiction",
+        "Utopias -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 500,
+      "file": "books/25439.txt"
+    },
+    {
+      "id": 20707,
+      "title": "The Black Star Passes",
+      "authors": [
+        {
+          "name": "Campbell, John W., Jr. (John Wood)",
+          "birth_year": 1910,
+          "death_year": 1971
+        }
+      ],
+      "subjects": [
+        "Extraterrestrial beings -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 497,
+      "file": "books/20707.txt"
+    },
+    {
+      "id": 44534,
+      "title": "A Trip to Mars",
+      "authors": [
+        {
+          "name": "Aubrey, Frank",
+          "birth_year": 1847,
+          "death_year": 1927
+        }
+      ],
+      "subjects": [
+        "Mars (Planet) -- Fiction",
+        "Science fiction"
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 495,
+      "file": "books/44534.txt"
+    },
+    {
+      "id": 7303,
+      "title": "Equality",
+      "authors": [
+        {
+          "name": "Bellamy, Edward",
+          "birth_year": 1850,
+          "death_year": 1898
+        }
+      ],
+      "subjects": [
+        "Political fiction",
+        "Science fiction",
+        "Socialism -- Fiction",
+        "Utopian fiction",
+        "Utopias -- Fiction"
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 494,
+      "file": "books/7303.txt"
+    }
+  ]
+}

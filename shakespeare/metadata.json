@@ -1,0 +1,1591 @@
+{
+  "corpus": "shakespeare",
+  "source": "gutenberg",
+  "search_strategy": {
+    "searches": [
+      "Shakespeare, William"
+    ],
+    "languages": [
+      "en"
+    ]
+  },
+  "curated_at": "2025-12-26T17:51:55.642524+00:00",
+  "total_books": 50,
+  "books_evaluated": 62,
+  "acceptance_rate": 0.8064516129032258,
+  "books": [
+    {
+      "id": 1513,
+      "title": "Romeo and Juliet",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Conflict of generations -- Drama",
+        "Juliet (Fictitious character) -- Drama",
+        "Romeo (Fictitious character) -- Drama",
+        "Tragedies (Drama)",
+        "Vendetta -- Drama",
+        "Verona (Italy) -- Drama",
+        "Youth -- Drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas",
+        "Category: Romance"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 73678,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1513.txt"
+    },
+    {
+      "id": 100,
+      "title": "The Complete Works of William Shakespeare",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "English drama -- Early modern and Elizabethan, 1500-1600"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas",
+        "Category: Poetry",
+        "Plays"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 57637,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/100.txt"
+    },
+    {
+      "id": 1524,
+      "title": "Hamlet",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Denmark -- Drama",
+        "Fathers -- Death -- Drama",
+        "Hamlet (Legendary character) -- Drama",
+        "Kings and rulers -- Succession -- Drama",
+        "Murder victims' families -- Drama",
+        "Princes -- Drama",
+        "Revenge -- Drama",
+        "Tragedies (Drama)"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas",
+        "Plays"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 12066,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1524.txt"
+    },
+    {
+      "id": 1533,
+      "title": "Macbeth",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Macbeth, King of Scotland, active 11th century -- Drama",
+        "Regicides -- Drama",
+        "Scotland -- Kings and rulers -- Drama",
+        "Tragedies (Drama)"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas",
+        "Opera"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 8465,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1533.txt"
+    },
+    {
+      "id": 23042,
+      "title": "The Tempest: The Works of William Shakespeare [Cambridge Edition] [9 vols.]",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Fathers and daughters -- Drama",
+        "Islands -- Drama",
+        "Magicians -- Drama",
+        "Political refugees -- Drama",
+        "Shipwreck victims -- Drama",
+        "Spirits -- Drama",
+        "Tragicomedy"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 6628,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/23042.txt"
+    },
+    {
+      "id": 49297,
+      "title": "The Works of William Shakespeare [Cambridge Edition] [Vol. 5 of 9]",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "English drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Historical Novels",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 5216,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/49297.txt"
+    },
+    {
+      "id": 1514,
+      "title": "A Midsummer Night's Dream",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Athens (Greece) -- Drama",
+        "Comedy plays",
+        "Courtship -- Drama",
+        "Fairy plays"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Humour",
+        "Category: Plays/Films/Dramas",
+        "Category: Romance",
+        "Category: Science-Fiction & Fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 5208,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1514.txt"
+    },
+    {
+      "id": 1515,
+      "title": "The Merchant of Venice",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Comedy plays",
+        "Jews -- Italy -- Drama",
+        "Moneylenders -- Drama",
+        "Venice (Italy) -- Drama"
+      ],
+      "bookshelves": [
+        "Banned Books from Anne Haight's list",
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 4610,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1515.txt"
+    },
+    {
+      "id": 1522,
+      "title": "Julius Caesar",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Assassins -- Drama",
+        "Brutus, Marcus Junius, 85 B.C.?-42 B.C. -- Drama",
+        "Caesar, Julius -- Assassination -- Drama",
+        "Conspiracies -- Drama",
+        "Rome -- History -- Civil War, 43-31 B.C. -- Drama",
+        "Tragedies (Drama)"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3865,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1522.txt"
+    },
+    {
+      "id": 1041,
+      "title": "Shakespeare's Sonnets",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "English poetry",
+        "Sonnets, English"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Poetry"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3678,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1041.txt"
+    },
+    {
+      "id": 1526,
+      "title": "Twelfth Night",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Comedy plays",
+        "Illyria -- Drama",
+        "Mistaken identity -- Drama",
+        "Shipwreck survival -- Drama",
+        "Siblings -- Drama",
+        "Twins -- Drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 3444,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1526.txt"
+    },
+    {
+      "id": 1519,
+      "title": "Much Ado about Nothing",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Comedy plays",
+        "Conspiracies -- Drama",
+        "Courtship -- Drama",
+        "Messina (Italy) -- Drama",
+        "Rejection (Psychology) -- Drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2647,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1519.txt"
+    },
+    {
+      "id": 1531,
+      "title": "Othello",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Interracial marriage -- Drama",
+        "Jealousy -- Drama",
+        "Muslims -- Drama",
+        "Othello (Fictitious character) -- Drama",
+        "Tragedies (Drama)",
+        "Venice (Italy) -- Drama"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2590,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1531.txt"
+    },
+    {
+      "id": 1532,
+      "title": "King Lear",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Aging parents -- Drama",
+        "Britons -- Drama",
+        "Fathers and daughters -- Drama",
+        "Inheritance and succession -- Drama",
+        "Kings and rulers -- Drama",
+        "Lear, King (Legendary character) -- Drama",
+        "Tragedies (Drama)"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2456,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1532.txt"
+    },
+    {
+      "id": 23045,
+      "title": "Measure for Measure: The Works of William Shakespeare [Cambridge Edition] [9 vols.]",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Chastity -- Drama",
+        "Comedy plays",
+        "Siblings -- Drama",
+        "Vienna (Austria) -- Drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2332,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/23045.txt"
+    },
+    {
+      "id": 2264,
+      "title": "Macbeth",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Macbeth, King of Scotland, active 11th century -- Drama",
+        "Regicides -- Drama",
+        "Scotland -- Kings and rulers -- Drama",
+        "Tragedies (Drama)"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas",
+        "Plays"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 2222,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/2264.txt"
+    },
+    {
+      "id": 1508,
+      "title": "The Taming of the Shrew",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Comedy plays",
+        "Man-woman relationships -- Drama",
+        "Married people -- Drama",
+        "Padua (Italy) -- Drama",
+        "Sex role -- Drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1779,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1508.txt"
+    },
+    {
+      "id": 23044,
+      "title": "The Merry Wives of Windsor: The Works of William Shakespeare [Cambridge Edition] [9 vols.]",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Comedy plays",
+        "Falstaff, John, Sir (Fictitious character) -- Drama",
+        "Married women -- Drama",
+        "Windsor (Windsor and Maidenhead, England) -- Drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Humour",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1760,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/23044.txt"
+    },
+    {
+      "id": 1534,
+      "title": "Antony and Cleopatra",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Antonius, Marcus, 83 B.C.?-30 B.C. -- Drama",
+        "Cleopatra, Queen of Egypt, -30 B.C. -- Drama",
+        "Egypt -- History -- 332-30 B.C. -- Drama",
+        "Generals -- Rome -- Drama",
+        "Queens -- Egypt -- Drama",
+        "Romans -- Egypt -- Drama",
+        "Rome -- History -- Civil War, 43-31 B.C. -- Drama",
+        "Tragedies (Drama)"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Historical Novels",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1713,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1534.txt"
+    },
+    {
+      "id": 1523,
+      "title": "As You Like It",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Comedy plays",
+        "Exiles -- Drama",
+        "Fathers and daughters -- Drama",
+        "Pastoral drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Plays/Films/Dramas",
+        "Category: Romance"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1602,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1523.txt"
+    },
+    {
+      "id": 1539,
+      "title": "The Winter's Tale",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Castaways -- Drama",
+        "Fathers and daughters -- Drama",
+        "Married people -- Drama",
+        "Sicily (Italy) -- Kings and rulers -- Drama",
+        "Tragicomedy"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1451,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1539.txt"
+    },
+    {
+      "id": 2265,
+      "title": "Hamlet",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Denmark -- Drama",
+        "Fathers -- Death -- Drama",
+        "Hamlet (Legendary character) -- Drama",
+        "Kings and rulers -- Succession -- Drama",
+        "Murder victims' families -- Drama",
+        "Princes -- Drama",
+        "Revenge -- Drama",
+        "Tragedies (Drama)"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1161,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/2265.txt"
+    },
+    {
+      "id": 1510,
+      "title": "Love's Labour's Lost",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Comedy plays",
+        "Courts and courtiers -- Drama",
+        "Navarre (Kingdom) -- Drama",
+        "Princesses -- Drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Humour",
+        "Category: Plays/Films/Dramas",
+        "Category: Romance"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1108,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1510.txt"
+    },
+    {
+      "id": 47715,
+      "title": "The Works of William Shakespeare [Cambridge Edition] [Vol. 7 of 9]",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "English drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1076,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/47715.txt"
+    },
+    {
+      "id": 2244,
+      "title": "As You Like It",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Comedy plays",
+        "Exiles -- Drama",
+        "Fathers and daughters -- Drama",
+        "Pastoral drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 1000,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/2244.txt"
+    },
+    {
+      "id": 2267,
+      "title": "Othello",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Interracial marriage -- Drama",
+        "Jealousy -- Drama",
+        "Muslims -- Drama",
+        "Othello (Fictitious character) -- Drama",
+        "Tragedies (Drama)",
+        "Venice (Italy) -- Drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 965,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/2267.txt"
+    },
+    {
+      "id": 1129,
+      "title": "The Tragedy of Macbeth",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Macbeth, King of Scotland, active 11th century -- Drama",
+        "Regicides -- Drama",
+        "Scotland -- Kings and rulers -- Drama",
+        "Tragedies (Drama)"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 903,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1129.txt"
+    },
+    {
+      "id": 2243,
+      "title": "The Merchant of Venice",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Comedy plays",
+        "Jews -- Italy -- Drama",
+        "Moneylenders -- Drama",
+        "Venice (Italy) -- Drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 883,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/2243.txt"
+    },
+    {
+      "id": 45128,
+      "title": "The Works of William Shakespeare [Cambridge Edition] [Vol. 2 of 9]",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "English drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 861,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/45128.txt"
+    },
+    {
+      "id": 1540,
+      "title": "The Tempest",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Fathers and daughters -- Drama",
+        "Islands -- Drama",
+        "Magicians -- Drama",
+        "Political refugees -- Drama",
+        "Shipwreck victims -- Drama",
+        "Spirits -- Drama",
+        "Tragicomedy"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 842,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1540.txt"
+    },
+    {
+      "id": 1122,
+      "title": "Hamlet",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Denmark -- Drama",
+        "Fathers -- Death -- Drama",
+        "Hamlet (Legendary character) -- Drama",
+        "Kings and rulers -- Succession -- Drama",
+        "Murder victims' families -- Drama",
+        "Princes -- Drama",
+        "Revenge -- Drama",
+        "Tragedies (Drama)"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 823,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1122.txt"
+    },
+    {
+      "id": 23046,
+      "title": "The Comedy of Errors: The Works of William Shakespeare [Cambridge Edition] [9 vols.]",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Brothers -- Drama",
+        "Comedy plays",
+        "Greece -- Drama",
+        "Mistaken identity -- Drama",
+        "Shipwreck victims -- Drama",
+        "Twins -- Drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Humour",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 758,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/23046.txt"
+    },
+    {
+      "id": 1787,
+      "title": "Hamlet",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Denmark -- Drama",
+        "Fathers -- Death -- Drama",
+        "Hamlet (Legendary character) -- Drama",
+        "Kings and rulers -- Succession -- Drama",
+        "Murder victims' families -- Drama",
+        "Princes -- Drama",
+        "Revenge -- Drama",
+        "Tragedies (Drama)"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 753,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1787.txt"
+    },
+    {
+      "id": 1512,
+      "title": "King Richard II",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Great Britain -- History -- Richard II, 1377-1399 -- Drama",
+        "Historical drama",
+        "Richard II, King of England, 1367-1400 -- Drama",
+        "Tragedies (Drama)"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: History - Royalty",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 748,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1512.txt"
+    },
+    {
+      "id": 23043,
+      "title": "Two Gentlemen of Verona: The Works of William Shakespeare [Cambridge Edition] [9 vols.]",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Comedy plays",
+        "Exiles -- Drama",
+        "Triangles (Interpersonal relations) -- Drama",
+        "Verona (Italy) -- Drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 689,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/23043.txt"
+    },
+    {
+      "id": 1045,
+      "title": "Venus and Adonis",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Adonis (Greek deity) -- Poetry",
+        "Venus (Roman deity) -- Poetry"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Mythology, Legends & Folklore",
+        "Category: Poetry"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 666,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1045.txt"
+    },
+    {
+      "id": 1503,
+      "title": "King Richard III",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Great Britain -- History -- Richard III, 1483-1485 -- Drama",
+        "Great Britain -- Kings and rulers -- Drama",
+        "Historical drama",
+        "Richard III, King of England, 1452-1485 -- Drama",
+        "Tragedies (Drama)"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: History - British",
+        "Category: History - Royalty",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 663,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1503.txt"
+    },
+    {
+      "id": 1529,
+      "title": "All's Well That Ends Well",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Comedy plays",
+        "Florence (Italy) -- Drama",
+        "Married women -- Drama",
+        "Runaway husbands -- Drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 645,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1529.txt"
+    },
+    {
+      "id": 1528,
+      "title": "Troilus and Cressida",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Cressida (Fictitious character) -- Drama",
+        "Tragicomedy",
+        "Troilus (Legendary character) -- Drama",
+        "Trojan War -- Drama",
+        "Troy (Extinct city) -- Drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 606,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1528.txt"
+    },
+    {
+      "id": 1100,
+      "title": "King Henry VI, Part 1",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Great Britain -- History -- Henry VI, 1422-1461 -- Drama",
+        "Great Britain -- Kings and rulers -- Drama",
+        "Henry VI, King of England, 1421-1471 -- Drama",
+        "Historical drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: History - British",
+        "Category: History - Warfare",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 588,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1100.txt"
+    },
+    {
+      "id": 1777,
+      "title": "Romeo and Juliet",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Conflict of generations -- Drama",
+        "Juliet (Fictitious character) -- Drama",
+        "Romeo (Fictitious character) -- Drama",
+        "Tragedies (Drama)",
+        "Vendetta -- Drama",
+        "Verona (Italy) -- Drama",
+        "Youth -- Drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 587,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1777.txt"
+    },
+    {
+      "id": 1535,
+      "title": "Coriolanus",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Coriolanus, Cnaeus Marcius -- Drama",
+        "Generals -- Drama",
+        "Rome -- Drama",
+        "Tragedies (Drama)"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 580,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1535.txt"
+    },
+    {
+      "id": 1128,
+      "title": "King Lear",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Aging parents -- Drama",
+        "Britons -- Drama",
+        "Fathers and daughters -- Drama",
+        "Inheritance and succession -- Drama",
+        "Kings and rulers -- Drama",
+        "Lear, King (Legendary character) -- Drama",
+        "Tragedies (Drama)"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 578,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1128.txt"
+    },
+    {
+      "id": 2270,
+      "title": "Shakespeare's First Folio",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Drama"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 566,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/2270.txt"
+    },
+    {
+      "id": 1521,
+      "title": "King Henry V",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Great Britain -- History -- Henry V, 1413-1422 -- Drama",
+        "Great Britain -- Kings and rulers -- Drama",
+        "Henry V, King of England, 1387-1422 -- Drama",
+        "Historical drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: History - Royalty",
+        "Category: History - Warfare",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 560,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1521.txt"
+    },
+    {
+      "id": 1114,
+      "title": "The Merchant of Venice",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Comedy plays",
+        "Jews -- Italy -- Drama",
+        "Moneylenders -- Drama",
+        "Venice (Italy) -- Drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 522,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1114.txt"
+    },
+    {
+      "id": 1794,
+      "title": "King Lear",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Aging parents -- Drama",
+        "Britons -- Drama",
+        "Fathers and daughters -- Drama",
+        "Inheritance and succession -- Drama",
+        "Kings and rulers -- Drama",
+        "Lear, King (Legendary character) -- Drama",
+        "Tragedies (Drama)"
+      ],
+      "bookshelves": [
+        "Best Books Ever Listings",
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 521,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1794.txt"
+    },
+    {
+      "id": 2235,
+      "title": "The Tempest",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Fathers and daughters -- Drama",
+        "Islands -- Drama",
+        "Magicians -- Drama",
+        "Political refugees -- Drama",
+        "Shipwreck victims -- Drama",
+        "Spirits -- Drama",
+        "Tragicomedy"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 521,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/2235.txt"
+    },
+    {
+      "id": 1121,
+      "title": "As You Like It",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Comedy plays",
+        "Exiles -- Drama",
+        "Fathers and daughters -- Drama",
+        "Pastoral drama"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 519,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/1121.txt"
+    },
+    {
+      "id": 2263,
+      "title": "Julius Caesar",
+      "authors": [
+        {
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616
+        }
+      ],
+      "subjects": [
+        "Assassins -- Drama",
+        "Brutus, Marcus Junius, 85 B.C.?-42 B.C. -- Drama",
+        "Caesar, Julius -- Assassination -- Drama",
+        "Conspiracies -- Drama",
+        "Rome -- History -- Civil War, 43-31 B.C. -- Drama",
+        "Tragedies (Drama)"
+      ],
+      "bookshelves": [
+        "Category: British Literature",
+        "Category: Classics of Literature",
+        "Category: History - Ancient",
+        "Category: Plays/Films/Dramas"
+      ],
+      "languages": [
+        "en"
+      ],
+      "download_count": 517,
+      "discovery_sources": [
+        "search:Shakespeare, William"
+      ],
+      "file": "books/2263.txt"
+    }
+  ]
+}

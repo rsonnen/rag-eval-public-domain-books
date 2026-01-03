@@ -1,0 +1,33 @@
+name: "Gothic Fiction Collection"
+
+corpus_context: >
+  122 works of Gothic fiction from Project Gutenberg, spanning the genre's
+  development from 18th century origins through Victorian masters. Includes
+  works by Shelley, Stoker, Poe, Radcliffe, and other major Gothic authors.
+  Novels, novellas, and short stories featuring supernatural elements, horror,
+  mystery, and atmospheric settings. Plain UTF-8 text format.
+
+scenarios:
+  literary_analysis:
+    name: "Literary Analysis"
+    description: >
+      You are creating questions for students analyzing Gothic literature.
+      Questions should test understanding of Gothic conventions, themes
+      (terror, the supernatural, isolation), narrative techniques, and
+      historical context. Focus on textual evidence and genre analysis.
+
+  plot_retrieval:
+    name: "Plot and Character Retrieval"
+    description: >
+      You are creating questions to test retrieval of specific plot events,
+      character details, or story elements from Gothic fiction. Questions
+      should target specific scenes, character descriptions, or narrative
+      moments that require reading the actual text.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system actually read these Gothic
+      works. Questions must have specific, verifiable answers - exact quotes,
+      character names, plot details, or descriptive passages that require
+      the actual text rather than general knowledge of famous Gothic novels.

@@ -1,0 +1,32 @@
+name: "Shakespeare Complete Works"
+
+corpus_context: >
+  52 texts of William Shakespeare's original works from Project Gutenberg.
+  Includes plays (tragedies, comedies, histories), sonnets, and narrative poems.
+  Full text versions suitable for close reading and textual analysis. Documents
+  are plain UTF-8 text with minimal formatting beyond scene/act divisions.
+
+scenarios:
+  literary_analysis:
+    name: "Literary Analysis"
+    description: >
+      You are creating questions for students analyzing Shakespeare's works.
+      Questions should test understanding of plot, character, themes, language,
+      and dramatic structure. Focus on textual evidence and close reading
+      skills. Questions may span a single work or compare across works.
+
+  quote_identification:
+    name: "Quote Identification"
+    description: >
+      You are creating questions to test ability to identify and locate
+      Shakespeare quotations. Questions should target famous lines, character
+      speeches, or distinctive passages. Test both recognition of quotes and
+      ability to provide context (speaker, scene, play).
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system actually read Shakespeare.
+      Questions must have specific, verifiable answers from the text - exact
+      wording of speeches, character names, plot details, or scene locations
+      that require the actual text rather than general cultural knowledge.

@@ -1,0 +1,79 @@
+scientific_illustration:
+  description: |
+    19th and early 20th century scientific illustration plates and atlases
+    featuring hand-drawn or engraved natural history, anatomy, and technical
+    diagrams. Focus on visual quality and historical scientific illustration
+    techniques.
+
+  source: archive
+
+  search_strategy:
+    subjects:
+      - "Natural history -- Pictorial works"
+      - "Botanical illustration"
+      - "Zoological illustration"
+      - "Scientific illustration"
+      - "Anatomy -- Atlases"
+      - "Ornithology -- Pictorial works"
+      - "Entomology -- Pictorial works"
+    collections:
+      - "biodiversity"
+      - "smithsonian"
+    date_range: [1700, 1925]
+    mediatype: texts
+
+  target_count: 100
+
+  evaluator_model: gpt-5-mini  # Vision-capable model for multimodal evaluation
+  confidence_threshold: 0.7
+
+  validation_prompt: |
+    You are evaluating whether a document belongs in a corpus of HISTORICAL
+    SCIENTIFIC ILLUSTRATION (1700-1925).
+
+    TEMPORAL REQUIREMENT (CRITICAL):
+    The work must have been PUBLISHED between 1700 and 1925. This corpus
+    captures the golden age of scientific illustration before photography
+    became dominant. Modern reprints, facsimiles, or contemporary works
+    inspired by historical styles do NOT belong.
+
+    CONTENT REQUIREMENTS:
+    The work must be PRIMARILY composed of scientific illustrations:
+    - Botanical plates (flowers, plants, trees, fungi)
+    - Zoological illustrations (birds, mammals, insects, marine life)
+    - Anatomical atlases (human or animal anatomy)
+    - Geological/mineralogical illustrations
+    - Astronomical charts and celestial atlases
+    - Technical/engineering diagrams and mechanical drawings
+
+    The ILLUSTRATIONS must be the primary content, not incidental figures
+    in a text-heavy scientific treatise.
+
+    CANONICAL EXAMPLES (for calibration):
+    - Audubon's "Birds of America"
+    - Curtis's Botanical Magazine
+    - Haeckel's "Kunstformen der Natur"
+    - Gray's Anatomy illustration plates
+    - Gould's ornithological works
+    - Sowerby's British Mineralogy
+    - Bewick's British Birds
+
+    INCLUDE:
+    - Botanical magazines and serials with color plates
+    - Ornithological atlases with bird illustrations
+    - Entomological works with insect plates
+    - Anatomical atlases for medical/artistic use
+    - Natural history surveys with original illustrations
+    - Engineering and mechanical drawing collections
+
+    EXCLUDE:
+    - Text-heavy scientific papers with occasional figures
+    - Modern field guides or identification books
+    - Photographic works (this corpus is PRE-photography illustration)
+    - Art books about scientific illustration (criticism/history)
+    - Children's educational books with simplified illustrations
+    - Works where illustrations are decorative rather than scientific
+    - Single-page prints or individual plates (need bound volumes)
+
+    Assess publication date from metadata. Prefer works with "plates,"
+    "atlas," "illustrated," or "pictorial" in the title.

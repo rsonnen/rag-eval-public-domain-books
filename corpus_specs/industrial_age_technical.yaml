@@ -1,0 +1,80 @@
+industrial_age_technical:
+  description: |
+    Technical manuals, engineering handbooks, and patent documentation from
+    the Industrial Revolution era (1760-1920). Documents the mechanical
+    innovations, manufacturing processes, and engineering knowledge that
+    drove industrialization.
+
+  source: archive
+
+  search_strategy:
+    subjects:
+      - "Mechanical engineering"
+      - "Industrial arts"
+      - "Machinery"
+      - "Steam engines"
+      - "Civil engineering"
+      - "Machine-tools"
+      - "Mining engineering"
+      - "Electrical engineering"
+    collections:
+      - "americana"
+    date_range: [1760, 1920]
+    mediatype: texts
+
+  target_count: 100
+
+  evaluator_model: gpt-5-mini  # Vision-capable model for multimodal evaluation
+  confidence_threshold: 0.7
+
+  validation_prompt: |
+    You are evaluating whether a document belongs in a corpus of INDUSTRIAL
+    AGE TECHNICAL DOCUMENTATION (1760-1920).
+
+    TEMPORAL REQUIREMENT (CRITICAL):
+    The work must have been PUBLISHED between 1760 and 1920, covering the
+    Industrial Revolution through the early 20th century. Modern reprints,
+    historical analyses, or contemporary technical manuals do NOT belong.
+
+    CONTENT REQUIREMENTS:
+    The work must be PRIMARILY technical documentation:
+    - Engineering handbooks and reference manuals
+    - Machinery catalogs with technical specifications
+    - Manufacturing process guides
+    - Trade journals with technical articles
+    - Workshop manuals and practical guides
+    - Technical dictionaries and encyclopedias
+
+    The content must be PRACTICAL and TECHNICAL, not historical or
+    popular science writing about industry.
+
+    CANONICAL EXAMPLES (for calibration):
+    - Appleton's Cyclopedia of Applied Mechanics
+    - Trautwine's Civil Engineer's Pocket-Book
+    - Rankine's Manual of Civil Engineering
+    - Rose's Modern Machine Shop Practice
+    - Thompson's Dynamo-Electric Machinery
+    - Hiscox's 1800 Mechanical Movements
+
+    INCLUDE:
+    - Steam engine manuals and boiler guides
+    - Machine shop practice handbooks
+    - Electrical engineering texts (1880s onwards)
+    - Bridge and structural engineering manuals
+    - Mining and metallurgy technical guides
+    - Railway engineering documentation
+    - Hydraulic and water power engineering
+    - Manufacturing and foundry practice
+
+    EXCLUDE:
+    - Popular science magazines without technical depth
+    - Historical narratives about industrialization
+    - Business/economic analysis of industry
+    - Labor histories or social commentary
+    - Pure advertisements without technical content
+    - Modern reprints or facsimiles
+    - Works primarily about architecture (not engineering)
+    - Legal/regulatory documents (patents require technical drawings)
+
+    Assess publication date from metadata. Look for terms like "manual,"
+    "handbook," "cyclopedia," "mechanics," "engineering," or "machinery."

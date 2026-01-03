@@ -1,0 +1,67 @@
+victorian_detective:
+  description: |
+    Victorian and Edwardian detective fiction from the golden age of the
+    genre (1841-1920). Covers the development of detective fiction from
+    Poe through the early 20th century, including sensation novels,
+    mysteries, and early crime fiction.
+
+  source: gutenberg
+
+  search_strategy:
+    topics:
+      - "Detective fiction"
+      - "Mystery fiction"
+      - "Crime fiction"
+    author_years: [1800, 1930]
+    languages: ["en"]
+
+  target_count: 130
+
+  evaluator_model: gpt-5-mini
+  confidence_threshold: 0.7
+
+  validation_prompt: |
+    You are evaluating whether a book belongs in a corpus of VICTORIAN AND
+    EDWARDIAN DETECTIVE FICTION (1841-1920).
+
+    TEMPORAL REQUIREMENT (CRITICAL):
+    The work must have been PUBLISHED between 1841 (Poe's "Murders in the
+    Rue Morgue") and 1920. This corpus covers the first golden age of
+    detective fiction before the hardboiled era. Works published after 1920,
+    or noir/hardboiled detective fiction, do NOT belong.
+
+    GENRE REQUIREMENTS:
+    The work must be PRIMARILY detective or mystery fiction featuring:
+    - A crime (usually murder) requiring investigation
+    - A detective figure (amateur or professional) solving the case
+    - Clues, deduction, and revelation of the culprit
+    - Plot driven by the mystery and its resolution
+
+    CANONICAL AUTHORS (for calibration):
+    - Arthur Conan Doyle (Sherlock Holmes)
+    - Wilkie Collins (The Moonstone, The Woman in White)
+    - Anna Katharine Green (The Leavenworth Case)
+    - Edgar Allan Poe (C. Auguste Dupin stories)
+    - R. Austin Freeman (Dr. Thorndyke)
+    - Mary Elizabeth Braddon (sensation novels)
+    - Fergus Hume (Mystery of a Hansom Cab)
+    - Maurice Leblanc (Arsene Lupin)
+    - Gaston Leroux
+    - Baroness Orczy (Old Man in the Corner)
+
+    INCLUDE:
+    - Classic detective novels and story collections
+    - Sensation novels with mystery plots
+    - Early amateur detective fiction
+    - Gentleman thief stories (Raffles, Lupin)
+    - Forensic/scientific detective stories
+
+    EXCLUDE:
+    - Works published after 1920
+    - Hardboiled/noir detective fiction (Hammett, Chandler era)
+    - Pure adventure stories without mystery elements
+    - Gothic fiction without detective plots (use gothic_fiction corpus)
+    - Literary criticism about detective fiction
+    - True crime accounts
+
+    Assess publication date from author lifespan and writing style.

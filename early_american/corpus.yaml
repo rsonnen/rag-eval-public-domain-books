@@ -1,0 +1,33 @@
+name: "Early American Literature"
+
+corpus_context: >
+  123 works of early American literature from Project Gutenberg. Includes
+  major authors like Hawthorne, Melville, Poe, and Twain. Covers novels,
+  short stories, and essays from the 19th century American literary tradition.
+  Features distinctly American themes, settings, and perspectives.
+  Plain UTF-8 text format.
+
+scenarios:
+  literary_analysis:
+    name: "Literary Analysis"
+    description: >
+      You are creating questions for students analyzing American literature.
+      Questions should test understanding of American literary themes
+      (wilderness, democracy, individualism, race), regional settings, and
+      the development of a distinctly American voice. Focus on textual evidence.
+
+  plot_retrieval:
+    name: "Plot and Theme Retrieval"
+    description: >
+      You are creating questions to test retrieval of specific plot events,
+      character details, or thematic elements from American literature.
+      Questions should target particular scenes, descriptions, or passages
+      that require reading the actual texts.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system actually read these American
+      works. Questions must have specific, verifiable answers - character
+      names, plot details, settings, or quoted passages that require the
+      actual text rather than general knowledge of famous American novels.

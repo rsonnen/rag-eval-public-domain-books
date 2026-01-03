@@ -1,0 +1,33 @@
+name: "Scientific Illustration Texts"
+
+corpus_context: >
+  103 scientific treatises and illustrated works from Project Gutenberg.
+  Includes natural history, anatomy, botany, zoology, and other scientific
+  texts that originally featured illustrations. Text versions contain
+  descriptions of figures, specimen details, and scientific observations.
+  Historical scientific language and classification systems. Plain UTF-8 text.
+
+scenarios:
+  scientific_analysis:
+    name: "Scientific Analysis"
+    description: >
+      You are creating questions for students studying history of science.
+      Questions should test understanding of how scientific knowledge was
+      communicated, what classification systems were used, and how
+      illustrations were described in text. Focus on period scientific context.
+
+  specimen_retrieval:
+    name: "Specimen and Description Retrieval"
+    description: >
+      You are creating questions to test retrieval of specific scientific
+      descriptions, species names, anatomical details, or observations.
+      Questions should target particular specimens, measurements, or
+      descriptive passages from the scientific texts.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system actually read these
+      scientific texts. Questions must have specific, verifiable answers -
+      species names, anatomical descriptions, classification details, or
+      quoted observations that require the actual text.

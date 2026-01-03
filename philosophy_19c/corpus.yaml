@@ -1,0 +1,32 @@
+name: "19th Century Philosophy"
+
+corpus_context: >
+  152 philosophical works from the 19th century via Project Gutenberg.
+  Includes major works by Nietzsche, Mill, Kant, Schopenhauer, and other
+  significant philosophers. Covers ethics, metaphysics, political philosophy,
+  and epistemology. Translations and original English works. Dense
+  argumentative texts requiring careful reading. Plain UTF-8 text format.
+
+scenarios:
+  philosophical_analysis:
+    name: "Philosophical Analysis"
+    description: >
+      You are creating questions for philosophy students studying 19th century
+      thought. Questions should test understanding of arguments, concepts,
+      distinctions, and philosophical positions. Focus on demonstrating
+      comprehension of the actual texts rather than general knowledge.
+
+  concept_retrieval:
+    name: "Concept and Argument Retrieval"
+    description: >
+      You are creating questions to test retrieval of specific philosophical
+      concepts, arguments, or passages. Questions should target particular
+      claims, definitions, examples, or reasoning that appears in these texts.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system actually read these
+      philosophical works. Questions must have specific, verifiable answers -
+      exact formulations of arguments, specific examples used by authors,
+      or distinctive terminology that requires the actual text.

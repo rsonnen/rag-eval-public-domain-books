@@ -1,0 +1,2450 @@
+{
+  "corpus": "scientific_illustration",
+  "source": "internet_archive",
+  "search_strategy": {
+    "subjects": [
+      "Natural history -- Pictorial works",
+      "Botanical illustration",
+      "Zoological illustration",
+      "Scientific illustration",
+      "Anatomy -- Atlases",
+      "Ornithology -- Pictorial works",
+      "Entomology -- Pictorial works"
+    ],
+    "collections": [
+      "biodiversity",
+      "smithsonian"
+    ],
+    "date_range": [
+      1700,
+      1925
+    ],
+    "mediatype": "texts"
+  },
+  "curated_at": "2025-12-27T17:44:53.392960+00:00",
+  "total_books": 100,
+  "books_evaluated": 154,
+  "acceptance_rate": 0.6493506493506493,
+  "books": [
+    {
+      "identifier": "thirtyplatesillu00unse",
+      "title": "Thirty plates illustrative of natural phenomena, etc. : with a short description annexed to each plate",
+      "creator": null,
+      "subjects": "Natural history -- Pictorial works",
+      "date": "1849-01-01T00:00:00Z",
+      "description": [
+        "[1] p., 30 leaves :",
+        "Cover title: Phenomena of nature"
+      ],
+      "downloads": 627,
+      "file": "books/thirtyplatesillu00unse.pdf",
+      "source_pdf": "thirtyplatesillu00unse.pdf"
+    },
+    {
+      "identifier": "getreueabbildung06bech",
+      "title": "Getreue Abbildungen naturhistorischer Gegenstände in Hinsicht auf Bechsteins kurzgefasste gemeinnützige Naturgeschichte des In- und Auslandes : für Eltern, Hofmeister, Jugendlehrer, Erzieher und Liebhaber der Naturgeschichte",
+      "creator": "Bechstein, Johann Matthäus, 1757-1822, editor",
+      "subjects": "Natural history -- Pictorial works",
+      "date": "1793-01-01T00:00:00Z",
+      "description": [
+        "10 parts in 8 volumes, [800] leaves of plates (some folded) : 22 cm",
+        "Added engraved title pages",
+        "Appeared in 80 parts of 10 plates each, 100 plates completing each volume",
+        "Plates are hand-colored",
+        "extracted picklist 20081216",
+        "digitized BHLDP 20151028"
+      ],
+      "downloads": 576,
+      "file": "books/getreueabbildung06bech.pdf",
+      "source_pdf": "getreueabbildung06bech.pdf"
+    },
+    {
+      "identifier": "intellectualobse00unse",
+      "title": "The Intellectual observer; a review of natural history, microscopic research, and recreative science; also the Student, being the continuation of the Intellectual observer. A collection of eighty [i.e. 96] superbly coloured plates of natural history and botanical specimens, including caterpillars, fungi, corals ..",
+      "creator": null,
+      "subjects": "Natural history -- Pictorial works",
+      "date": "1870-01-01T00:00:00Z",
+      "description": [
+        "[1] p., 96 plates (part col.)",
+        "On spine: Plates from the Intellectual observer"
+      ],
+      "downloads": 560,
+      "file": "books/intellectualobse00unse.pdf",
+      "source_pdf": "intellectualobse00unse.pdf"
+    },
+    {
+      "identifier": "gri_33125008626679",
+      "title": "Physique sacrée, ou, Histoire-naturelle de la Bible",
+      "creator": "Scheuchzer, Johann Jakob, 1672-1733",
+      "subjects": [
+        "Nature in the Bible",
+        "Natural history -- Pictorial works -- Early works to 1800",
+        "Natural history -- Pre-Linnean works",
+        "Natural history"
+      ],
+      "date": "1732-01-01T00:00:00Z",
+      "description": [
+        "8 v., DCCL (i.e. 758) leaves of plates : 40 cm. (fol.)",
+        "Title in red and black, with vignettes, engraved. Half-titles, head- and tailpieces, initials",
+        "All plates designed by J.M. Füssli--Cf. v. 1, p. xxxv. List of other designers and engravers: v. 1, p. xxxv-xxxvi. Some numbering irregular",
+        "Includes indexes and glossaries",
+        "\"Catalogue des auteurs & des ouvrages cités\"--V. 1, p. x-xxxiv. Also includes bibliographical references"
+      ],
+      "downloads": 186,
+      "file": "books/gri_33125008626679.pdf",
+      "source_pdf": "gri_33125008626679.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-osl_william-arthur-johnson-fonds_P139_item2-18298",
+      "title": "William Arthur Johnson fonds : P139",
+      "creator": "Johnson, William Arthur, 1816-1880",
+      "subjects": [
+        "Johnson, William Arthur, -- 1816-1880 -- Archives.",
+        "Johnson, William Arthur, -- 1816-1880 -- Notebooks, sketchbooks, etc.",
+        "Osler, William, -- Sir, -- 1849-1919 -- Friends and associates.",
+        "Natural history -- Pictorial works.",
+        "Johnson, William Arthur, -- 1816-1880.",
+        "Osler, William, -- Sir, -- 1849-1919.",
+        "Natural Science Disciplines.",
+        "Pictorial Works.",
+        "McGill University Library Digitized Title",
+        "Osler - Robertson",
+        "Johnson, William Arthur, 1816-1880 -- Archives",
+        "Johnson, William Arthur, 1816-1880 -- Notebooks, sketchbooks, etc",
+        "Osler, William, Sir, 1849-1919 -- Friends and associates",
+        "Johnson, William Arthur, 1816-1880",
+        "Osler, William, Sir, 1849-1919",
+        "Natural history -- Pictorial works",
+        "Natural Science Disciplines",
+        "Friendship",
+        "Natural history"
+      ],
+      "date": "1864-01-01T00:00:00Z",
+      "description": [
+        "2 items of graphic material",
+        "This fonds is held at the Osler Library, McGill University",
+        "William Arthur Johnson was born in Bombay. The Duke of Wellington was his godfather. Although intended for the army, Johnson, after migrating to Upper Canada in 1831, entered the Anglican Church. He was a curate to Archdeacon A.N. Bethune at Cobourg. However, his tractarian tendencies made him unpopular and he was made rector of St. Philip's at Etobicoke, a remote village across the river from Weston. There he established a school that was to become Trinity College School. Among Johnson's pupils was William Osler, who regarded Johnson as one of his mentors",
+        "The fonds shows William Arthur Johnson's activities in natural sciences, and microscope work; the fonds contains two sketch-books of coloured sketches",
+        "Given by William Arthur Johnson's son, Dr. A.J. Johnson, to Dr. Harvey Cushing, and by him to the Osler Library",
+        "Slides and microfilm copies of the sketch-books available"
+      ],
+      "downloads": 380,
+      "file": "books/McGillLibrary-osl_william-arthur-johnson-fonds_P139_item2-18298.pdf",
+      "source_pdf": "osl_william-arthur-johnson-fonds_P139_item2.pdf"
+    },
+    {
+      "identifier": "Locupletissimir00Seba",
+      "title": "Locupletissimi rerum naturalium thesauri accurata descriptio, et iconibus artificiosissimis expressio, per universam physiees historiam : Opus, cui, in hoc rerum genere, nullum par exstitit",
+      "creator": "Seba, Albert, 1665-1736",
+      "subjects": [
+        "Natural History -- Pictorial Works",
+        "Natural History -- Pre-Linnean works"
+      ],
+      "date": "1734-01-01T00:00:00Z",
+      "description": [
+        "statement of responsibility: Ex toto terrarum orbe collegit, digessit, descripsit, et de pingendum curavit Albertus Seba.",
+        "additional physical form: Volume one available online via the Biodiversity Heritage Library.",
+        "4 v. : 55 cm"
+      ],
+      "downloads": 2245,
+      "file": "books/Locupletissimir00Seba.pdf",
+      "source_pdf": "Locupletissimir00Seba.pdf"
+    },
+    {
+      "identifier": "Locupletissimir2Seba",
+      "title": "Locupletissimi rerum naturalium thesauri accurata descriptio, et iconibus artificiosissimis expressio, per universam physices historiam : Opus, cui, in hoc rerum genere, nullum par exstitit",
+      "creator": "Seba, Albertus, 1665-1736",
+      "subjects": [
+        "Pre-Linnean works",
+        "Pictorial works",
+        "Natural history -- Pre-Linnean works",
+        "Natural history -- Pictorial works"
+      ],
+      "date": "1734-01-01T00:00:00Z",
+      "description": [
+        "statement of responsibility: Ex toto terrarum orbe collegit, digessit, descripsit, et depingendum curavit Albertus Seba ...",
+        "Text in Latin and French, with an introductory poem in Dutch.",
+        "Preface by Hermann Boerhaave. Tomes 3 and 4 were edited by H.D. Gaubius, P. Massuet, L. Jancourt, and P. van Musschenbroek. P. Artedi wrote most of the descriptions of fish. The illustrations were drawn and engraved by various artists, apparently under the supervision of P. Tanjé.",
+        "A thorough discussion of this publication appears in an article by L.B. Holthuis, \"Albertus Seba's 'Locupletissimi rerum naturalium thesauri ...' (1734-1765) and the 'Planches de Seba' (1827-1831)\", in: Zoologische mededelingen, deel 43, no. 19 (1969), p. 239-[255].",
+        "Imprint of t. 4: Amstelaedami, apud H.C. Arksteum, et H. Merkum, et Petrum Schouten, 1765.",
+        "Tome 3 has printer's note on prelim. p.: \"Lugduni Batavorum, Typis Eliae Luzac, Junioris\"; the date that follows in Roman numerals seems to be 1769, but the CHMRB copy has an old paper tab partly pasted over the date, making it appear to be 1760 instead.",
+        "Collation of plates: t.1, CXI; t.2, CXIV; t.3, CXVI; t.4, CVIII; many of the plates are on double leaves.",
+        "Title printed in red and black.",
+        "Title vignette; initials; head- and tail-pieces, including some tail-pieces signed VLS.",
+        "citation/reference: Wood, C. Vertebrate zoology, p. 560.",
+        "citation/reference: BM (Natural history), p. 1889.",
+        "action: extracted picklist 20081216 BHLEX",
+        "Includes bibliographical references and indexes.",
+        "4 v., 449 leaves of plates in various foliations : 54 cm. (fol.)",
+        "Text in Latin and French, with an introductory poem in Dutch",
+        "Preface by Hermann Boerhaave. Tomes 3 and 4 were edited by H.D. Gaubius, P. Massuet, L. Jancourt, and P. van Musschenbroek. P. Artedi wrote most of the descriptions of fish. The illustrations were drawn and engraved by various artists, apparently under the supervision of P. Tanjé",
+        "A thorough discussion of this publication appears in an article by L.B. Holthuis, \"Albertus Seba's 'Locupletissimi rerum naturalium thesauri ...' (1734-1765) and the 'Planches de Seba' (1827-1831)\", in: Zoologische mededelingen, deel 43, no. 19 (1969), p. 239-[255]",
+        "Imprint of t. 4: Amstelaedami, apud H.C. Arksteum, et H. Merkum, et Petrum Schouten, 1765",
+        "Tome 3 has printer's note on prelim. p.: \"Lugduni Batavorum, Typis Eliae Luzac, Junioris\"; the date that follows in Roman numerals seems to be 1769, but the CHMRB copy has an old paper tab partly pasted over the date, making it appear to be 1760 instead",
+        "Collation of plates: t.1, CXI; t.2, CXIV; t.3, CXVI; t.4, CVIII; many of the plates are on double leaves",
+        "Title printed in red and black",
+        "Title vignette; initials; head- and tail-pieces, including some tail-pieces signed VLS",
+        "Includes bibliographical references and indexes",
+        "extracted picklist 20081216"
+      ],
+      "downloads": 4870,
+      "file": "books/Locupletissimir2Seba.pdf",
+      "source_pdf": "Locupletissimir2Seba.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-osl_william-arthur-johnson-fonds_P139_item1-18297",
+      "title": "William Arthur Johnson fonds : P139",
+      "creator": "Johnson, William Arthur, 1816-1880",
+      "subjects": [
+        "Johnson, William Arthur, -- 1816-1880 -- Archives.",
+        "Johnson, William Arthur, -- 1816-1880 -- Notebooks, sketchbooks, etc.",
+        "Osler, William, -- Sir, -- 1849-1919 -- Friends and associates.",
+        "Natural history -- Pictorial works.",
+        "Johnson, William Arthur, -- 1816-1880.",
+        "Osler, William, -- Sir, -- 1849-1919.",
+        "Natural Science Disciplines.",
+        "Pictorial Works.",
+        "McGill University Library Digitized Title",
+        "Osler - Robertson",
+        "Johnson, William Arthur, 1816-1880 -- Archives",
+        "Johnson, William Arthur, 1816-1880 -- Notebooks, sketchbooks, etc",
+        "Osler, William, Sir, 1849-1919 -- Friends and associates",
+        "Johnson, William Arthur, 1816-1880",
+        "Osler, William, Sir, 1849-1919",
+        "Natural history -- Pictorial works",
+        "Natural Science Disciplines",
+        "Friendship",
+        "Natural history"
+      ],
+      "date": "1864-01-01T00:00:00Z",
+      "description": [
+        "2 items of graphic material",
+        "This fonds is held at the Osler Library, McGill University",
+        "William Arthur Johnson was born in Bombay. The Duke of Wellington was his godfather. Although intended for the army, Johnson, after migrating to Upper Canada in 1831, entered the Anglican Church. He was a curate to Archdeacon A.N. Bethune at Cobourg. However, his tractarian tendencies made him unpopular and he was made rector of St. Philip's at Etobicoke, a remote village across the river from Weston. There he established a school that was to become Trinity College School. Among Johnson's pupils was William Osler, who regarded Johnson as one of his mentors",
+        "The fonds shows William Arthur Johnson's activities in natural sciences, and microscope work; the fonds contains two sketch-books of coloured sketches",
+        "Given by William Arthur Johnson's son, Dr. A.J. Johnson, to Dr. Harvey Cushing, and by him to the Osler Library",
+        "Slides and microfilm copies of the sketch-books available"
+      ],
+      "downloads": 350,
+      "file": "books/McGillLibrary-osl_william-arthur-johnson-fonds_P139_item1-18297.pdf",
+      "source_pdf": "osl_william-arthur-johnson-fonds_P139_item1.pdf"
+    },
+    {
+      "identifier": "amusementmicros3lede",
+      "title": "Amusement microscopique : tant pour l'esprit, que pour les yeux : contenant cinquante estampes dessinées d'après nature et enluminées, avec leurs explications",
+      "creator": "Ledermüller, Martin Frobenius, 1719-1769",
+      "subjects": [
+        "Microscopes",
+        "Microscopy",
+        "Natural history",
+        "Microscopes -- Early works to 1800",
+        "Microscopy -- Early works to 1800",
+        "Natural history -- Pictorial works -- Pre-Linnean"
+      ],
+      "date": "1764-01-01T00:00:00Z",
+      "description": [
+        "3 v., [153] leaves of plates : 26 cm. (4to)",
+        "The second volume has title: Deuxiéme cinquantaine des amusemens microscopiques. à Nuremberg : chés Adam Wolfgang Winterschmidt, 1766. The 3rd v.: Troisième cinquantaine des amusemens microscopiques ... contenant en meme tems une fidele methode de faire un usage adroit, aisè et fidele de toutes sortes de microscopes; en forme de lettres, avec un suplement et une addition. a Nuremberg : chés Adam Wolfgang Winterschmidt, 1768. The supplement has special t.p.: Response de Martin Frobène Ledermuller a quelques obiections et doutes a lui faits par Monsieur le baron de Gleichen ... avec une addition de l'entrepreneur de l'ouvrage, Adam Wolfgang Winterschmidt",
+        "Woodcut title vignettes, head- and tail-pieces, initials",
+        "Frontispiece engraved by A.W. Winterschmidt after Johann Justin Preissler",
+        "Plates are hand-colored",
+        "Includes bibliographical references"
+      ],
+      "downloads": 527,
+      "file": "books/amusementmicros3lede.pdf",
+      "source_pdf": "amusementmicros3lede.pdf"
+    },
+    {
+      "identifier": "getreueabbildung05bech",
+      "title": "Getreue Abbildungen naturhistorischer Gegenstände in Hinsicht auf Bechsteins kurzgefasste gemeinnützige Naturgeschichte des In- und Auslandes : für Eltern, Hofmeister, Jugendlehrer, Erzieher und Liebhaber der Naturgeschichte",
+      "creator": "Bechstein, Johann Matthäus, 1757-1822, editor",
+      "subjects": "Natural history -- Pictorial works",
+      "date": "1793-01-01T00:00:00Z",
+      "description": [
+        "10 parts in 8 volumes, [800] leaves of plates (some folded) : 22 cm",
+        "Added engraved title pages",
+        "Appeared in 80 parts of 10 plates each, 100 plates completing each volume",
+        "Plates are hand-colored",
+        "extracted picklist 20081216",
+        "digitized BHLDP 20151028"
+      ],
+      "downloads": 583,
+      "file": "books/getreueabbildung05bech.pdf",
+      "source_pdf": "getreueabbildung05bech.pdf"
+    },
+    {
+      "identifier": "naturalhistoryc2catea",
+      "title": "The natural history of Carolina, Florida and the Bahama islands : containing the figures of birds, beasts, fishes, serpents, insects, and plants : particularly the forest-trees, shrubs, and other plants, not hitherto described, or very incorrectly figured by authors. Together with their descriptions in English and French. To which, are added observations on the air, soil, and waters : with remarks upon agriculture, grain, pulse, roots, &c. To the whole, is prefixed a new and correct map of the countries treated of",
+      "creator": "Catesby, Mark, 1683-1749",
+      "subjects": [
+        "Natural history",
+        "Natural history illustration",
+        "Natural history -- Pictorial works",
+        "Natural history -- Pre-Linnean works",
+        "Natural history -- Southern States -- Pre-Linnean works",
+        "Natural history -- Southern States -- Pictorial works",
+        "Natural history -- Bahamas -- Pre-Linnean works",
+        "Natural history -- Bahamas -- Pictorial works",
+        "Natural history illustration -- Early works to 1800",
+        "Natural history -- North Carolina -- Pre-Linnean works",
+        "Natural history -- South Carolina -- Pre-Linnean works",
+        "Natural history -- Florida -- Pre-Linnean works",
+        "Natural history -- North Carolina -- Pictorial works",
+        "Natural history -- South Carolina -- Pictorial works",
+        "Natural history -- Florida -- Pictorial works",
+        "Natural History"
+      ],
+      "date": "1731-01-01T00:00:00Z",
+      "description": [
+        "2 v., [222] leaves of plates : 53 cm. (fol.)",
+        "Catesby broke new ground; He portrayed his birds more naturally than before, with foliage backgrounds, and to adopt the folio format. He depicted the natural history of one area in its entirety, and often drew from living models",
+        "Title pages printed in red and black",
+        "Vol. 2: first 20 text page numbers altered to 1-20 from 121-140",
+        "Vol. 2: p. 59 numbered 56",
+        "Vol. 2: plates 61 (Magnolia, the laurel tree of Carolina; full page) and 96 (Mangrove grape tree) by G.D. Ehret",
+        "Vol. 2: plate 61 unnumbered; plate 80 numbered 62",
+        "Appendix: plates 3, 7, 9 unnumbered",
+        "Work originally issued in 11 parts, each including 20 plates (v. 1 issued in parts 1-5, between 1729-1732; v. 2 issued in parts 6-10, between 1734-1743; and the Appendix, issued in 1747). The t.p. for v. 1 is dated 1731, and the t.p. for v. 2 is dated 1743. Catesby is on record as having presented the completed Appendix to the Royal Society on 2 July 1747 (Royal Society journal book, v. 20, p. 307)",
+        "The word \"prefixed\" in the subtitle of v. 1 printed as \"perfixed.\"",
+        "The illustrations were etched by the author from his own drawings and hand colored under his direction. Cf. Preface, v. 1, p. xi-xii",
+        "Contains supplement: An account of Carolina and the Bahama Islands = Relation de la Caroline, et des Isles de Bahama (xliv p.). Also: Appendix. 1748? (bound at end of v. 2): 20 p., 20 plates",
+        "Volume 1 is dedicated to Queen Caroline; v. 2 is dedicated to the Princess of Wales, Augusta of Saxe-Gotha-Altenburg",
+        "Includes indexes",
+        "Includes bibliographical references and indexes"
+      ],
+      "downloads": 543,
+      "file": "books/naturalhistoryc2catea.pdf",
+      "source_pdf": "naturalhistoryc2catea.pdf"
+    },
+    {
+      "identifier": "marvelsofunivers01lond",
+      "title": "Marvels of the universe : a popular work on the marvels of the heavens, the earth, plant life, animal life, the mighty deep",
+      "creator": null,
+      "subjects": [
+        "Natural history -- Pictorial works",
+        "Astronomy -- Pictorial works",
+        "Marine biology -- Pictorial works",
+        "Natural history -- Popular works",
+        "Astronomy -- Popular works",
+        "Marine biology -- Popular works",
+        "Science",
+        "Natural History",
+        "Astronomy",
+        "Marine biology",
+        "Natural history"
+      ],
+      "date": "1913-01-01T00:00:00Z",
+      "description": [
+        "2 volumes : 28 cm",
+        "The material in these volumes was originally published by Hutchinson and Company as a periodical 1911-1912 \"in about 24 fortnightly parts\"--Confer original cover bound in, volume I",
+        "Paged continuously: volume I: 12 unnumbered pages, viii, 600 pages, 36 unnumbered pages of plates; volume II: 16 unnumbered pages, pages 601-1160, 28 unnumbered leaves of plates",
+        "Includes index at front of volume 2",
+        "Date of publication not identified but several other editions were published around 1913 and library copy acquired in 1927",
+        "digitized BHLDP 20130430",
+        "extracted picklist 20100105"
+      ],
+      "downloads": 3633,
+      "file": "books/marvelsofunivers01lond.pdf",
+      "source_pdf": "marvelsofunivers01lond.pdf"
+    },
+    {
+      "identifier": "gleaningsnatura6edwa",
+      "title": "Gleanings of natural history : exhibiting figures of quadrupeds, birds, insects, plants &c., most of which have not, till now, been either figured or described : with descriptions of seventy different subjects ...",
+      "creator": "Edwards, George, 1694-1773, author, illustrator",
+      "subjects": [
+        "Natural history",
+        "Natural history -- Pictorial works -- Early works to 1800",
+        "Natural history -- Pre-Linnean works"
+      ],
+      "date": "1758-01-01T00:00:00Z",
+      "description": [
+        "3 volumes (xxxv, 347 pages, 151 leaves of plates in various foliations) : 32 cm (4to)",
+        "French translation by J. Du Plessis for volumes 1 and 2, and by Edmond Barker for volume 3",
+        "Issued in parts",
+        "Considered as a continuation (volumes 5, 6 and 7) of the author's \"A natural history of birds,\" which was published from 1743-1751 in four parts, and with general title \"A natural history of uncommon birds.\"",
+        "\"In common with many other publications of the same period many copies of this work were made up from assorted stock, giving rise to considerable difficulty in the identification and collation of ideal copies of the various editions and issues\" --Lisney, page 128",
+        "The leaves of plates continue the numbering from the 1743-1751 edition of A natural history of birds, with plates numbered 211-260 in the first volume; plates numbered 261-310 in the second volume; and plates numbered 311-362 in the third volume",
+        "\"For some of the plates ... use was made of pictures from the collection of drawings of Indian animals and plants which Gideon Loten had had executed in India, nearly all of which are due to the native artist P.C. de Bevere\" --Anker",
+        "Head- and tail-pieces (some are engraved). The half-title engraved vignette in volume 1, featuring a facsimile of the Copley Medal awarded to Edwards by the Royal Society in 1750, is signed: J.S. Müller sculpt",
+        "Carl von Linné issued a list of the species appearing in the seven parts of Edwards' Natural history in 1776",
+        "Includes bibliographical references and indexes",
+        "extracted picklist 20081216"
+      ],
+      "downloads": 845,
+      "file": "books/gleaningsnatura6edwa.pdf",
+      "source_pdf": "gleaningsnatura6edwa.pdf"
+    },
+    {
+      "identifier": "gri_33125008626497",
+      "title": "Physique sacrée, ou, Histoire-naturelle de la Bible",
+      "creator": "Scheuchzer, Johann Jakob, 1672-1733",
+      "subjects": [
+        "Nature in the Bible",
+        "Natural history -- Pictorial works -- Early works to 1800",
+        "Natural history -- Pre-Linnean works",
+        "Natural history"
+      ],
+      "date": "1732-01-01T00:00:00Z",
+      "description": [
+        "8 v., DCCL (i.e. 758) leaves of plates : 40 cm. (fol.)",
+        "Title in red and black, with vignettes, engraved. Half-titles, head- and tailpieces, initials",
+        "All plates designed by J.M. Füssli--Cf. v. 1, p. xxxv. List of other designers and engravers: v. 1, p. xxxv-xxxvi. Some numbering irregular",
+        "Includes indexes and glossaries",
+        "\"Catalogue des auteurs & des ouvrages cités\"--V. 1, p. x-xxxiv. Also includes bibliographical references"
+      ],
+      "downloads": 216,
+      "file": "books/gri_33125008626497.pdf",
+      "source_pdf": "gri_33125008626497.pdf"
+    },
+    {
+      "identifier": "gleaningsofnatu151758edwa",
+      "title": "Gleanings of natural history : exhibiting figures of quadrupeds, birds, insects, plants &c., most of which have not, till now, been either figured or described : with descriptions of seventy different subjects ...",
+      "creator": "Edwards, George, 1694-1773, author, illustrator",
+      "subjects": [
+        "Natural history -- Pictorial works -- Early works to 1800",
+        "Natural history -- Pre-Linnean works"
+      ],
+      "date": "1758-01-01T00:00:00Z",
+      "description": [
+        "3 volumes (xxxv, 347 pages, 151 leaves of plates in various foliations) : 32 cm (4to)",
+        "French translation by J. Du Plessis for volumes 1 and 2, and by Edmond Barker for volume 3",
+        "Issued in parts",
+        "Considered as a continuation (volumes 5, 6 and 7) of the author's \"A natural history of birds,\" which was published from 1743-1751 in four parts, and with general title \"A natural history of uncommon birds.\"",
+        "\"In common with many other publications of the same period many copies of this work were made up from assorted stock, giving rise to considerable difficulty in the identification and collation of ideal copies of the various editions and issues\" --Lisney, page 128",
+        "The leaves of plates continue the numbering from the 1743-1751 edition of A natural history of birds, with plates numbered 211-260 in the first volume; plates numbered 261-310 in the second volume; and plates numbered 311-362 in the third volume",
+        "\"For some of the plates ... use was made of pictures from the collection of drawings of Indian animals and plants which Gideon Loten had had executed in India, nearly all of which are due to the native artist P.C. de Bevere\" --Anker",
+        "Head- and tail-pieces (some are engraved). The half-title engraved vignette in volume 1, featuring a facsimile of the Copley Medal awarded to Edwards by the Royal Society in 1750, is signed: J.S. Müller sculpt",
+        "Carl von Linné issued a list of the species appearing in the seven parts of Edwards' Natural history in 1776",
+        "Includes bibliographical references and indexes",
+        "extracted picklist 20081216"
+      ],
+      "downloads": 1140,
+      "file": "books/gleaningsofnatu151758edwa.pdf",
+      "source_pdf": "gleaningsofnatu151758edwa.pdf"
+    },
+    {
+      "identifier": "deliciaenaturae00knor",
+      "title": "Deliciae naturae selectae, oder, Auserlesenes Natüralien-Cabinet welches aus den drey Reichen der Natur zeiget : was von curiösen Liebhabern aufbehalten und gesammlet [i.e. gesammelt] zu werden verdienet",
+      "creator": "Knorr, Georg Wolfgang, 1705-1761",
+      "subjects": [
+        "Natural history",
+        "Corals",
+        "Mollusks",
+        "Natural history -- Pictorial works -- Early works to 1800",
+        "Natural history -- Pre-Linnean works",
+        "Corals -- Early works to 1800",
+        "Mollusks -- Early works to 1800",
+        "Natural history -- Catalogs and collections -- Early works to 1800"
+      ],
+      "date": "1766-01-01T00:00:00Z",
+      "description": [
+        "2 v., 91 leaves of plates : 51 cm. (fol.)",
+        "According to Nissen, publication began in 1751",
+        "Added engraved t.p., dated 1754",
+        "With a second [non-engraved] added t.p. in French, with title: Delices physiques choisies, ou, Choix de tout de que les trois regnes de la nature",
+        "Dedicatory epistle and some plates dated 1768",
+        "Some of the illustrators who signed the plates (besides Knorr) include: Joh. Fried. Dietsch; B.R. Dietschin; J.C. Keller; C.N. Kleemann; and Christian Leinberger",
+        "\"Verzeichnis derer Schriftsteller, welche Man bey Verfertigung des Textes mehrentheils zu Rathe gezogen\": v. 1, 8 p. preceding p. i",
+        "extracted picklist 20081216"
+      ],
+      "downloads": 1611,
+      "file": "books/deliciaenaturae00knor.pdf",
+      "source_pdf": "deliciaenaturae00knor.pdf"
+    },
+    {
+      "identifier": "getreueabbildung02bech",
+      "title": "Getreue Abbildungen naturhistorischer Gegenstände in Hinsicht auf Bechsteins kurzgefasste gemeinnützige Naturgeschichte des In- und Auslandes : für Eltern, Hofmeister, Jugendlehrer, Erzieher und Liebhaber der Naturgeschichte",
+      "creator": "Bechstein, Johann Matthäus, 1757-1822, editor",
+      "subjects": "Natural history -- Pictorial works",
+      "date": "1793-01-01T00:00:00Z",
+      "description": [
+        "10 parts in 8 volumes, [800] leaves of plates (some folded) : 22 cm",
+        "Added engraved title pages",
+        "Appeared in 80 parts of 10 plates each, 100 plates completing each volume",
+        "Plates are hand-colored",
+        "extracted picklist 20081216",
+        "digitized BHLDP 20151028"
+      ],
+      "downloads": 700,
+      "file": "books/getreueabbildung02bech.pdf",
+      "source_pdf": "getreueabbildung02bech.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc_blackerwood_verzameling-van-uitlandsche_elfQL46E48_v1-20856",
+      "title": "Verzameling van uitlandsche en zeldzaame vogelen : benevens eenige vreemde dieren en plantgewassen, in 't engelsch naauwkeurig beschreeven en naar 't leven met kleuren afgebeeld v.1",
+      "creator": "Edwards, George, 1694-1773",
+      "subjects": [
+        "Birds -- Pictorial works.",
+        "Natural history -- Pictorial works.",
+        "McGill University Library Digitized Title",
+        "Rare Books and Special Collections - Blacker-Wood Illustrations Collection",
+        "Birds -- Pictorial works",
+        "Natural history -- Pictorial works",
+        "Birds",
+        "Natural history"
+      ],
+      "date": "1772-01-01T00:00:00Z",
+      "description": [
+        "5 volumes : color illustrations ; 45 cm",
+        "5 volumes : 45 cm",
+        "Includes 473 col. plates: bd. 1 (1.-2. deel), includes 102 plates; bd. 2 (3.-4. deel), 114 plates; bd. 3 (5.-6. deel), 105 plates; bd. 4 (7.-8. deel), 100 plates; bd. 5 (9. deel), 52 plates",
+        "Bd. 1 published in 1772, Bd. 2-4 in 1776, Bd. 5 in 1781",
+        "Includes index"
+      ],
+      "downloads": 391,
+      "file": "books/McGillLibrary-rbsc_blackerwood_verzameling-van-uitlandsche_elfQL46E48_v1-20856.pdf",
+      "source_pdf": "rbsc_blackerwood_verzameling-van-uitlandsche_elfQL46E48_v1.pdf"
+    },
+    {
+      "identifier": "getreueabbildung08bech",
+      "title": "Getreue Abbildungen naturhistorischer Gegenstände in Hinsicht auf Bechsteins kurzgefasste gemeinnützige Naturgeschichte des In- und Auslandes : für Eltern, Hofmeister, Jugendlehrer, Erzieher und Liebhaber der Naturgeschichte",
+      "creator": "Bechstein, Johann Matthäus, 1757-1822, editor",
+      "subjects": "Natural history -- Pictorial works",
+      "date": "1793-01-01T00:00:00Z",
+      "description": [
+        "10 parts in 8 volumes, [800] leaves of plates (some folded) : 22 cm",
+        "Added engraved title pages",
+        "Appeared in 80 parts of 10 plates each, 100 plates completing each volume",
+        "Plates are hand-colored",
+        "extracted picklist 20081216",
+        "digitized BHLDP 20151028"
+      ],
+      "downloads": 579,
+      "file": "books/getreueabbildung08bech.pdf",
+      "source_pdf": "getreueabbildung08bech.pdf"
+    },
+    {
+      "identifier": "dictionnaireuniv11849orbi",
+      "title": "Dictionnaire universel d'histoire naturelle : résumant et complétant tous les faits présentés par les encyclopédies, les anciens dictionnaires scientifiques, les oeuvres complètes de Buffon, et les ... traités spéciaux sur les diverses branches des sciences naturelles ...",
+      "creator": "Orbigny, Charles d', 1806-1876, editor",
+      "subjects": [
+        "Natural history -- Dictionaries",
+        "Natural history -- Pictorial works",
+        "Zoology -- Dictionaries",
+        "Science -- Dictionaries",
+        "Botany -- Dictionaries"
+      ],
+      "date": "1847-01-01T00:00:00Z",
+      "description": [
+        "13 volumes ; 25 cm +",
+        "First edition published in 1837",
+        "The edition with volume 1, dated 1847, has some volumes title pages ranging in date from 1843 to 1846, from earlier issues. Title pages vary in different copies but all have text from the same setting of type--Cf. Sherborn, C. Davies and T.S. Palmer, \"Dates of Charles d'Orbigny's 'Dictionnaire Universel d'Histoire Naturelle', 1839-1849,\" The Annals and magazine of natural history, vol. 3, 1899",
+        "Half-titles",
+        "\"Imprimerie de L. Martinet\"--Verso of half-titles",
+        "Plates, steel or stipple engraved, variously signed by artists, engraved by Fournier; with guard tissues",
+        "Errata: last leaf of volume 1, last page of volume 2"
+      ],
+      "downloads": 778,
+      "file": "books/dictionnaireuniv11849orbi.pdf",
+      "source_pdf": "dictionnaireuniv11849orbi.pdf"
+    },
+    {
+      "identifier": "recueildedivers00huthc",
+      "title": "Recueil de divers oiseaux étrangers et peu communs",
+      "creator": "Huth, Georg Leonhart, 1705-1761",
+      "subjects": [
+        "Birds",
+        "Natural history",
+        "Birds -- Pictorial works",
+        "Natural history -- Pictorial works",
+        "Oiseaux -- Ouvrages illustrés",
+        "Sciences naturelles -- Ouvrages illustrés"
+      ],
+      "date": "1768-01-01T00:00:00Z",
+      "description": [
+        "9 pts., 423+ leaves of plates in various foliations : 39 cm. (fol.)",
+        "Text is in French; plate captions are in German, French, and Latin",
+        "\"In 1749-76, there was published in Nuremberg a German translation, by G.L. Huth, of Edwards's 'A natural history of uncommon birds' and 'Gleanings of natural history' ... and Catesby's 'Natural history of Carolina, Florida and the Bahama Islands, ' combined into one work under the title of Sammlung verschiedenen [i.e. verschiedener] ausländischer und seltener Vögel. This was published in nine parts. The plates of Edwards and Catesby were re-engraved by Seligmann and some of those by Edwards further embellished by the addition of figures of plants not in the originals\"--J.T. Zimmer, Ayer Lib., p. 200-201",
+        "Ptie. 1-2 were published in 1768; ptie. 3, 1770; ptie. 4, 1771; ptie. 5, 1772; ptie. 6, 1773; ptie. 7, 1774; and ptie. 8-9, 1776",
+        "Colophon of ptie. 2: De l'imprimerie de Jean Henr. Godefroy Bieling; colophon of ptie. 8: de l'imprimerie de G.P.J. Bieling",
+        "Collation: ptie. 1. [18], 52 p., plates I-L; ptie. 2. [2], 56 p., frontispiece, plates LI-CII; ptie. 3. [2], 50, [2] p., plates I-L; ptie. 4. [2], 88, [2] p., frontispiece, plates LI-CXIV; ptie. 5. [2], 52, [2] p., plates I-LII; ptie. 6. [2] 56, [2] p., plates LIII-CV; ptie. 7. [2], 58, [2] p., plates I-L; ptie. 8, 70, [2] p., plates LI-C; ptie. 9. 44 p., plates I-L",
+        "Head- and tail-pieces (some signed \"CS\"); engraved vignettes on t.p.'s",
+        "Includes bibliographical references"
+      ],
+      "downloads": 293,
+      "file": "books/recueildedivers00huthc.pdf",
+      "source_pdf": "recueildedivers00huthc.pdf"
+    },
+    {
+      "identifier": "getreueabbildung01bech",
+      "title": "Getreue Abbildungen naturhistorischer Gegenstände in Hinsicht auf Bechsteins kurzgefasste gemeinnützige Naturgeschichte des In- und Auslandes : für Eltern, Hofmeister, Jugendlehrer, Erzieher und Liebhaber der Naturgeschichte",
+      "creator": "Bechstein, Johann Matthäus, 1757-1822, editor",
+      "subjects": "Natural history -- Pictorial works",
+      "date": "1793-01-01T00:00:00Z",
+      "description": [
+        "10 parts in 8 volumes, [800] leaves of plates (some folded) : 22 cm",
+        "Added engraved title pages",
+        "Appeared in 80 parts of 10 plates each, 100 plates completing each volume",
+        "Plates are hand-colored",
+        "extracted picklist 20081216",
+        "digitized BHLDP 20151028"
+      ],
+      "downloads": 771,
+      "file": "books/getreueabbildung01bech.pdf",
+      "source_pdf": "getreueabbildung01bech.pdf"
+    },
+    {
+      "identifier": "getreueabbildung04bech",
+      "title": "Getreue Abbildungen naturhistorischer Gegenstände in Hinsicht auf Bechsteins kurzgefasste gemeinnützige Naturgeschichte des In- und Auslandes : für Eltern, Hofmeister, Jugendlehrer, Erzieher und Liebhaber der Naturgeschichte",
+      "creator": "Bechstein, Johann Matthäus, 1757-1822, editor",
+      "subjects": "Natural history -- Pictorial works",
+      "date": "1793-01-01T00:00:00Z",
+      "description": [
+        "10 parts in 8 volumes, [800] leaves of plates (some folded) : 22 cm",
+        "Added engraved title pages",
+        "Appeared in 80 parts of 10 plates each, 100 plates completing each volume",
+        "Plates are hand-colored",
+        "extracted picklist 20081216",
+        "digitized BHLDP 20151028"
+      ],
+      "downloads": 575,
+      "file": "books/getreueabbildung04bech.pdf",
+      "source_pdf": "getreueabbildung04bech.pdf"
+    },
+    {
+      "identifier": "gri_33125008626323",
+      "title": "Physique sacrée, ou, Histoire-naturelle de la Bible",
+      "creator": "Scheuchzer, Johann Jakob, 1672-1733",
+      "subjects": [
+        "Nature in the Bible",
+        "Natural history -- Pictorial works -- Early works to 1800",
+        "Natural history -- Pre-Linnean works",
+        "Natural history"
+      ],
+      "date": "1732-01-01T00:00:00Z",
+      "description": [
+        "8 v., DCCL (i.e. 758) leaves of plates : 40 cm. (fol.)",
+        "Title in red and black, with vignettes, engraved. Half-titles, head- and tailpieces, initials",
+        "All plates designed by J.M. Füssli--Cf. v. 1, p. xxxv. List of other designers and engravers: v. 1, p. xxxv-xxxvi. Some numbering irregular",
+        "Includes indexes and glossaries",
+        "\"Catalogue des auteurs & des ouvrages cités\"--V. 1, p. x-xxxiv. Also includes bibliographical references"
+      ],
+      "downloads": 270,
+      "file": "books/gri_33125008626323.pdf",
+      "source_pdf": "gri_33125008626323.pdf"
+    },
+    {
+      "identifier": "getreueabbildung07bech",
+      "title": "Getreue Abbildungen naturhistorischer Gegenstände in Hinsicht auf Bechsteins kurzgefasste gemeinnützige Naturgeschichte des In- und Auslandes : für Eltern, Hofmeister, Jugendlehrer, Erzieher und Liebhaber der Naturgeschichte",
+      "creator": "Bechstein, Johann Matthäus, 1757-1822, editor",
+      "subjects": "Natural history -- Pictorial works",
+      "date": "1793-01-01T00:00:00Z",
+      "description": [
+        "10 parts in 8 volumes, [800] leaves of plates (some folded) : 22 cm",
+        "Added engraved title pages",
+        "Appeared in 80 parts of 10 plates each, 100 plates completing each volume",
+        "Plates are hand-colored",
+        "extracted picklist 20081216",
+        "digitized BHLDP 20151028"
+      ],
+      "downloads": 617,
+      "file": "books/getreueabbildung07bech.pdf",
+      "source_pdf": "getreueabbildung07bech.pdf"
+    },
+    {
+      "identifier": "getreueabbildung03bech",
+      "title": "Getreue Abbildungen naturhistorischer Gegenstände in Hinsicht auf Bechsteins kurzgefasste gemeinnützige Naturgeschichte des In- und Auslandes : für Eltern, Hofmeister, Jugendlehrer, Erzieher und Liebhaber der Naturgeschichte",
+      "creator": "Bechstein, Johann Matthäus, 1757-1822, editor",
+      "subjects": "Natural history -- Pictorial works",
+      "date": "1793-01-01T00:00:00Z",
+      "description": [
+        "10 parts in 8 volumes, [800] leaves of plates (some folded) : 22 cm",
+        "Added engraved title pages",
+        "Appeared in 80 parts of 10 plates each, 100 plates completing each volume",
+        "Plates are hand-colored",
+        "extracted picklist 20081216",
+        "digitized BHLDP 20151028"
+      ],
+      "downloads": 630,
+      "file": "books/getreueabbildung03bech.pdf",
+      "source_pdf": "getreueabbildung03bech.pdf"
+    },
+    {
+      "identifier": "dictionnaireuniv31849orbi",
+      "title": "Dictionnaire universel d'histoire naturelle : résumant et complétant tous les faits présentés par les encyclopédies, les anciens dictionnaires scientifiques, les oeuvres complètes de Buffon, et les ... traités spéciaux sur les diverses branches des sciences naturelles ...",
+      "creator": "Orbigny, Charles d', 1806-1876, editor",
+      "subjects": [
+        "Natural history -- Dictionaries",
+        "Natural history -- Pictorial works",
+        "Zoology -- Dictionaries",
+        "Science -- Dictionaries",
+        "Botany -- Dictionaries"
+      ],
+      "date": "1847-01-01T00:00:00Z",
+      "description": [
+        "13 volumes ; 25 cm +",
+        "First edition published in 1837",
+        "The edition with volume 1, dated 1847, has some volumes title pages ranging in date from 1843 to 1846, from earlier issues. Title pages vary in different copies but all have text from the same setting of type--Cf. Sherborn, C. Davies and T.S. Palmer, \"Dates of Charles d'Orbigny's 'Dictionnaire Universel d'Histoire Naturelle', 1839-1849,\" The Annals and magazine of natural history, vol. 3, 1899",
+        "Half-titles",
+        "\"Imprimerie de L. Martinet\"--Verso of half-titles",
+        "Plates, steel or stipple engraved, variously signed by artists, engraved by Fournier; with guard tissues",
+        "Errata: last leaf of volume 1, last page of volume 2"
+      ],
+      "downloads": 840,
+      "file": "books/dictionnaireuniv31849orbi.pdf",
+      "source_pdf": "dictionnaireuniv31849orbi.pdf"
+    },
+    {
+      "identifier": "nouveauduhamelo2lois",
+      "title": "Nouveau Duhamel, ou, Traite des arbres et arbustes que l'on cultivé en France",
+      "creator": "Loiseleur-Deslongchamps, M. (Jean-Louis-Auguste), 1775-1849",
+      "subjects": [
+        "Trees",
+        "Shrubs",
+        "Botany",
+        "Botanical illustration",
+        "Trees -- France",
+        "Shrubs -- France",
+        "Botany -- Pictorial works",
+        "Botanical illustration -- 19th century"
+      ],
+      "date": "1812-01-01T00:00:00Z",
+      "description": [
+        "8 v. : 24 cm",
+        "Illustrations/plates are watercolor and gouache",
+        "Manuscript; handwritten in ink",
+        "\"Tables des noms français et latins\" for tomes 1-8, at end of tome 6"
+      ],
+      "downloads": 177,
+      "file": "books/nouveauduhamelo2lois.pdf",
+      "source_pdf": "nouveauduhamelo2lois.pdf"
+    },
+    {
+      "identifier": "mobot31753003759112",
+      "title": "George Engelmann : botanical notebook 1",
+      "creator": "Engelmann, George,",
+      "subjects": [
+        "1809-1884",
+        "Annonaceae",
+        "Aquifoliaceae",
+        "Berberaceae",
+        "Botanical illustration",
+        "Capparaceae",
+        "Caryophyllaceae",
+        "Cistaceae",
+        "Cruciferae",
+        "Engelmann, George,",
+        "Fouquieriaceae",
+        "Geraniaceae",
+        "Hypericaceae",
+        "Identification",
+        "Linaceae",
+        "Magnoliaceae",
+        "Malvaceae",
+        "Nelumbo",
+        "Nelumbonaceae",
+        "North America",
+        "Nymphaeaceae",
+        "Papaveraceae",
+        "Plant collecting",
+        "Plants",
+        "Polygalaceae",
+        "Portulacaceae",
+        "Ranunculaceae",
+        "Rhamnaceae",
+        "Rutaceae",
+        "Sterculiaceae",
+        "Violaceae"
+      ],
+      "date": "1835-01-01T00:00:00Z",
+      "description": null,
+      "downloads": 950,
+      "file": "books/mobot31753003759112.pdf",
+      "source_pdf": "mobot31753003759112.pdf"
+    },
+    {
+      "identifier": "mobot31753003905475",
+      "title": "George Engelmann : botanical notebook 3 : Sapindaceae, Anacardiaceae, Leguminosae, Rosaceae, Saxifragaceae, Grossulariaceae, Crassulaceae 1838-1888",
+      "creator": "Engelmannc+Georgec",
+      "subjects": [
+        "1809-1884",
+        "Anacardiaceae",
+        "Botanical+illustration",
+        "Crassulaceae",
+        "Engelmannc+Georgec",
+        "Grossulariaceae",
+        "Leguminosae",
+        "North+America",
+        "Plant+collecting",
+        "Rosaceae",
+        "Sapindaceae",
+        "Saxifragaceae"
+      ],
+      "date": "1838-01-01T00:00:00Z",
+      "description": null,
+      "downloads": 286,
+      "file": "books/mobot31753003905475.pdf",
+      "source_pdf": "mobot31753003905475.pdf"
+    },
+    {
+      "identifier": "mobot31753003958417",
+      "title": "George Engelmann :botanical notebook 43 : Juncus",
+      "creator": "Engelmann, George,",
+      "subjects": [
+        "1809-1884",
+        "Botanical illustration",
+        "Engelmann, George,",
+        "Juncaceae",
+        "Juncus",
+        "North America",
+        "Plant collecting",
+        "Plants"
+      ],
+      "date": "1865-01-01T00:00:00Z",
+      "description": null,
+      "downloads": 197,
+      "file": "books/mobot31753003958417.pdf",
+      "source_pdf": "mobot31753003958417.pdf"
+    },
+    {
+      "identifier": "mobot31753003958425",
+      "title": "George Engelmann :botanical notebook 42 : Juncus",
+      "creator": "Engelmann, George,",
+      "subjects": [
+        "1809-1884",
+        "Botanical illustration",
+        "Engelmann, George,",
+        "Juncaceae",
+        "Juncus",
+        "Meyer, Herbert E",
+        "North America",
+        "Plant collecting",
+        "Plants"
+      ],
+      "date": "1865-01-01T00:00:00Z",
+      "description": null,
+      "downloads": 230,
+      "file": "books/mobot31753003958425.pdf",
+      "source_pdf": "mobot31753003958425.pdf"
+    },
+    {
+      "identifier": "mobot31753003959464",
+      "title": "George Engelmann :botanical notebook 45 : Polyanthus, Sagittaria, Echinodorus, Najadaceae, Najas, Potamogetonaceae, Cyperaceae, Gramineae",
+      "creator": "Engelmann, George,",
+      "subjects": [
+        "1796-1873",
+        "1805-1877",
+        "1809-1884",
+        "1822-1882",
+        "1834-1913",
+        "1846-1918",
+        "Alismataceae",
+        "Ascherson, Paul,",
+        "Botanical illustration",
+        "Braun, Alexander,",
+        "Correspondence",
+        "Cyperaceae",
+        "Echinodorus",
+        "Engelmann, George,",
+        "Faxon, Charles Edward,",
+        "Gramineae",
+        "Hall, Elihu,",
+        "Najadaceae",
+        "Najas",
+        "North America",
+        "Plant collecting",
+        "Plants",
+        "Potamogetonaceae",
+        "Primula",
+        "Sagittaria",
+        "Torrey, John,"
+      ],
+      "date": "1840-01-01T00:00:00Z",
+      "description": null,
+      "downloads": 219,
+      "file": "books/mobot31753003959464.pdf",
+      "source_pdf": "mobot31753003959464.pdf"
+    },
+    {
+      "identifier": "mobot31753004102163",
+      "title": "George Engelmann :botanical notebook 49 : Pinus (Pinaceae)",
+      "creator": "Engelmann, George,",
+      "subjects": [
+        "1809-1884",
+        "Botanical illustration",
+        "Engelmann, George,",
+        "North America",
+        "Pinaceae",
+        "Pinus",
+        "Plant collecting",
+        "Plants"
+      ],
+      "date": "1862-01-01T00:00:00Z",
+      "description": null,
+      "downloads": 204,
+      "file": "books/mobot31753004102163.pdf",
+      "source_pdf": "mobot31753004102163.pdf"
+    },
+    {
+      "identifier": "mobot31753004103104",
+      "title": "George Engelmann :botanical notebook 55 : Abies",
+      "creator": "Engelmann, George,",
+      "subjects": [
+        "1809-1884",
+        "Abies",
+        "Botanical illustration",
+        "Engelmann, George,",
+        "North America",
+        "Pinaceae",
+        "Plant collecting",
+        "Plants"
+      ],
+      "date": "1862-01-01T00:00:00Z",
+      "description": null,
+      "downloads": 187,
+      "file": "books/mobot31753004103104.pdf",
+      "source_pdf": "mobot31753004103104.pdf"
+    },
+    {
+      "identifier": "mobot31753004103138",
+      "title": "George Engelmann :botanical notebook 55 : Abies",
+      "creator": "Engelmann, George,",
+      "subjects": [
+        "1809-1884",
+        "Abies",
+        "Botanical illustration",
+        "Engelmann, George,",
+        "North America",
+        "Pinaceae",
+        "Plant collecting",
+        "Plants"
+      ],
+      "date": "1862-01-01T00:00:00Z",
+      "description": null,
+      "downloads": 215,
+      "file": "books/mobot31753004103138.pdf",
+      "source_pdf": "mobot31753004103138.pdf"
+    },
+    {
+      "identifier": "mobot31753002839121",
+      "title": "Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte : Atlas zur Pharmacopoea germanica, austriaca, belgica, danica, helvetica, hungarica, rossica, suecica, Neerlandica, British pharmacopoeia, zum Codex medicamentarius, sowie zur Pharmacopoeia of the United States of America / herausgegeben von G. Pabst.",
+      "creator": [
+        "Brandt, Wilhelm,",
+        "Gu?rke, M.",
+        "Ko?hler, F. E.",
+        "Pabst, G.",
+        "Schellenberg, G.",
+        "Vogtherr, Max."
+      ],
+      "subjects": [
+        "Botanical illustration",
+        "Botany, Medical",
+        "Materia medica, Vegetable",
+        "Medicinal plants",
+        "Pictorial works"
+      ],
+      "date": "1883-01-01T00:00:00Z",
+      "description": null,
+      "downloads": 13008,
+      "file": "books/mobot31753002839121.pdf",
+      "source_pdf": "mobot31753002839121.pdf"
+    },
+    {
+      "identifier": "mobot31753003759229",
+      "title": "George Engelmann : botanical notebook 1",
+      "creator": "Engelmann, George,",
+      "subjects": [
+        "1809-1884",
+        "Annonaceae",
+        "Aquifoliaceae",
+        "Berberaceae",
+        "Botanical illustration",
+        "Capparaceae",
+        "Caryophyllaceae",
+        "Cistaceae",
+        "Cruciferae",
+        "Engelmann, George,",
+        "Fouquieriaceae",
+        "Geraniaceae",
+        "Hypericaceae",
+        "Identification",
+        "Linaceae",
+        "Magnoliaceae",
+        "Malvaceae",
+        "Nelumbo",
+        "Nelumbonaceae",
+        "North America",
+        "Nymphaeaceae",
+        "Papaveraceae",
+        "Plant collecting",
+        "Plants",
+        "Polygalaceae",
+        "Portulacaceae",
+        "Ranunculaceae",
+        "Rhamnaceae",
+        "Rutaceae",
+        "Sterculiaceae",
+        "Violaceae"
+      ],
+      "date": "1835-01-01T00:00:00Z",
+      "description": null,
+      "downloads": 793,
+      "file": "books/mobot31753003759229.pdf",
+      "source_pdf": "mobot31753003759229.pdf"
+    },
+    {
+      "identifier": "mobot31753003905756",
+      "title": "George Engelmann: botanical notebook 5 : Mammilariac Leuchtenbergiac Discocactusc and Melocactus",
+      "creator": "Engelmann, George",
+      "subjects": [
+        "1809-1884",
+        "Botanical+illustration",
+        "Cactaceae",
+        "Discocactus",
+        "Engelmannc+Georgec",
+        "Leuchtenbergia",
+        "Mammillaria+(Cactus)",
+        "Melocactus",
+        "North+America",
+        "Plant+collecting"
+      ],
+      "date": "1856-01-01T00:00:00Z",
+      "description": null,
+      "downloads": 250,
+      "file": "books/mobot31753003905756.pdf",
+      "source_pdf": "mobot31753003905756.pdf"
+    },
+    {
+      "identifier": "mobot31753003923940",
+      "title": "George Engelmann : botanical notebook 28 : Quercus",
+      "creator": "Engelmann, George,",
+      "subjects": [
+        "(Eugene Woldemar),",
+        "(George Washington),",
+        "(Henry Nicholas),",
+        "(John Milton),",
+        "(Joseph Hinson),",
+        "(Willaim St. Julian),",
+        "1694-1768",
+        "1699-1777",
+        "1804-1878",
+        "1806-1889",
+        "1809-1884",
+        "1822-1882",
+        "1822-1893",
+        "1826-1892",
+        "1827-1901",
+        "1829-1903",
+        "1829-1919",
+        "1831-1897",
+        "1833-1916",
+        "1840-1913",
+        "1843-1915",
+        "1843-1925",
+        "1849-1901",
+        "Bartram, John,",
+        "Bigelow, John M",
+        "Bolander, Henry N",
+        "Botanical illustration",
+        "Brandegee, Townshend Stith,",
+        "Collinson, Peter,",
+        "Commons, Albert,",
+        "Correspondence",
+        "Dawson, George Mercer,",
+        "Engelmann, George,",
+        "Fagaceae",
+        "Greene, Edward Lee,",
+        "Hall, Elihu,",
+        "Hilgard, Eugene W",
+        "Lesquereux, Leo,",
+        "Letterman, George W",
+        "Mazyck, W. St. J",
+        "Mellichamp, J. H",
+        "North America",
+        "Oak",
+        "Plant collecting",
+        "Plants",
+        "Quercus",
+        "Vasey, George,",
+        "Watson, Sereno,"
+      ],
+      "date": "1854-01-01T00:00:00Z",
+      "description": null,
+      "downloads": 337,
+      "file": "books/mobot31753003923940.pdf",
+      "source_pdf": "mobot31753003923940.pdf"
+    },
+    {
+      "identifier": "mobot31753003924146",
+      "title": "George Engelmann : botanical notebook 27 : Nyctagineae, Chenopodiaceae, Polygonaceae, Aristolochiaceae, Loranthaceae, Urticaceae, Platanaceae, Juglandaceae, Fagaceae, Betulaceae, Salicaceae",
+      "creator": "Engelmann, George,",
+      "subjects": [
+        "1800-1884",
+        "1809-1884",
+        "1826-1901",
+        "Aristolochiaceae",
+        "Bentham, George,",
+        "Betulaceae",
+        "Botanical illustration",
+        "Chenopodiaceae",
+        "Correspondence",
+        "Engelmann, George,",
+        "Fagaceae",
+        "Irvine, Clarke",
+        "Juglandaceae",
+        "Loranthaceae",
+        "Meehan, Thomas,",
+        "North America",
+        "Nyctaginaceae",
+        "Plant collecting",
+        "Plants",
+        "Platanaceae",
+        "Polygonaceae",
+        "Salicaceae",
+        "Urticaceae"
+      ],
+      "date": "1842-01-01T00:00:00Z",
+      "description": null,
+      "downloads": 226,
+      "file": "books/mobot31753003924146.pdf",
+      "source_pdf": "mobot31753003924146.pdf"
+    },
+    {
+      "identifier": "mobot31753003957997",
+      "title": "George Engelmann :botanical notebook 39 : Yucca (Agavaceae)",
+      "creator": "Engelmann, George,",
+      "subjects": [
+        "(Charles Christopher),",
+        "(Joseph Hinson),",
+        "1809-1884",
+        "1814-1875",
+        "1823-1890",
+        "1828-1910",
+        "1829-1903",
+        "Agavaceae",
+        "Asparagaceae",
+        "Botanical illustration",
+        "Brewer, William Henry,",
+        "Engelmann, George,",
+        "Mellichamp, J. H",
+        "North America",
+        "Parry, C. C",
+        "Plant collecting",
+        "Plants",
+        "Schott, Arthur,",
+        "Yucca"
+      ],
+      "date": "1862-01-01T00:00:00Z",
+      "description": null,
+      "downloads": 229,
+      "file": "books/mobot31753003957997.pdf",
+      "source_pdf": "mobot31753003957997.pdf"
+    },
+    {
+      "identifier": "mobot31753003969216",
+      "title": "George Engelmann :botanical notebook 36 : Hydrocharitaceae, Musaceae, Orchidaceae, Iridaceae, Smilaceae, Liliaceae, Xyridaceae, Commelinaceae, Palmae, Typhaceae, Sparganium, Araceae, Lemnaceae",
+      "creator": "Engelmann, George,",
+      "subjects": [
+        "1809-1884",
+        "Araceae",
+        "Botanical illustration",
+        "Commelinaceae",
+        "Correspondence",
+        "Engelmann, George,",
+        "Hough, J. B",
+        "Hydrocharitaceae",
+        "Iridaceae",
+        "Lemnaceae",
+        "Liliaceae",
+        "Musaceae",
+        "North America",
+        "Orchidaceae",
+        "Palmae",
+        "Plant collecting",
+        "Plants",
+        "Sparganium",
+        "Typhaceae",
+        "Xyridaceae"
+      ],
+      "date": "1845-01-01T00:00:00Z",
+      "description": null,
+      "downloads": 187,
+      "file": "books/mobot31753003969216.pdf",
+      "source_pdf": "mobot31753003969216.pdf"
+    },
+    {
+      "identifier": "mobot31753003969349",
+      "title": "George Engelmann : botanical notebook 6 : Echinocactus",
+      "creator": "Engelmann, George,",
+      "subjects": [
+        "1809-1884",
+        "Botanical illustration",
+        "Cactaceae",
+        "Echinocactus",
+        "Engelmann, George,",
+        "North America",
+        "Plant collecting"
+      ],
+      "date": "1846-01-01T00:00:00Z",
+      "description": null,
+      "downloads": 287,
+      "file": "books/mobot31753003969349.pdf",
+      "source_pdf": "mobot31753003969349.pdf"
+    },
+    {
+      "identifier": "mobot31753004102528",
+      "title": "George Engelmann :botanical notebook 51 : Pinus",
+      "creator": "Engelmann, George,",
+      "subjects": [
+        "1809-1884",
+        "Botanical illustration",
+        "Engelmann, George,",
+        "North America",
+        "Pinaceae",
+        "Pinus",
+        "Plant collecting",
+        "Plants"
+      ],
+      "date": "1858-01-01T00:00:00Z",
+      "description": null,
+      "downloads": 227,
+      "file": "books/mobot31753004102528.pdf",
+      "source_pdf": "mobot31753004102528.pdf"
+    },
+    {
+      "identifier": "mobot31753004102684",
+      "title": "George Engelmann :botanical notebook 53 : Pinus",
+      "creator": "Engelmann, George,",
+      "subjects": [
+        "(Alvan Wentworth),",
+        "(Charles Christopher),",
+        "(Eugene Woldemar),",
+        "(Henry Nicholas),",
+        "(John Gill),",
+        "(Joseph Hinson),",
+        "1807-1879",
+        "1809-1884",
+        "1809-1899",
+        "1823-1890",
+        "1829-1903",
+        "1831-1897",
+        "1831-1920",
+        "1832-1908",
+        "1833-1915",
+        "1833-1916",
+        "1841-1927",
+        "1843-1920",
+        "1845-1907",
+        "Austin, E. P",
+        "Beccari, Odoardo,",
+        "Bolander, Henry N",
+        "Botanical illustration",
+        "Chapman, A. W",
+        "Correspondence",
+        "Curtiss, Allen Hiram,",
+        "Engelmann, George,",
+        "Feay, William T.,",
+        "Gillman, Henry,",
+        "Hilgard, Eugene W",
+        "Lemmon, J. G",
+        "Macoun, John,",
+        "Mears, Ellis",
+        "Mellichamp, J. H",
+        "North America",
+        "Parry, C. C",
+        "Pinaceae",
+        "Pinus",
+        "Plant collecting",
+        "Plants",
+        "Sargent, Charles Sprague,"
+      ],
+      "date": "1853-01-01T00:00:00Z",
+      "description": null,
+      "downloads": 245,
+      "file": "books/mobot31753004102684.pdf",
+      "source_pdf": "mobot31753004102684.pdf"
+    },
+    {
+      "identifier": "mobot31753004103559",
+      "title": "George Engelmann :botanical notebook 57 : Juniperus",
+      "creator": "Engelmann, George,",
+      "subjects": [
+        "(Charles Christopher),",
+        "(Henry Nicholas),",
+        "1785-1865",
+        "1809-1884",
+        "1811-1885",
+        "1823-1890",
+        "1826-1892",
+        "1828-1910",
+        "1831-1897",
+        "1833-1915",
+        "1836-1897",
+        "Bendire, Charles,",
+        "Bolander, Henry N",
+        "Botanical illustration",
+        "Brewer, William Henry,",
+        "Correspondence",
+        "Cupressaceae",
+        "Engelmann, George,",
+        "Gillman, Henry,",
+        "Hooker, William Jackson,",
+        "Juniperus",
+        "North America",
+        "Parry, C. C",
+        "Plant collecting",
+        "Plants",
+        "Sir,",
+        "Watson, Sereno,",
+        "Wright, Charles,"
+      ],
+      "date": "1850-01-01T00:00:00Z",
+      "description": null,
+      "downloads": 238,
+      "file": "books/mobot31753004103559.pdf",
+      "source_pdf": "mobot31753004103559.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc_blackerwood_watercolour-painting-st-domingo_folioM9725R11_v3-20184",
+      "title": "Original water-colour paintings on the natural history of St. Domingo : with mo. notes",
+      "creator": "Rabié, de, -1785",
+      "subjects": [
+        "Zoological illustration.",
+        "Birds -- Santo Domingo -- Pictorial works.",
+        "Watercolor painting.",
+        "McGill University Library Digitized Title",
+        "Rare Books and Special Collections - Blacker-Wood Illustrations Collection",
+        "Zoological illustration",
+        "Birds -- Santo Domingo -- Pictorial works",
+        "Watercolor painting",
+        "Birds"
+      ],
+      "date": "1766-01-01T00:00:00Z",
+      "description": "4 volumes",
+      "downloads": 681,
+      "file": "books/McGillLibrary-rbsc_blackerwood_watercolour-painting-st-domingo_folioM9725R11_v3-20184.pdf",
+      "source_pdf": "rbsc_blackerwood_watercolour-painting-st-domingo_folioM9725R11_v3.pdf"
+    },
+    {
+      "identifier": "oeuvrescompletesd071775buff",
+      "title": "Œuvres complètes de M. le C[om]te de Buffon ... : histoire des animaux quadrupèdes",
+      "creator": [
+        "Buffon, Georges Louis Leclerc, comte de, 1707-1788",
+        "John Adams Library (Boston Public Library) BRL",
+        "Adams, John, 1735-1826, former owner"
+      ],
+      "subjects": [
+        "Natural history",
+        "Animals",
+        "Zoological illustration -- France Early works to 1800",
+        "Zoological illustration -- France",
+        "Natural history illustration -- France",
+        "Illustration of books -- France 18th century"
+      ],
+      "date": "1775-01-01T00:00:00Z",
+      "description": "John Adams Library copy incomplete: wanting v. 1, 6, 10-13.",
+      "downloads": 1854,
+      "file": "books/oeuvrescompletesd071775buff.pdf",
+      "source_pdf": "oeuvrescompletesd071775buff.pdf"
+    },
+    {
+      "identifier": "oeuvrescompletesd051775buff",
+      "title": "Œuvres complètes de M. le C[om]te de Buffon ... : histoire des animaux quadrupèdes",
+      "creator": [
+        "Buffon, Georges Louis Leclerc, comte de, 1707-1788",
+        "John Adams Library (Boston Public Library) BRL",
+        "Adams, John, 1735-1826, former owner"
+      ],
+      "subjects": [
+        "Natural history",
+        "Animals",
+        "Zoological illustration -- France Early works to 1800",
+        "Zoological illustration -- France",
+        "Natural history illustration -- France",
+        "Illustration of books -- France 18th century"
+      ],
+      "date": "1775-01-01T00:00:00Z",
+      "description": "John Adams Library copy incomplete: wanting v. 1, 6, 10-13.",
+      "downloads": 2245,
+      "file": "books/oeuvrescompletesd051775buff.pdf",
+      "source_pdf": "oeuvrescompletesd051775buff.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc_blackerwood_watercolour-painting-st-domingo_folioM9725R11_v2-20185",
+      "title": "Original water-colour paintings on the natural history of St. Domingo : with mo. notes",
+      "creator": "Rabié, de, -1785",
+      "subjects": [
+        "Zoological illustration.",
+        "Birds -- Santo Domingo -- Pictorial works.",
+        "Watercolor painting.",
+        "McGill University Library Digitized Title",
+        "Rare Books and Special Collections - Blacker-Wood Illustrations Collection",
+        "Zoological illustration",
+        "Birds -- Santo Domingo -- Pictorial works",
+        "Watercolor painting",
+        "Birds"
+      ],
+      "date": "1766-01-01T00:00:00Z",
+      "description": "4 volumes",
+      "downloads": 560,
+      "file": "books/McGillLibrary-rbsc_blackerwood_watercolour-painting-st-domingo_folioM9725R11_v2-20185.pdf",
+      "source_pdf": "rbsc_blackerwood_watercolour-painting-st-domingo_folioM9725R11_v2.pdf"
+    },
+    {
+      "identifier": "engravingsoflion00land",
+      "title": "Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer",
+      "creator": "Landseer, Thomas, 1795-1880",
+      "subjects": [
+        "Landseer, Thomas, 1795-1880",
+        "Landseer, Edwin, Sir, 1802-1873",
+        "Animals -- Pictorial works",
+        "Zoological illustration",
+        "Animals"
+      ],
+      "date": "1853-01-01T00:00:00Z",
+      "description": [
+        "[4], 28 pages, 39 leaves of plates (including frontispiece) : 34 cm",
+        "The frontispiece is the engraved t.p. of an earlier work: \"Twenty engravings of lions, tigers, panthers & leopards by Tho. Landseer from originals by Stvbbs, Rvbens, Spilsbvry, Rembrant, Reydinger & Edwin Landseer, with an essay on the Carnivora by J. Landseer, 1823.\" The 20 engravings form the first 20 plates of the present work"
+      ],
+      "downloads": 1000,
+      "file": "books/engravingsoflion00land.pdf",
+      "source_pdf": "engravingsoflion00land.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc_blackerwood_watercolour-painting-st-domingo_folioM9725R11_v4-20154",
+      "title": "Original water-colour paintings on the natural history of St. Domingo : with mo. notes",
+      "creator": "Rabié, de, -1785",
+      "subjects": [
+        "Zoological illustration.",
+        "Birds -- Santo Domingo -- Pictorial works.",
+        "Watercolor painting.",
+        "McGill University Library Digitized Title",
+        "Rare Books and Special Collections - Blacker-Wood Illustrations Collection",
+        "Zoological illustration",
+        "Birds -- Santo Domingo -- Pictorial works",
+        "Watercolor painting",
+        "Birds"
+      ],
+      "date": "1766-01-01T00:00:00Z",
+      "description": "4 volumes",
+      "downloads": 527,
+      "file": "books/McGillLibrary-rbsc_blackerwood_watercolour-painting-st-domingo_folioM9725R11_v4-20154.pdf",
+      "source_pdf": "rbsc_blackerwood_watercolour-painting-st-domingo_folioM9725R11_v4.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc_blackerwood_watercolour-painting-st-domingo_folioM9725R11_v1-20186",
+      "title": "Original water-colour paintings on the natural history of St. Domingo : with mo. notes",
+      "creator": "Rabié, de, -1785",
+      "subjects": [
+        "Zoological illustration.",
+        "Birds -- Santo Domingo -- Pictorial works.",
+        "Watercolor painting.",
+        "McGill University Library Digitized Title",
+        "Rare Books and Special Collections - Blacker-Wood Illustrations Collection",
+        "Zoological illustration",
+        "Birds -- Santo Domingo -- Pictorial works",
+        "Watercolor painting",
+        "Birds"
+      ],
+      "date": "1766-01-01T00:00:00Z",
+      "description": "4 volumes",
+      "downloads": 937,
+      "file": "books/McGillLibrary-rbsc_blackerwood_watercolour-painting-st-domingo_folioM9725R11_v1-20186.pdf",
+      "source_pdf": "rbsc_blackerwood_watercolour-painting-st-domingo_folioM9725R11_v1.pdf"
+    },
+    {
+      "identifier": "yamanosachi1and2moto",
+      "title": "Yama no sachi",
+      "creator": [
+        "Katsuma, Ryusui, 1697-1773",
+        "Shukoku, 1711-1796"
+      ],
+      "subjects": [
+        "Flowers in art",
+        "Insects in art",
+        "Plants in art",
+        "Botanical illustration -- Japan",
+        "Zoological illustration -- Japan",
+        "Botanical illustration",
+        "Zoological illustration",
+        "Japan"
+      ],
+      "date": "1765-01-01T00:00:00Z",
+      "description": [
+        "2 v. : 30 cm",
+        "Title from title piece (v.1)",
+        "\"Umi no sachi, Yama no sachi\"--Title piece mounted on case",
+        "Within single border (23.8 x 17.2 cm)",
+        "On double leaves (reinforced with lining paper), oriental style (fukurotoji)"
+      ],
+      "downloads": 4083,
+      "file": "books/yamanosachi1and2moto.pdf",
+      "source_pdf": "yamanosachi1and2moto.pdf"
+    },
+    {
+      "identifier": "uminosachi1and2hong",
+      "title": "Umi no sachi",
+      "creator": [
+        "Katsuma, Ryusui, 1697-1773",
+        "Shukoku, 1711-1796"
+      ],
+      "subjects": [
+        "Fishes in art",
+        "Fishes",
+        "Shellfish",
+        "Zoological illustration"
+      ],
+      "date": "1762-01-01T00:00:00Z",
+      "description": [
+        "Title from title piece mounted on case: Umi no sachi, Yama no sachi",
+        "Includes haiku with each picture",
+        "Each picture on two open pages with no borders",
+        "On double leaves (reinforced with lining paper), oriental style (fukurotoji)",
+        "Library's set wormed, with loss of text",
+        "Library's set housed with: Yama no sachi"
+      ],
+      "downloads": 1766,
+      "file": "books/uminosachi1and2hong.pdf",
+      "source_pdf": "uminosachi1and2hong.pdf"
+    },
+    {
+      "identifier": "scenesofanimalli00blac",
+      "title": "Scenes of animal life & character from nature & recollection",
+      "creator": "Blackburn, Jemima, 1823-1909",
+      "subjects": [
+        "Zoological illustration",
+        "Animals",
+        "Zoo animals"
+      ],
+      "date": "1858-01-01T00:00:00Z",
+      "description": [
+        "By Jemima Blackburn; cf. Fairley. Jemima. 1988. Cover design also by J. Blackburn",
+        "Illustrations are signed J.B.; dated variously between 1842-1858",
+        "Date from BM. Author cited as Mrs. J.B. Blackburne and date as 1862 in Dict. of Anon. and Pseud. Eng. Lit., vol. V, p. 176"
+      ],
+      "downloads": 2374,
+      "file": "books/scenesofanimalli00blac.pdf",
+      "source_pdf": "scenesofanimalli00blac.pdf"
+    },
+    {
+      "identifier": "gri_33125008533479",
+      "title": "L'anatomie : necessaire pour l'usage du dessein",
+      "creator": "Bouchardon, Edme, 1698-1762",
+      "subjects": [
+        "Human anatomy -- Early works to 1800",
+        "Human anatomy -- Atlases -- Early works to 1800",
+        "Anatomy, Artistic -- Early works to 1800"
+      ],
+      "date": "1787-01-01T00:00:00Z",
+      "description": [
+        "[16] leaves : 50 cm",
+        "Publication date based on article by Monique Kornell in Getty research journal, no. 8, 2016, pages 39-54",
+        "Engraved title-page; engraved explanatory table; 14 full-page engraved plates. The drawings were done partly by Edme and partly by Jacques Philippe Bouchardon; edited and engraved by Jacques Gabriel Huquier"
+      ],
+      "downloads": 414,
+      "file": "books/gri_33125008533479.pdf",
+      "source_pdf": "gri_33125008533479.pdf"
+    },
+    {
+      "identifier": "illustrationsdi00elligoog",
+      "title": "Illustrations of dissections in a series of original colored plates, the size of life, representing the dissection of the human body",
+      "creator": "Ellis, George Viner, 1812-1900",
+      "subjects": [
+        "Human anatomy -- Atlases",
+        "Human dissection -- Atlases",
+        "Anatomy",
+        "Dissection",
+        "Human anatomy",
+        "Human dissection"
+      ],
+      "date": "1882-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+        "2 volumes",
+        "Will not digitize 20130919",
+        "Includes bibliographical references and index"
+      ],
+      "downloads": 567,
+      "file": "books/illustrationsdi00elligoog.pdf",
+      "source_pdf": "illustrationsdi00elligoog.pdf"
+    },
+    {
+      "identifier": "04989856.5935.emory.edu",
+      "title": "A System of the anatomy of the human body : illustrated by upwards of two hundred tables, taken partly from the most celebrated authors, and partly from nature",
+      "creator": "Fyfe, Andrew, 1754-1824",
+      "subjects": [
+        "Human anatomy--Atlases",
+        "Anatomy",
+        "Animal Structures"
+      ],
+      "date": "1814-01-01T00:00:00Z",
+      "description": "Language: English Physical Type/Description: 3 volumes, 252 color plates : illustrations ; 32 cm Source of Acquisition: Purchase, Harris Collection, 1926. General Note: Etchings by W. & D. Lizars, Edinr., lithographs by R. Cooper and A. Fyfe, aquatints by A. Fyfe. Local Note: The online edition of this book in the public domain, i.e., not protected by copyright, has been produced by the Emory University Digital Library Publications Program. HEALTH: Added as part of 2008 Rare Book Project.    Additional Physical Form: Also available online. Ownership and Custodial History: \"C. Widmer,\" former owner's name inscribed on title pages. Binding Note: Early 20th-century library binding with green cloth, gold stamping on spine, printed endpapers.",
+      "downloads": 1482,
+      "file": "books/04989856.5935.emory.edu.pdf",
+      "source_pdf": "04989856_5935.pdf"
+    },
+    {
+      "identifier": "gri_33125010894851",
+      "title": "Surgical anatomy",
+      "creator": "Maclise, Joseph",
+      "subjects": [
+        "Anatomy, Surgical and topographical",
+        "Human anatomy -- Atlases"
+      ],
+      "date": "1851-01-01T00:00:00Z",
+      "description": [
+        "xii, 9-156 p., 68 leaves of plates : 38 cm. (fol.)",
+        "Legend of plate 1 reads: T. Sinclair's lith. 101 Chesnut [sic] St. Phila",
+        "Text in columns",
+        "Includes bibliographical references"
+      ],
+      "downloads": 491,
+      "file": "books/gri_33125010894851.pdf",
+      "source_pdf": "gri_33125010894851.pdf"
+    },
+    {
+      "identifier": "cu31924024788592",
+      "title": "Dissections illustrated : a graphic handbook for students of human anatomy",
+      "creator": "Brodie, Charles Gordon",
+      "subjects": [
+        "Dissection",
+        "Human anatomy",
+        "Human anatomy -- Atlases"
+      ],
+      "date": "1892-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "Includes bibliographical references",
+        "pt.1. The upper limb -- pt.2. The lower limb -- pt.3. The head, neck, & thorax -- pt.4. The abdomen",
+        "iv, 142 p., 73 leaves of plates : 29 cm"
+      ],
+      "downloads": 496,
+      "file": "books/cu31924024788592.pdf",
+      "source_pdf": "cu31924024788592.pdf"
+    },
+    {
+      "identifier": "b30448384",
+      "title": "Graphotomie humaine : recueil lithographique représentant l'anatomie de l'homme anatomie topographique",
+      "creator": "Barré, A. P",
+      "subjects": [
+        "Human anatomy -- Atlases",
+        "Anatomy",
+        "Human anatomy"
+      ],
+      "date": "1826-01-01T00:00:00Z",
+      "description": [
+        "4 unnumbered pages, 40 unnumbered leaves of plates : 33 cm (4to)",
+        "Text entirely lithographed, including t.p. and Avant-propos",
+        "Printed at the lithographic press of Alois Senefelder"
+      ],
+      "downloads": 407,
+      "file": "books/b30448384.pdf",
+      "source_pdf": "b30448384.pdf"
+    },
+    {
+      "identifier": "grundrissderana03henlgoog",
+      "title": "Grundriss der Anatomie des Menschen",
+      "creator": "Henle, Jacob, 1809-1885",
+      "subjects": [
+        "Human anatomy",
+        "Human anatomy -- Atlases",
+        "Anatomy"
+      ],
+      "date": "1883-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+        "2 volumes 24 cm",
+        "[Bd. 1] Text.--[Bd. 2] Atlas"
+      ],
+      "downloads": 1295,
+      "file": "books/grundrissderana03henlgoog.pdf",
+      "source_pdf": "grundrissderana03henlgoog.pdf"
+    },
+    {
+      "identifier": "tabulaeanatomica00eust",
+      "title": "Tabulae anatomicae clarissimi viri Bartholomaei Eustachii quas ... praefatione notisque illustravit ... Jo. Maria Lancisius ...",
+      "creator": "Eustachi, Bartolomeo, d. 1574",
+      "subjects": "Human anatomy--Atlases--Early works to 1800",
+      "date": "1722-01-01T00:00:00Z",
+      "description": "Additional Title Page Displays: \"Eustachii Anatomia.\" Contains 8 foldouts.",
+      "downloads": 975,
+      "file": "books/tabulaeanatomica00eust.pdf",
+      "source_pdf": "tabulaeanatomica00eust.pdf"
+    },
+    {
+      "identifier": "anatomyarteries00quaigoog",
+      "title": "The anatomy of the arteries of the human body, with its applications to pathology and operative surgery : in lithographic drawings with practical commentaries",
+      "creator": "Quain, Richard, 1800-1887",
+      "subjects": [
+        "artery",
+        "plate",
+        "branches",
+        "figure",
+        "arteries",
+        "origin",
+        "iliac",
+        "branch",
+        "usual",
+        "anterior",
+        "left side",
+        "external iliac",
+        "upper margin",
+        "usual disposition",
+        "common iliac",
+        "internal iliac",
+        "vena cava",
+        "inner side",
+        "radial artery",
+        "lower margin",
+        "Anatomy -- Atlases",
+        "Arteries -- Atlases",
+        "Arteries -- anatomy & histology",
+        "Blood Vessels -- anatomy & histology",
+        "Anatomy",
+        "Arteries"
+      ],
+      "date": "1844-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.",
+        "xv, 550 p. and atlas (87 plates in portfolio) : 67 cm",
+        "NLM copy imperfect: letterpress vol. missing",
+        "Will digitize 20180912",
+        "Includes bibliographical references and index"
+      ],
+      "downloads": 626,
+      "file": "books/anatomyarteries00quaigoog.pdf",
+      "source_pdf": "anatomyarteries00quaigoog.pdf"
+    },
+    {
+      "identifier": "lechevalexterieu00alix",
+      "title": "Le cheval : extérieur (régions, pied, proportions, aplombs, allures, age, aptitudes, robes, tares, vices, vente et achat, examen des œuvres d'art équestre, etc.), structure et fonctions (situation, rapports, structure anatomique et rôle physiologique de chaque organe), races (origine, divisions, caractères, production et amélioration) : XVI planches coloriées, découpées et superposées",
+      "creator": "Alix, Eugène",
+      "subjects": [
+        "Horses -- Anatomy -- Atlases",
+        "Horse breeds",
+        "Horses -- Paces, gaits, etc",
+        "Chevaux -- Anatomie -- Atlas",
+        "Chevaux -- Races",
+        "Chevaux -- Allures",
+        "Horses"
+      ],
+      "date": "1886-01-01T00:00:00Z",
+      "description": [
+        "2 volumes : 29 cm",
+        "At head of title: E. Cuyer et E. Alix",
+        "Paginations: texte: xxiv, 703 pages; atlas: 44, [4] pages, 16 leaves of plates",
+        "\"Dessins d'après nature par Edouard Cuyer, texte par Eugène Alix, préface par Mathias Duval\"--Atlas",
+        "Atlas has XVI colored plates. Most plates have superimposed movable parts. Plates signed: Ed. Cuyer, del. et pinx.; Imp. Lemercier & Cie., Paris",
+        "Plate VI and its separate parts (to determine horses' gait) are in pocket of Atlas",
+        "\"L'ouvrage a été publié en 8 livraisons\"--Catalogue général de la librairie française, t. 12, p. 12",
+        "Includes bibliographical references",
+        "Texte -- Atlas"
+      ],
+      "downloads": 366,
+      "file": "books/lechevalexterieu00alix.pdf",
+      "source_pdf": "lechevalexterieu00alix.pdf"
+    },
+    {
+      "identifier": "EssaiDanatomie",
+      "title": "Essai d'Anatomie",
+      "creator": "Gautier Dagoty, 1717-1785.",
+      "subjects": [
+        "Head--Anatomy--Atlases",
+        "Neck--Anatomy--Atlases",
+        "Anatomy--Atlases"
+      ],
+      "date": "1745-01-01T00:00:00Z",
+      "description": "The \"Essai d'Anatomie\" was produced by Gautier D'Agoty in 1745 in Paris, France. It is a remarkably detailed atlas of the head, neck, and shoulder areas of the human body with explanatory text in French. The anatomical images were based on human cadavers dissected by Joseph Duverney (1) and produced using the mezzotint method of engraving and printing. Mezzotint color engraving printing was invented by Jaques Christophe Le Blon in 1719. Mezzotint (from the Italian phrase \"mezza tina\" or \"half tone\") prints are produced by engraving a metal plate with numerous small holes that hold ink. When used to make a print, the engraved plate produces large areas of subtle shaded color tones. Since the mezzotint technique is quite labor-intensive, it fell out of favor by the 20th century, although it is still utilized by some artists. Most often used to reproduce paintings by famous artists, mezzotint printing was rarely used for original works of art (2), making the \"Essai d'Anatomie\" a work of great scientific and artistic significance. The original copy of the \"Essai d'Anatomie\" held by the Rudolph Matas Library of the Health Sciences at Tulane University was restored, bound, and digitized by William Kitchens. The restoration work was completed on May 6, 2008. These remarkable anatomical images from the 18th century provide a fascinating look into both the artistic and scientific climate of the period. References: 1. Christie's. (2011). GAUTIER D'AGOTY, Jacques (1717-1786) and Joseph Guichard DUVERNEY. Essai d'Anatomie, en Tableaux imprimes, qui represent au naturel tous les muscles de la face, du col, de la tete, de la langue & du larynx... -- Myologie complette en couleur et grandeur naturelle, compose de l'essai et de la suite de l'essai d'anatomie, en tableaux imprimes. Paris: Gautier [vol. I]; Gautier, Quillau pre et fils, and Lamesle [vol. II], 1745-46-[48]. | Books & Manuscripts Auction. Retrieved June 14, 2011, from http://www.christies.com/LotFinder/lot_details.aspx?intObjectID=4959941. 2. mezzotint. (2011). In Encyclopaedia Britannica. Retrieved June 14, 2011, from http://www.britannica.com/EBchecked/topic/379559/mezzotint.",
+      "downloads": 3267,
+      "file": "books/EssaiDanatomie.pdf",
+      "source_pdf": "Essai_d_Anatomie_1754.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-osl_system-anatomical-plate_elfL78924sa1840-22358",
+      "title": "A system of anatomical plates of the human body : accompanied with descriptions, and physiological, pathological, and surgical observations",
+      "creator": "Lizars, John, 1787?-1860",
+      "subjects": [
+        "Human anatomy -- Atlases.",
+        "Anatomy.",
+        "Anatomy",
+        "Animal Structures",
+        "Anatomie humaine -- Atlas.",
+        "Anatomie.",
+        "McGill University Library Digitized Title",
+        "Robertson Collection - By Consultation L78924sa 1840",
+        "Human anatomy -- Atlases",
+        "Anatomie humaine -- Atlas",
+        "Anatomie",
+        "anatomy",
+        "Human anatomy"
+      ],
+      "date": "1840-01-01T00:00:00Z",
+      "description": [
+        "xxii, 241, xxxvi pages, 101 leaves of plates : illustrations ; 44 cm",
+        "xxii, 241, xxxvi pages, 101 leaves of plates : 44 cm",
+        "Hand-colored plates",
+        "Engravings by W.H. Lizars",
+        "Includes indexes",
+        "Bones -- Blood vessels and nerves -- Blood vessels and nerves -- Muscles of the trunk -- Muscles and joints of the upper and lower extremities -- Muscles and joints of the lower extremity -- Brain, first portion -- Brain, second and concluding portion -- Organs of the sense, &c. -- Organs of sense, and viscera of the thorax and abdomen -- Abdominal viscera, together with the male and female organs of generation -- Gravid uterus and lymphatics"
+      ],
+      "downloads": 195,
+      "file": "books/McGillLibrary-osl_system-anatomical-plate_elfL78924sa1840-22358.pdf",
+      "source_pdf": "osl_system-anatomical-plate_elfL78924sa1840.pdf"
+    },
+    {
+      "identifier": "anatomicalplates00hooprich",
+      "title": "Anatomical plates of the bones and muscles : diminished from Albinus, for the use of students in anatomy, and artists : accompanied by explanatory maps",
+      "creator": [
+        "Hooper, Robert, 1773-1835",
+        "Albinus, Bernhard Siegfried, 1697-1770"
+      ],
+      "subjects": [
+        "Musculoskeletal system -- Anatomy Atlases",
+        "Human anatomy -- Atlases"
+      ],
+      "date": "1807-01-01T00:00:00Z",
+      "description": [
+        "32 p., [23] leaves of plates : 16 cm",
+        "Publisher's advertisements: p. 28-32"
+      ],
+      "downloads": 2703,
+      "file": "books/anatomicalplates00hooprich.pdf",
+      "source_pdf": "anatomicalplates00hooprich.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-osl_anatomie-gladiateur_elfNCS182a1812-17719",
+      "title": "Anatomie du gladiateur combattant, applicable aux beaux arts, ou : Traité des os, des muscles, du mécanisme des mouvemens, des proportions et des caractères du corps humain ; ouvrage orné de 22 planches",
+      "creator": [
+        "Salvage, Jean-Galbert, 1770-1813, author",
+        "Bosq, Jean, engraver",
+        "Leroux, Jean Marie, 1788-1870, engraver",
+        "Utkin, Nikolaĭ Ivanovich, 1780-1863, engraver",
+        "Wolfsheimer, Isaak, active 19th century, engraver"
+      ],
+      "subjects": [
+        "Human anatomy -- Atlases.",
+        "Anatomy, Artistic.",
+        "Human figure in art -- Atlases.",
+        "Anatomy.",
+        "Atlases.",
+        "McGill University Library Digitized Title",
+        "Osler - Room",
+        "Human anatomy",
+        "Anatomy, Artistic",
+        "Human figure in art",
+        "Anatomy"
+      ],
+      "date": "1812-01-01T00:00:00Z",
+      "description": [
+        "4 unnumbered pages, iv, 61, 3 unnumbered pages, 2 unnumbered leaves of plates, 20 leaves of plates : illustrations ; 63 cm",
+        "With a half-title. Verso of half-title has a list of three booksellers in Paris where this title may be obtained",
+        "Introductory plate, and plates 1-15 are printed in black and red/brown ink",
+        "Engraved frontispiece signed by Leroux (sculp.); plates 1 and 19, signed by N. Outkine Pente. de Russie, sculp.; plates 16 and 17, signed by Wolffsheimer (sculp.); plate 18, signed by Doréz (sculp.); other plates signed by Bosq. (sculp.)",
+        "Errata page 62",
+        "Includes bibliographical references",
+        "Copy in McGill Library's Osler Library of the History of Medicine, Room Collection copy: purchased from Dieter Schierenberg b.v",
+        "Copy in McGill Library's Osler Library of the History of Medicine, Room Collection copy: former owner’s armorial bookplate on front pastedown, Bibliothèque de M. De Barante (established by successive generations of the Brugière family, originally from Thiers); accession number ticket (No. 4741) on back pastedown",
+        "Copy in McGill Library's Osler Library of the History of Medicine, Room Collection copy: former owner’s rubber stamp on introductory plate, and plates 5-7,11,15",
+        "Copy in McGill Library's Osler Library of the History of Medicine, Room Collection copy: green paper boards; reinforced spine and tips with green tape; red leather spine title label; spine gilt lettering and tooling faded; edges bumped; rough cut; minimal foxing, worming; guard sheets lacking for frontispiece, introductory plate, and plates 16-19"
+      ],
+      "downloads": 1310,
+      "file": "books/McGillLibrary-osl_anatomie-gladiateur_elfNCS182a1812-17719.pdf",
+      "source_pdf": "osl_anatomie-gladiateur_elfNCS182a1812.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-osl_elf_surgical-anatomy_maclise_elfWOM1655s1851-20096",
+      "title": "Surgical anatomy",
+      "creator": "Maclise, Joseph",
+      "subjects": [
+        "Human anatomy -- Atlases.",
+        "Anatomy, Surgical and topographical -- Atlases.",
+        "Surgery -- Atlases.",
+        "Anatomy.",
+        "General Surgery.",
+        "Surgery",
+        "Anatomical atlases",
+        "Atlas.",
+        "McGill University Library Digitized Title",
+        "Osler - Robertson Collection",
+        "Human anatomy -- Atlases",
+        "Anatomy, Surgical and topographical -- Atlases",
+        "Surgery -- Atlases",
+        "Anatomy",
+        "General Surgery",
+        "Anatomy, Surgical and topographical",
+        "Human anatomy"
+      ],
+      "date": "1851-01-01T00:00:00Z",
+      "description": [
+        "1 volume (unpaged) illustrations",
+        "1 volume (unpaged)",
+        "Includes bibliographical references"
+      ],
+      "downloads": 454,
+      "file": "books/McGillLibrary-osl_elf_surgical-anatomy_maclise_elfWOM1655s1851-20096.pdf",
+      "source_pdf": "osl_elf_surgical-anatomy_maclise_elfWOM1655s1851.pdf"
+    },
+    {
+      "identifier": "b21691186_0002",
+      "title": "Atlas d'anatomie descriptive du corps humain",
+      "creator": [
+        "Broca Paul, 1824-1880",
+        "Beau, Émile, 1810-",
+        "Bonamy Constantin Louis, b.1812",
+        "Royal College of Physicians of Edinburgh"
+      ],
+      "subjects": "Anatomy - atlases",
+      "date": "1866-01-01T00:00:00Z",
+      "description": [
+        "Royal College of Physicians of Edinburgh",
+        "Cont: Ptie. 1. Ostéologie, syndesmologie, myologie -- ptie. 2. Coeur, artères, veines, vaisseaux lymphatiques et aponévroses -- ptie. 3. Appareil de la digestion, appareil surrénal, rein -- ptie. 4. Appareil génito-urinaire, organes de la respiration",
+        "This material has been provided by the Royal College of Physicians of Edinburgh. The original may be consulted at the Royal College of Physicians of Edinburgh"
+      ],
+      "downloads": 355,
+      "file": "books/b21691186_0002.pdf",
+      "source_pdf": "b21691186_0002.pdf"
+    },
+    {
+      "identifier": "05687852.5871.emory.edu",
+      "title": "Anatomical atlas : illustrative of the structure of the human body",
+      "creator": [
+        "Smith, Henry H. 1815-1890. (Henry Hollingsworth)",
+        "Horner, William E. (William Edmonds), 1793-1853. Special anatomy and histology"
+      ],
+      "subjects": [
+        "Human anatomy",
+        "Anatomy",
+        "Human anatomy--Atlases"
+      ],
+      "date": "1845-01-01T00:00:00Z",
+      "description": [
+        "General Note: One page of publisher's advertisements following text. Half-title: Anatomical plates. \"An accompaniment to the text of the work entitled, 'Special Anatomy and Histology, by Wm. E. Horner, M.D.'\" Includes \"original drawings, from specimens furnished by the beautiful Anatomical Museum of the University of Pennsylvania. In these instances the cut is marked Wistar Museum, or W.M. ... The original drawings, as well as those which are copies in a reduced form, are from the pencils of Messrs. Pinkerton, French, and Weaver, gentlemen now most favourably known in this department of Anatomy. ... [T]he engravings are in Mr. Gilbert's best style ... \"--Preface (page [7]). \"Entered, according to the Act of Congress, in the year 1843, by Lea and Blanchard, in the clerk's office of the District Court of the United States, for the Eastern District of Pennsylvania.\"--Title page verso. ",
+        "Local Note: The online edition of this book in the public domain, i.e., not protected by copyright, has been produced by the Emory University Digital Library Publications Program. HEALTH: Added as part of 2008 Rare Book Project.",
+        "Ownership and Custodial History: Autograph on front pastedown (mostly covered by A.W. Calhoun Medical Library bookplate): \"Dr. John Lawrence.\" \"From H. Banning to C.E. Bryant\" penciled on flyleaf. Embossed seal of E.B. Lippett, druggist and dealer in books & stationery, Mt. Vernon, O. on flyleaf. \"H.B. Banning\" inscribed on front and back cover boards.",
+        "Binding Note: Bound in dark brown line-grain cloth with blind-stamped boards, gold stamping on front cover board and spine, cream-colored endpapers. Surface of cover boards worn, spine cover damaged."
+      ],
+      "downloads": 1221,
+      "file": "books/05687852.5871.emory.edu.pdf",
+      "source_pdf": "05687852_5871.pdf"
+    },
+    {
+      "identifier": "anatomicalplates00rannuoft",
+      "title": "Anatomical plates, arranged as a companion volume for \"The essentials of anatomy\"",
+      "creator": "Ranney, Ambrose L. (Ambrose Loomis), 1848-1905",
+      "subjects": "Anatomy -- Atlases",
+      "date": "1881-01-01T00:00:00Z",
+      "description": "14",
+      "downloads": 1914,
+      "file": "books/anatomicalplates00rannuoft.pdf",
+      "source_pdf": "anatomicalplates00rannuoft.pdf"
+    },
+    {
+      "identifier": "handatlashumananatomy1923v1",
+      "title": "Hand-atlas of human anatomy",
+      "creator": "Spalteholz, Werner, 1861-1940",
+      "subjects": [
+        "anatomy",
+        "Human anatomy -- Atlases",
+        "Anatomie -- Atlas",
+        "Human anatomy",
+        "Anatomy"
+      ],
+      "date": "1923-01-01T00:00:00Z",
+      "description": [
+        "anatomy",
+        "3 volumes 26 cm",
+        "I. Bones, joints, ligaments.-II. Regions, muscles, fasciae, heart, blood-vessels.-III. Viscera, brain, nerves, sense-organs"
+      ],
+      "downloads": 226,
+      "file": "books/handatlashumananatomy1923v1.pdf",
+      "source_pdf": "handatlashumananatomy1923v1.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-osl_furesu-kaibozu_ROBE-45_atlas-21736",
+      "title": "Furesu kaibōzu Atlas",
+      "creator": "Fles, Joseph Alexander, 1819-1905, author",
+      "subjects": [
+        "Anatomy, Artistic.",
+        "Human anatomy.",
+        "Human anatomy -- Atlases.",
+        "Medical illustration.",
+        "Anatomy, Artistic",
+        "Medical Illustration",
+        "Anatomie artistique.",
+        "Anatomie humaine.",
+        "Anatomie humaine -- Atlas.",
+        "Illustration médicale.",
+        "McGill University Library Digitized Title",
+        "Human anatomy",
+        "Human anatomy -- Atlases",
+        "Medical illustration",
+        "Anatomie artistique",
+        "Anatomie humaine",
+        "Anatomie humaine -- Atlas",
+        "Illustration médicale",
+        "East Asian Language Works Project"
+      ],
+      "date": "1872-01-01T00:00:00Z",
+      "description": [
+        "56 unnumbered pages : all illustrations ; 22 cm + 1 commentary",
+        "56 unnumbered pages : 22 cm +",
+        "Translation of: Handleiding tot de stelselmatig beschrijvende ontleedkunde van den mensch / Joseph Alexander Fles. Utrecht, 1855",
+        "\"Shishisai zōhan\"--Page [2] of cover (mikaeshi)",
+        "Title from lining paper",
+        "In accordion binding (orihon)",
+        "Accompanied by 1 folding book entitled: Furesu kaibōzu / Naka Kin'ya yakujutsu ; Aono Sanshū tesugō"
+      ],
+      "downloads": 284,
+      "file": "books/McGillLibrary-osl_furesu-kaibozu_ROBE-45_atlas-21736.pdf",
+      "source_pdf": "osl_furesu-kaibozu_ROBE-45_atlas.pdf"
+    },
+    {
+      "identifier": "handatlashumananatomy1923v2",
+      "title": "Hand-atlas of human anatomy",
+      "creator": "Spalteholz, Werner, 1861-1940",
+      "subjects": [
+        "anatomy",
+        "Human anatomy -- Atlases",
+        "Anatomie -- Atlas",
+        "Human anatomy",
+        "Anatomy"
+      ],
+      "date": "1923-01-01T00:00:00Z",
+      "description": [
+        "anatomy",
+        "3 volumes 26 cm",
+        "I. Bones, joints, ligaments.-II. Regions, muscles, fasciae, heart, blood-vessels.-III. Viscera, brain, nerves, sense-organs"
+      ],
+      "downloads": 312,
+      "file": "books/handatlashumananatomy1923v2.pdf",
+      "source_pdf": "handatlashumananatomy1923v2.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-osl_furesu-kaibozu_ROBE-45-21659",
+      "title": "Furesu kaibōzu",
+      "creator": "Fles, Joseph Alexander, 1819-1905, author",
+      "subjects": [
+        "Anatomy, Artistic.",
+        "Human anatomy.",
+        "Human anatomy -- Atlases.",
+        "Medical illustration.",
+        "Anatomy, Artistic",
+        "Medical Illustration",
+        "Anatomie artistique.",
+        "Anatomie humaine.",
+        "Anatomie humaine -- Atlas.",
+        "Illustration médicale.",
+        "McGill University Library Digitized Title",
+        "Human anatomy",
+        "Human anatomy -- Atlases",
+        "Medical illustration",
+        "Anatomie artistique",
+        "Anatomie humaine",
+        "Anatomie humaine -- Atlas",
+        "Illustration médicale",
+        "East Asian Language Works Project"
+      ],
+      "date": "1872-01-01T00:00:00Z",
+      "description": [
+        "56 unnumbered pages : all illustrations ; 22 cm + 1 commentary",
+        "56 unnumbered pages : 22 cm +",
+        "Translation of: Handleiding tot de stelselmatig beschrijvende ontleedkunde van den mensch / Joseph Alexander Fles. Utrecht, 1855",
+        "\"Shishisai zōhan\"--Page [2] of cover (mikaeshi)",
+        "Title from lining paper",
+        "In accordion binding (orihon)",
+        "Accompanied by 1 folding book entitled: Furesu kaibōzu / Naka Kin'ya yakujutsu ; Aono Sanshū tesugō"
+      ],
+      "downloads": 228,
+      "file": "books/McGillLibrary-osl_furesu-kaibozu_ROBE-45-21659.pdf",
+      "source_pdf": "osl_furesu-kaibozu_ROBE-45.pdf"
+    },
+    {
+      "identifier": "cu31924003110347",
+      "title": "Hand atlas of human anatomy",
+      "creator": "Spalteholz, Werner, 1861-1940",
+      "subjects": [
+        "Human anatomy",
+        "Human anatomy -- Atlases"
+      ],
+      "date": "1900-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "v. 1. Bones, joints, ligaments.--v. 2. Regions, muscles, fasciae, heart, blood vessels.--v. 3. Viscera, brain, nerves, sense-organs",
+        "3 v. 26 cm"
+      ],
+      "downloads": 9963,
+      "file": "books/cu31924003110347.pdf",
+      "source_pdf": "cu31924003110347.pdf"
+    },
+    {
+      "identifier": "gri_33125009857653",
+      "title": "Lehre von den knochen und muskeln : von den verhaeltnissen des menschlichen koerpers und von den verkuerzungen",
+      "creator": "Schadow, Johann Gottfried, 1764-1850",
+      "subjects": [
+        "Anatomy, Artistic",
+        "Human anatomy -- Atlases"
+      ],
+      "date": "1892-01-01T00:00:00Z",
+      "description": "[11] p., 30 leaves of plates : 48 cm",
+      "downloads": 249,
+      "file": "books/gri_33125009857653.pdf",
+      "source_pdf": "gri_33125009857653.pdf"
+    },
+    {
+      "identifier": "illustrationsdi02fordgoog",
+      "title": "Illustrations of dissections in a series of original colored plates, the size of life, representing the dissection of the human body",
+      "creator": "Ellis, George Viner, 1812-1900",
+      "subjects": [
+        "Human anatomy -- Atlases",
+        "Human dissection -- Atlases",
+        "Anatomy",
+        "Dissection",
+        "Human anatomy",
+        "Human dissection"
+      ],
+      "date": "1882-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.",
+        "2 volumes",
+        "Will not digitize 20130919",
+        "Includes bibliographical references and index"
+      ],
+      "downloads": 883,
+      "file": "books/illustrationsdi02fordgoog.pdf",
+      "source_pdf": "illustrationsdi02fordgoog.pdf"
+    },
+    {
+      "identifier": "atlasofhumananat00toldrich",
+      "title": "An atlas of human anatomy for students and physicians",
+      "creator": [
+        "Toldt, C. (Carl), 1840-1920",
+        "Dalla Rosa, Alois, b. 1848",
+        "Paul, Eden, 1865-1944"
+      ],
+      "subjects": [
+        "Human anatomy",
+        "Anatomy -- atlases"
+      ],
+      "date": "1919-01-01T00:00:00Z",
+      "description": "6 v. in 3. 29 cm",
+      "downloads": 6059,
+      "file": "books/atlasofhumananat00toldrich.pdf",
+      "source_pdf": "atlasofhumananat00toldrich.pdf"
+    },
+    {
+      "identifier": "gri_33125010890602",
+      "title": "Anatomia universale del Paolo Mascagni",
+      "creator": "Mascagni, Paolo, 1752 or 1755-1815, author",
+      "subjects": [
+        "Human anatomy -- Atlases",
+        "Human anatomy",
+        "Anatomy"
+      ],
+      "date": "1833-01-01T00:00:00Z",
+      "description": [
+        "292 pages, 4 unnumbered pages, 150 unnumbered leaves of plates : 46 cm",
+        "Of the plates, 75 are colored and 75 are duplicates in outline drawing",
+        "Includes index"
+      ],
+      "downloads": 899,
+      "file": "books/gri_33125010890602.pdf",
+      "source_pdf": "gri_33125010890602.pdf"
+    },
+    {
+      "identifier": "gri_33125015166438",
+      "title": "Trattato di anatomia pittorica",
+      "creator": "Squanquerillo, Costantino, author, artist",
+      "subjects": [
+        "Anatomy, Artistic",
+        "Anatomy -- Atlases",
+        "Anatomy",
+        "Medical Illustration"
+      ],
+      "date": "1841-01-01T00:00:00Z",
+      "description": [
+        "2 p. ., 64 p. 45 cm",
+        "[2], 64 pages, [1], LXIV leaves of plates : 44 cm (fol.)",
+        "Title vignette",
+        "Text printed in double columns"
+      ],
+      "downloads": 633,
+      "file": "books/gri_33125015166438.pdf",
+      "source_pdf": "gri_33125015166438.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-osl_exposition-anatomique-dagoty_elfWZ260G277e1759-20914",
+      "title": "Exposition anatomique de la structure du corps humain, en vingt planches imprimées avec leur couleur naturelle : pour servir de suplément [sic] à celles qu'on a deja données au public : avec privilége de Sa Majesté, selon le nouvel art, dont M. Gautier, pensionnaire de roi, est inventeur",
+      "creator": "Gautier Dagoty, 1717-1785",
+      "subjects": [
+        "Human anatomy -- Atlases -- Early works to 1800.",
+        "Anatomy -- atlases.",
+        "McGill University Library Digitized Title",
+        "Osler - Osler Room Collection",
+        "Human anatomy -- Atlases -- Early works to 1800",
+        "Anatomy -- atlases",
+        "Human anatomy"
+      ],
+      "date": "1759-01-01T00:00:00Z",
+      "description": [
+        "[38] pages, 20 leaves of plates : color illustrations ; 89 cm",
+        "[38] pages, 20 leaves of plates : 89 cm",
+        "\"A Marseille, de l'imprimerie d'Antoine Favet ...\"",
+        "Title page in red and black; title vignette; text within double-line border",
+        "Contains, following t.p., leaf headed \"Prospectus ...\" ([2] p.), \"première-[quatorzième] table explicative\" ([28] p.), \"Table générale des vingt planches anatomique\" ([6] p.), and the 20 plates; originally issued unbound (cf. Franklin & Franklin)"
+      ],
+      "downloads": 330,
+      "file": "books/McGillLibrary-osl_exposition-anatomique-dagoty_elfWZ260G277e1759-20914.pdf",
+      "source_pdf": "osl_exposition-anatomique-dagoty_elfWZ260G277e1759.pdf"
+    },
+    {
+      "identifier": "atlastextbookofh01sobouoft",
+      "title": "Atlas and text-book of human anatomy",
+      "creator": [
+        "Sobotta, Johannes, 1869-1945",
+        "McMurrich, J. Playfair (James Playfair), 1859-1939"
+      ],
+      "subjects": "Anatomy -- Atlases",
+      "date": "1914-12-15T00:00:00Z",
+      "description": [
+        "v. 1. Bones, ligaments, joints, and muscles -- v. 2. The viscera, including the heart",
+        "14"
+      ],
+      "downloads": 13784,
+      "file": "books/atlastextbookofh01sobouoft.pdf",
+      "source_pdf": "atlastextbookofh01sobouoft.pdf"
+    },
+    {
+      "identifier": "cplatesofbones00chesrich",
+      "title": "Cheselden's Plates of the human bones : correctly reduced from the original copy, accompanied with explanations",
+      "creator": "Cheselden, William, 1688-1752",
+      "subjects": "Skeleton -- Anatomy Atlases",
+      "date": "1811-01-01T00:00:00Z",
+      "description": "[58] p., 14 leaves of plates ; 18 cm",
+      "downloads": 1479,
+      "file": "books/cplatesofbones00chesrich.pdf",
+      "source_pdf": "cplatesofbones00chesrich.pdf"
+    },
+    {
+      "identifier": "cu31924024788584",
+      "title": "Dissections illustrated : a graphic handbook for students of human anatomy",
+      "creator": "Brodie, Charles Gordon",
+      "subjects": [
+        "Dissection",
+        "Human anatomy",
+        "Human anatomy -- Atlases"
+      ],
+      "date": "1892-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "Includes bibliographical references",
+        "pt.1. The upper limb -- pt.2. The lower limb -- pt.3. The head, neck, & thorax -- pt.4. The abdomen",
+        "iv, 142 p., 73 leaves of plates : 29 cm"
+      ],
+      "downloads": 476,
+      "file": "books/cu31924024788584.pdf",
+      "source_pdf": "cu31924024788584.pdf"
+    },
+    {
+      "identifier": "cu31924024788600",
+      "title": "Dissections illustrated : a graphic handbook for students of human anatomy",
+      "creator": "Brodie, Charles Gordon",
+      "subjects": [
+        "Dissection",
+        "Human anatomy",
+        "Human anatomy -- Atlases"
+      ],
+      "date": "1892-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "Includes bibliographical references",
+        "pt.1. The upper limb -- pt.2. The lower limb -- pt.3. The head, neck, & thorax -- pt.4. The abdomen",
+        "iv, 142 p., 73 leaves of plates : 29 cm"
+      ],
+      "downloads": 531,
+      "file": "books/cu31924024788600.pdf",
+      "source_pdf": "cu31924024788600.pdf"
+    },
+    {
+      "identifier": "anatomiedescrip01durgoog",
+      "title": "Anatomie descriptive et comparative du chat : type des mammifères en général et des carnivores et particulier",
+      "creator": "Straus-Durckheim, Hercule, 1790-1865",
+      "subjects": [
+        "Cats -- Anatomy",
+        "Cats",
+        "Mammals -- Anatomy",
+        "Cats -- Anatomy -- Atlases",
+        "Chat domestique -- Anatomie comparée",
+        "Chat domestique -- Histologie",
+        "Cats -- anatomy & histology"
+      ],
+      "date": "1845-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.",
+        "2 volumes and atlas :",
+        "Plate signed: \"Dessiné par l'auteur; imprimé par Chardon ainé et Aze; gravé par Visto.\"",
+        "t. 1 L'Ostéologie.--t. 2 La syndesmologie et la myologie"
+      ],
+      "downloads": 666,
+      "file": "books/anatomiedescrip01durgoog.pdf",
+      "source_pdf": "anatomiedescrip01durgoog.pdf"
+    },
+    {
+      "identifier": "b21913201",
+      "title": "Illustrations of surgical anatomy, with explanatory references; founded on the work of M. Blandin ... Engraved under the direction of the editor, by Messrs. James and John Johnstone",
+      "creator": [
+        "Burt, John G. M. (John Graham Macdonald), 1809-1868",
+        "Blandin, Ph. Fr. (Philippe Frédéric), 1798-1849",
+        "Royal College of Physicians of Edinburgh"
+      ],
+      "subjects": [
+        "Surgery - atlases",
+        "Anatomy - atlases"
+      ],
+      "date": "1831-01-01T00:00:00Z",
+      "description": [
+        "This material has been provided by the Royal College of Physicians of Edinburgh. The original may be consulted at the Royal College of Physicians of Edinburgh",
+        "Royal College of Physicians of Edinburgh"
+      ],
+      "downloads": 300,
+      "file": "books/b21913201.pdf",
+      "source_pdf": "b21913201.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-osl_anatomical-atlas-human-natural-size_elfQSW375a1830z-18000",
+      "title": "Anatomical atlas of the human body in natural size",
+      "creator": "Weber, Moritz Ignaz, 1795-1875",
+      "subjects": [
+        "Human anatomy -- Atlases.",
+        "Anatomy.",
+        "Atlases.",
+        "McGill University Library Digitized Title",
+        "\"",
+        "Human anatomy -- Atlases",
+        "Anatomy",
+        "Human anatomy"
+      ],
+      "date": "1830-01-01T00:00:00Z",
+      "description": [
+        "1 volume : all illustrations (some color) ; 55 x 74 cm",
+        "1 volume : 55 x 74 cm",
+        "Plates, with an engraved title page",
+        "Remainder of imprint information: \" ... and sold by H. Baillière, 219 Regent Street at London.\"",
+        "On cover of some copies: Weber's anatomical atlas",
+        "Originally published in German as: \"Anatomischer Atlas des menschichen Körpers, in natürlicher Grösse.\"",
+        "Related title: \"Explanation of the Anatomical atlas of the human body in natural size,\" published in German as: \"Erklärung des anatomischen Atlasses.\"",
+        "McGill University Library, Osler Library copy: 76 plates: [9] folded plates, each in 4 sections, and plates numbered I-XL, without plate XXXIX"
+      ],
+      "downloads": 1056,
+      "file": "books/McGillLibrary-osl_anatomical-atlas-human-natural-size_elfQSW375a1830z-18000.pdf",
+      "source_pdf": "osl_anatomical-atlas-human-natural-size_elfQSW375a1830z.pdf"
+    },
+    {
+      "identifier": "04989856.5934.emory.edu",
+      "title": "A System of the anatomy of the human body : illustrated by upwards of two hundred tables, taken partly from the most celebrated authors, and partly from nature",
+      "creator": "Fyfe, Andrew, 1754-1824",
+      "subjects": [
+        "Human anatomy--Atlases",
+        "Anatomy",
+        "Animal Structures"
+      ],
+      "date": "1814-01-01T00:00:00Z",
+      "description": "Language: English Physical Type/Description: 3 volumes, 252 color plates : illustrations ; 32 cm Source of Acquisition: Purchase, Harris Collection, 1926. General Note: Etchings by W. & D. Lizars, Edinr., lithographs by R. Cooper and A. Fyfe, aquatints by A. Fyfe. Local Note: The online edition of this book in the public domain, i.e., not protected by copyright, has been produced by the Emory University Digital Library Publications Program. HEALTH: Added as part of 2008 Rare Book Project.   Additional Physical Form: Also available online. Ownership and Custodial History: \"C. Widmer,\" former owner's name inscribed on title pages. Binding Note: Early 20th-century library binding with green cloth, gold stamping on spine, printed endpapers.",
+      "downloads": 1055,
+      "file": "books/04989856.5934.emory.edu.pdf",
+      "source_pdf": "04989856_5934.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-osl_joseph-maclises-surgical-anatomy_elfWOM1655s1851-21691",
+      "title": "Surgical anatomy",
+      "creator": "Maclise, Joseph, author",
+      "subjects": [
+        "Anatomy, Surgical and topographical.",
+        "Anatomy -- atlases.",
+        "Surgical Procedures, Operative -- atlases.",
+        "Anatomy, Regional",
+        "Anatomie topographique.",
+        "Atlas",
+        "McGill University Library Digitized Title",
+        "Osler - Robertson Collection",
+        "Anatomy, Surgical and topographical",
+        "Anatomy -- atlases",
+        "Surgical Procedures, Operative -- atlases",
+        "Anatomie topographique"
+      ],
+      "date": "1851-01-01T00:00:00Z",
+      "description": [
+        "156 pages, 68 leaves of plates : color illustrations ; 37 cm",
+        "156 pages, 68 leaves of plates : 37 cm",
+        "Includes bibliographical references"
+      ],
+      "downloads": 314,
+      "file": "books/McGillLibrary-osl_joseph-maclises-surgical-anatomy_elfWOM1655s1851-21691.pdf",
+      "source_pdf": "osl_joseph-maclises-surgical-anatomy_elfWOM1655s1851.pdf"
+    },
+    {
+      "identifier": "handatlashumananatomy1923v3",
+      "title": "Hand-atlas of human anatomy",
+      "creator": "Spalteholz, Werner, 1861-1940",
+      "subjects": [
+        "anatomy",
+        "Human anatomy -- Atlases",
+        "Anatomie -- Atlas",
+        "Human anatomy",
+        "Anatomy"
+      ],
+      "date": "1923-01-01T00:00:00Z",
+      "description": [
+        "anatomy",
+        "3 volumes 26 cm",
+        "I. Bones, joints, ligaments.-II. Regions, muscles, fasciae, heart, blood-vessels.-III. Viscera, brain, nerves, sense-organs"
+      ],
+      "downloads": 240,
+      "file": "books/handatlashumananatomy1923v3.pdf",
+      "source_pdf": "handatlashumananatomy1923v3.pdf"
+    },
+    {
+      "identifier": "103505Watermarked",
+      "title": "Hand atlas of human anatomy",
+      "creator": "Werner Spalteholz",
+      "subjects": "Anatomy--atlases.",
+      "date": "1900-01-01T00:00:00Z",
+      "description": "Description 3 volumes : illustrations ; 26 cm. OCoLC o12001253 Local Call Number QM25 .S72 1900A ICO Catalog Record URL ICO Catalog Item ID 103505",
+      "downloads": 785,
+      "file": "books/103505Watermarked.pdf",
+      "source_pdf": "103505-watermarked.pdf"
+    },
+    {
+      "identifier": "1858366.med.yale.edu",
+      "title": "A guide to operations on the brain / by Alec Fraser.",
+      "creator": "Fraser, Alec, 1853-1909.",
+      "subjects": [
+        "Brain--Anatomy--Atlases.",
+        "Brain--Surgery."
+      ],
+      "date": "1890-01-01T00:00:00Z",
+      "description": "London : J. & A. Churchill, 1890 . [3] leaves, 24 pages, 42 leaves of plates : ill. ; 44 cm.",
+      "downloads": 452,
+      "file": "books/1858366.med.yale.edu.pdf",
+      "source_pdf": "Fraser_Guide to Operations on the Brain.pdf"
+    },
+    {
+      "identifier": "103501Watermarked",
+      "title": "Handatlas der Anatomie des Menschen : mit unterstützung von Wilhelm His",
+      "creator": "Spalteholz, Werner, 1861-1940",
+      "subjects": [
+        "Anatomy",
+        "Anatomy--atlases"
+      ],
+      "date": "1919-01-01T00:00:00Z",
+      "description": "In German Edition 9. Aufl. Description 3 volumes : illustrations (some color) ; 25 cm. OCoLC 5634015 LC Call Number QM25 .S72 1919 Local Call Number QM25 .S72 1919 v. 1-2 ICO Catalog Record URL ICO Catalog Item ID 103501",
+      "downloads": 724,
+      "file": "books/103501Watermarked.pdf",
+      "source_pdf": "103501-watermarked.pdf"
+    },
+    {
+      "identifier": "04989856.5936.emory.edu",
+      "title": "A System of the anatomy of the human body : illustrated by upwards of two hundred tables, taken partly from the most celebrated authors, and partly from nature",
+      "creator": "Fyfe, Andrew, 1754-1824",
+      "subjects": [
+        "Human anatomy--Atlases",
+        "Anatomy",
+        "Animal Structures"
+      ],
+      "date": "1814-01-01T00:00:00Z",
+      "description": "Language: English Physical Type/Description: 3 volumes, 252 color plates : illustrations ; 32 cm Source of Acquisition: Purchase, Harris Collection, 1926. General Note: Etchings by W. & D. Lizars, Edinr., lithographs by R. Cooper and A. Fyfe, aquatints by A. Fyfe. Local Note: The online edition of this book in the public domain, i.e., not protected by copyright, has been produced by the Emory University Digital Library Publications Program. HEALTH: Added as part of 2008 Rare Book Project.  Additional Physical Form: Also available online. Ownership and Custodial History: \"C. Widmer,\" former owner's name inscribed on title pages. Binding Note: Early 20th-century library binding with green cloth, gold stamping on spine, printed endpapers.",
+      "downloads": 1250,
+      "file": "books/04989856.5936.emory.edu.pdf",
+      "source_pdf": "04989856_5936.pdf"
+    }
+  ]
+}

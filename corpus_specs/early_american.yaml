@@ -1,0 +1,74 @@
+early_american:
+  description: |
+    American literature from the colonial period through the Civil War era
+    and into the Gilded Age (1620-1900). Covers the development of a
+    distinctly American literary voice including transcendentalism,
+    romanticism, and early realism.
+
+  source: gutenberg
+
+  search_strategy:
+    topics:
+      - "American literature"
+      - "American fiction"
+      - "American poetry"
+    author_years: [1780, 1920]
+    languages: ["en"]
+
+  target_count: 120
+
+  evaluator_model: gpt-5-mini
+  confidence_threshold: 0.7
+
+  validation_prompt: |
+    You are evaluating whether a book belongs in a corpus of EARLY AMERICAN
+    LITERATURE (1620-1900).
+
+    TEMPORAL REQUIREMENT (CRITICAL):
+    The work must have been PUBLISHED before 1900. This corpus covers
+    American literature from the colonial period through the Gilded Age.
+    Modernist works from the 20th century (Hemingway, Fitzgerald, Faulkner)
+    do NOT belong.
+
+    NATIONALITY REQUIREMENT:
+    The author must be AMERICAN (born in or immigrated to the United States).
+    British and other non-American authors writing about America do NOT
+    qualify unless they became American citizens.
+
+    GENRE REQUIREMENTS:
+    Accept fiction, poetry, essays, and literary non-fiction by American
+    authors. The work should have lasting literary significance, not just
+    popular entertainment of the era.
+
+    CANONICAL AUTHORS (for calibration):
+    - Nathaniel Hawthorne (The Scarlet Letter, House of Seven Gables)
+    - Herman Melville (Moby Dick, Billy Budd)
+    - Mark Twain (Huckleberry Finn, Tom Sawyer)
+    - Edgar Allan Poe (Tales, poetry)
+    - Washington Irving (Sketch-Book)
+    - Henry David Thoreau (Walden)
+    - Ralph Waldo Emerson (Essays, Nature)
+    - Walt Whitman (Leaves of Grass)
+    - Emily Dickinson (Poems)
+    - James Fenimore Cooper (Leatherstocking Tales)
+    - Harriet Beecher Stowe (Uncle Tom's Cabin)
+    - Louisa May Alcott (Little Women)
+    - Henry James (Portrait of a Lady)
+    - Stephen Crane (Red Badge of Courage)
+
+    INCLUDE:
+    - American novels and story collections
+    - American poetry collections
+    - Transcendentalist essays and philosophy
+    - Regional literature (New England, frontier, Southern)
+    - Early American realist fiction
+
+    EXCLUDE:
+    - Works published after 1900
+    - British authors writing about America
+    - Non-literary works (purely historical, political, religious)
+    - Children's literature without literary significance
+    - Dime novels and purely commercial fiction
+    - Literary criticism about American literature
+
+    Verify the author is American and the publication predates 1900.

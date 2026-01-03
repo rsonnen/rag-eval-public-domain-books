@@ -28,7 +28,7 @@ lint:
 
 typecheck:
 	@echo "Running mypy type checking..."
-	uv run mypy build_gutenberg.py build_archive.py
+	uv run mypy download_books.py build_gutenberg.py build_archive.py
 
 security:
 	@echo "Running security checks with bandit..."
